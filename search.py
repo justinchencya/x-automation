@@ -8,7 +8,7 @@ import pandas as pd
 load_dotenv()
 
 # Get environment variables
-bearer_token = os.getenv('BEARER_TOKEN')
+bearer_token = os.getenv('X_BEARER_TOKEN')
 
 # Create client with OAuth2 access token
 client = tweepy.Client(bearer_token=bearer_token)
@@ -24,8 +24,9 @@ def search_recent_tweets(search_window_min, query, max_results):
   end_time = datetime.now()
   start_time = end_time - timedelta(minutes=search_window_min)
 
-  start_time = datetime.strftime(start_time, '%Y-%m-%d%H:%M:%S')
-  end_time = datetime.strftime(end_time, '%Y-%m-%d%H:%M:%S')
+  # Format dates in RFC3339 format (ISO 8601)
+  start_time = start_time.strftime('%Y-%m-%dT%H:%M:%SZ')
+  end_time = end_time.strftime('%Y-%m-%dT%H:%M:%SZ')
 
   results = client.search_recent_tweets(
       start_time=start_time, 
