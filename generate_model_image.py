@@ -2,7 +2,15 @@ from PIL import Image
 from gradio_client import Client
 import matplotlib.pyplot as plt
 
+DIR_MODEL_IMAGES = "data/model_images"
+
 def generate_image_flux(prompt, save_file_name):
+    """
+    Generates an image using Flux.1-schnell model
+    prompt: the prompt for the image
+    save_file_name: the file name to save the image (with extension)
+    """
+
     client = Client("black-forest-labs/FLUX.1-schnell")
 
     result = client.predict(
@@ -19,11 +27,11 @@ def generate_image_flux(prompt, save_file_name):
     # plt.imshow(image)
     # plt.axis('off')  
     # plt.show()
-    image.save(f"{save_file_name}.png")
+    image.save(f"{DIR_MODEL_IMAGES}/{save_file_name}")
 
     return image
 
 if __name__ == "__main__":
     prompt = input("Enter the prompt for the image: ")
-    save_file_name = input("Enter the file name (without extension) to save the image: ")
-    generate_image_flux(prompt, f"data/model_images/{save_file_name}")
+    save_file_name = input("Enter the file name (with extension) to save the image: ")
+    generate_image_flux(prompt, save_file_name)

@@ -8,6 +8,9 @@ import matplotlib.pyplot as plt
 from dotenv import load_dotenv
 import os
 
+DIR_MODEL_IMAGES = "data/model_images"
+DIR_GARMENT_IMAGES = "data/garment_images"
+DIR_TRYON_RESULTS = "data/tryon_results"
 # Load environment variables from .env file
 load_dotenv()
 
@@ -15,6 +18,11 @@ load_dotenv()
 bearer_token = os.getenv('FASHN_BEARER_TOKEN')
 
 def load_image(file_name):
+    """
+    Loads an image from a file
+    file_name: the file name of the image (with extension)
+    """
+
     img = Image.open(file_name)
     img = img.convert("RGB")  # Ensure the image is in RGB format
     img.load()
@@ -22,7 +30,10 @@ def load_image(file_name):
     return data
 
 def encode_img_to_base64(img: np.array) -> str:
-    """Encodes an image as a JPEG in Base64 format."""
+    """
+    Encodes an image as a JPEG in Base64 format.
+    img: the image to encode
+    """
     # Convert the image from RGB to BGR
     img_bgr = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
 
@@ -36,6 +47,12 @@ def encode_img_to_base64(img: np.array) -> str:
     return img
 
 def fetch_and_save_image(url, filename):
+    """
+    Fetches an image from a URL and saves it to a file
+    url: the URL of the image
+    filename: the file name to save the image (with extension)
+    """
+
     img_data = requests.get(url).content
 
     with open(filename, 'wb') as handler:
@@ -55,13 +72,30 @@ def get_virtual_try_on(
     mode: str = "balanced",
     seed: int = 42,
     num_samples: int = 1,
-    save_file_name: str = 'fashn_result'
+    save_file_name: str = 'fashn_result.png'
     ):
+    """
+    Generates a virtual try-on image with FASHN API
+    model_image: the model image file name (with extension)
+    garment_image: the garment image file name (with extension)
+    category: the category of the garment ('tops' | 'bottoms' | 'one-pieces')
+    nsfw_filter: whether to filter out NSFW images
+    cover_feet: whether to cover the feet
+    adjust_hands: whether to adjust the hands
+    restore_background: whether to restore the background
+    restore_clothes: whether to restore the clothes
+    garment_photo_type: the type of garment photo ('auto' | 'model' | 'flat')
+    long_top: whether the garment is a long top
+    mode: the mode of the virtual try-on ('balanced' | 'quality' | 'speed')
+    seed: the seed for the virtual try-on
+    num_samples: the number of samples to generate
+    save_file_name: the file name to save the results (with extension)
+    """
 
-    model_img = load_image(model_image)
+    model_img = load_image(f"{DIR_MODEL_IMAGES}/{model_image}")
     model_img = encode_img_to_base64(model_img)
 
-    garment_img = load_image(garment_image)
+    garment_img = load_image(f"{DIR_GARMENT_IMAGES}/{garment_image}")
     garment_img = encode_img_to_base64(garment_img)
 
     response = requests.post(
@@ -95,12 +129,15 @@ def get_virtual_try_on(
 
         print("Fetching and save results...")
 
+        save_file_name, save_file_name_extension = save_file_name.split('.')
+
         for i in range(num_samples):
             image_url = result['output'][i]
 
-            fetch_and_save_image(image_url, f"data/tryon_results/{save_file_name}{i}.png")
+            save_file_path = f"{DIR_TRYON_RESULTS}/{save_file_name}{i}.{save_file_name_extension}"
+            fetch_and_save_image(image_url, save_file_path)
 
-            # image = Image.open(f"data/tryon_results/{save_file_name}{i}.png")
+            # image = Image.open(save_file_path)
             
             # plt.imshow(image)
             # plt.axis('off')  
@@ -108,6 +145,7 @@ def get_virtual_try_on(
 
         return result['output']
     else:
+        print("Failed to generate virtual try-on.")
         return result
 
 if __name__ == "__main__":
@@ -116,7 +154,4 @@ if __name__ == "__main__":
     category = input("Enter the category ('tops' | 'bottoms' | 'one-pieces'): ")
     num_sample = int(input("Enter the number of samples to generate: "))
 
-    model_image_path = f"data/model_images/{model_image}"
-    garment_image_path = f"data/garment_images/{garment_image}"
-
-    result = get_virtual_try_on(model_image_path, garment_image_path, category=category, mode='quality', num_samples=num_sample)
+    result = get_virtual_try_on(model_image, garment_image, category=category, mode='quality', num_samples=num_sample)
