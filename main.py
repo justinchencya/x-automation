@@ -15,3 +15,9 @@ if __name__ == "__main__":
 
     result = get_virtual_try_on(model_image, garment_image, category=category, mode='quality', num_samples=num_sample, save_file_name=save_file_name)
     print(result)
+
+    post_tweet = input("Do you want to post a tweet? (y/n): ")
+    if post_tweet == 'y':
+        tweet_text = input("Enter the tweet text: ")
+        tweet_image_file_name = input("Enter the tweet image file name (with extension): ")
+        create_tweet_with_media(tweet_text, f"{DIR_TRYON_RESULTS}/{tweet_image_file_name}")
