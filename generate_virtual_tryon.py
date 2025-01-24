@@ -4,13 +4,14 @@ import cv2
 import base64
 from PIL import Image
 import time
-import matplotlib.pyplot as plt
+from datetime import datetime
 from dotenv import load_dotenv
 import os
-
+from file_utils import *
 DIR_MODEL_IMAGES = "data/model_images"
 DIR_GARMENT_IMAGES = "data/garment_images"
 DIR_TRYON_RESULTS = "data/tryon_results"
+
 # Load environment variables from .env file
 load_dotenv()
 
@@ -59,8 +60,9 @@ def fetch_and_save_image(url, filename):
         handler.write(img_data)
 
 def get_virtual_try_on(
-    model_image: str,
-    garment_image: str,
+    model_filename: str,
+    garment_filename: str,
+    save_filename: str,
     category: str,
     nsfw_filter: bool = True,
     cover_feet: bool = False,
@@ -71,13 +73,13 @@ def get_virtual_try_on(
     long_top: bool = False,
     mode: str = "balanced",
     seed: int = 42,
-    num_samples: int = 1,
-    save_file_name: str = 'fashn_result.png'
+    num_samples: int = 1
     ):
     """
     Generates a virtual try-on image with FASHN API
-    model_image: the model image file name (with extension)
-    garment_image: the garment image file name (with extension)
+    model_filename: the model image file name (with extension)
+    garment_filename: the garment image file name (with extension)
+    save_filename: the file name to save the results (with extension)
     category: the category of the garment ('tops' | 'bottoms' | 'one-pieces')
     nsfw_filter: whether to filter out NSFW images
     cover_feet: whether to cover the feet
@@ -89,27 +91,39 @@ def get_virtual_try_on(
     mode: the mode of the virtual try-on ('balanced' | 'quality' | 'speed')
     seed: the seed for the virtual try-on
     num_samples: the number of samples to generate
-    save_file_name: the file name to save the results (with extension)
     """
 
-    model_img = load_image(f"{DIR_MODEL_IMAGES}/{model_image}")
-    model_img = encode_img_to_base64(model_img)
+    model_image = load_image(f"{DIR_MODEL_IMAGES}/{model_filename}")
+    model_image = encode_img_to_base64(model_image)
 
-    garment_img = load_image(f"{DIR_GARMENT_IMAGES}/{garment_image}")
-    garment_img = encode_img_to_base64(garment_img)
+    garment_image = load_image(f"{DIR_GARMENT_IMAGES}/{garment_filename}")
+    garment_image = encode_img_to_base64(garment_image)
 
-    response = requests.post(
-        "https://api.fashn.ai/v1/run",
-        headers={"Authorization": f"Bearer {bearer_token}", "Content-Type": "application/json"},
-        json={
-        "model_image": model_img,
-        "garment_image": garment_img,
-        "category": "tops",
-        "num_samples": num_samples
-        },
-    )
+    # Create default save file name if not provided
+    if save_filename is None:
+        model_name = model_filename.split('.')[0]
+        garment_name = garment_filename.split('.')[0]
+        timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+        save_filename = f"tryon_result_{model_name}_{garment_name}_{timestamp}.png"
+        print(f"Save file name: {save_filename}")
 
-    id = response.json()['id']
+    try:    
+        response = requests.post(
+            "https://api.fashn.ai/v1/run",
+            headers={"Authorization": f"Bearer {bearer_token}", "Content-Type": "application/json"},
+            json={
+            "model_image": model_image,
+            "garment_image": garment_image,
+            "category": "tops",
+            "num_samples": num_samples
+            },
+        )
+
+        id = response.json()['id']
+    except Exception as e:
+        print("Error: Failed to generate virtual try-on.")
+        print(f"Error: {e}")
+        return None
 
     response = None
     print("Generating virtual try-on...")
@@ -129,29 +143,31 @@ def get_virtual_try_on(
 
         print("Fetching and save results...")
 
-        save_file_name, save_file_name_extension = save_file_name.split('.')
-
-        for i in range(num_samples):
-            image_url = result['output'][i]
-
-            save_file_path = f"{DIR_TRYON_RESULTS}/{save_file_name}{i}.{save_file_name_extension}"
+        if num_samples == 1:
+            image_url = result['output'][0]
+            save_file_path = f"{DIR_TRYON_RESULTS}/{save_filename}"
             fetch_and_save_image(image_url, save_file_path)
+        else:
+            for i in range(num_samples):
+                image_url = result['output'][i]
 
-            # image = Image.open(save_file_path)
-            
-            # plt.imshow(image)
-            # plt.axis('off')  
-            # plt.show()
+                save_file_path = f"{DIR_TRYON_RESULTS}/{save_filename.split('.')[0]}_{i}.{save_filename.split('.')[1]}"
+                fetch_and_save_image(image_url, save_file_path)
 
         return result['output']
     else:
         print("Failed to generate virtual try-on.")
+        print(f"Error: {result}")
         return result
 
 if __name__ == "__main__":
-    model_image = input("Enter the model image file name (with extension): ")
-    garment_image = input("Enter the garment image file name (with extension): ")
+    print_file_options(list_files_in_directory(DIR_MODEL_IMAGES), DIR_MODEL_IMAGES)
+    model_filename = input("Enter the model image file name (with extension): ")
+    print_file_options(list_files_in_directory(DIR_GARMENT_IMAGES), DIR_GARMENT_IMAGES)
+    garment_filename = input("Enter the garment image file name (with extension): ")
     category = input("Enter the category ('tops' | 'bottoms' | 'one-pieces'): ")
-    num_sample = int(input("Enter the number of samples to generate: "))
+    num_sample = int(input("Enter the number of samples to generate (1-4): "))
+    # print_file_options(list_files_in_directory(DIR_TRYON_RESULTS), DIR_TRYON_RESULTS)
+    # save_filename = input("Enter the file name to save the results (with extension): ")
 
-    result = get_virtual_try_on(model_image, garment_image, category=category, mode='quality', num_samples=num_sample)
+    result = get_virtual_try_on(model_filename, garment_filename, save_filename=None, category=category, mode='quality', num_samples=num_sample)
