@@ -104,7 +104,7 @@ def get_virtual_try_on(
         model_name = model_filename.split('.')[0]
         garment_name = garment_filename.split('.')[0]
         timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-        save_filename = f"tryon_result_{model_name}_{garment_name}_{timestamp}.png"
+        save_filename = f"{model_name}_{garment_name}_{timestamp}.png"
         print(f"Save file name: {save_filename}")
 
     try:    
@@ -112,10 +112,19 @@ def get_virtual_try_on(
             "https://api.fashn.ai/v1/run",
             headers={"Authorization": f"Bearer {bearer_token}", "Content-Type": "application/json"},
             json={
-            "model_image": model_image,
-            "garment_image": garment_image,
-            "category": "tops",
-            "num_samples": num_samples
+                "model_image": model_image,
+                "garment_image": garment_image,
+                "category": category,
+                "num_samples": num_samples,
+                "nsfw_filter": nsfw_filter,
+                "cover_feet": cover_feet,
+                "adjust_hands": adjust_hands,
+                "restore_background": restore_background,
+                "restore_clothes": restore_clothes,
+                "garment_photo_type": garment_photo_type,
+                "long_top": long_top,
+                "mode": mode,
+                "seed": seed
             },
         )
 
@@ -161,13 +170,11 @@ def get_virtual_try_on(
         return result
 
 if __name__ == "__main__":
-    print_file_options(list_files_in_directory(DIR_MODEL_IMAGES), DIR_MODEL_IMAGES)
-    model_filename = input("Enter the model image file name (with extension): ")
-    print_file_options(list_files_in_directory(DIR_GARMENT_IMAGES), DIR_GARMENT_IMAGES)
-    garment_filename = input("Enter the garment image file name (with extension): ")
+    print("Select model image:")
+    model_filename = get_valid_file_input(DIR_MODEL_IMAGES)
+    print("Select garment image:")
+    garment_filename = get_valid_file_input(DIR_GARMENT_IMAGES)
     category = input("Enter the category ('tops' | 'bottoms' | 'one-pieces'): ")
     num_sample = int(input("Enter the number of samples to generate (1-4): "))
-    # print_file_options(list_files_in_directory(DIR_TRYON_RESULTS), DIR_TRYON_RESULTS)
-    # save_filename = input("Enter the file name to save the results (with extension): ")
 
     result = get_virtual_try_on(model_filename, garment_filename, save_filename=None, category=category, mode='quality', num_samples=num_sample)

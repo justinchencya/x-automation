@@ -13,7 +13,7 @@ def print_file_options(files: List[str], directory: str):
     for idx, file in enumerate(files, 1):
         print(f"{idx}. {file}")
 
-def get_valid_file_input(prompt: str, directory: str) -> Optional[str]:
+def get_valid_file_input(directory: str) -> Optional[str]:
     """
     Get valid file input from user with numbered options.
     Returns the selected filename or None if user wants to exit.
@@ -25,12 +25,7 @@ def get_valid_file_input(prompt: str, directory: str) -> Optional[str]:
             return None
         
         print_file_options(files, directory)
-        print("\nEnter the number of the file you want to select")
-        print("Or enter 'q' to quit")
-        choice = input(f"{prompt}: ").strip()
-        
-        if choice.lower() == 'q':
-            return None
+        choice = input(f"Enter selection: ").strip()
         
         try:
             idx = int(choice)

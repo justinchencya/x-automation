@@ -4,22 +4,21 @@ from generate_virtual_tryon import *
 from generate_model_image import *
 
 if __name__ == "__main__":
-    print_file_options(list_files_in_directory(DIR_MODEL_IMAGES), DIR_MODEL_IMAGES)
-    model_filename = input("Enter the model image file name (with extension): ")
-    try:
-        model_image_file_path = get_file_path(model_filename, DIR_MODEL_IMAGES)
-        assert model_image_file_path is not None
-    except:
-        print("Model image not found. Creating new model image...")
-        model_image_prompt = input("Enter the model image prompt: ")
-        generate_image_flux(model_image_prompt, model_filename)
+    model_option = input("Do you want to generate a new model image? (y/n): ")
 
-    print_file_options(list_files_in_directory(DIR_GARMENT_IMAGES), DIR_GARMENT_IMAGES)
-    garment_filename = input("Enter the garment image file name (with extension): ")
+    if model_option == 'y':
+        model_image_prompt = input("Enter the model image prompt: ")
+        model_filename = input("Enter the file name (with extension) to save the image: ")
+        generate_image_flux(model_image_prompt, model_filename)
+    else:
+        print("Select model image:")
+        model_filename = get_valid_file_input(DIR_MODEL_IMAGES)
+
+    
+    print("Select garment image:")
+    garment_filename = get_valid_file_input(DIR_GARMENT_IMAGES)
     category = input("Enter the category ('tops' | 'bottoms' | 'one-pieces'): ")
     num_sample = int(input("Enter the number of samples to generate (1-4): "))
-    # print_file_options(list_files_in_directory(DIR_TRYON_RESULTS), DIR_TRYON_RESULTS)
-    # save_filename = input("Enter the file name to save the results (with extension): ")
 
     result = get_virtual_try_on(model_filename, garment_filename, save_filename=None, category=category, mode='quality', num_samples=num_sample)
     print(result)
