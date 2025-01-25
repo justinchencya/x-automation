@@ -8,6 +8,7 @@ if __name__ == "__main__":
 
     if model_option == 'y':
         model_image_prompt = input("Enter the model image prompt: ")
+        print_file_options(list_files_in_directory(DIR_MODEL_IMAGES), DIR_MODEL_IMAGES)
         model_filename = input("Enter the file name (with extension) to save the image: ")
         generate_image_flux(model_image_prompt, model_filename)
     else:
