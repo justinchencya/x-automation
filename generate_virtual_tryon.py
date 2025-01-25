@@ -166,7 +166,7 @@ def get_virtual_try_on(
         return result['output']
     else:
         print("Failed to generate virtual try-on.")
-        print(f"Error: {result}")
+        print(response)
         return result
 
 if __name__ == "__main__":
