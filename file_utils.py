@@ -5,7 +5,7 @@ def list_files_in_directory(directory: str) -> List[str]:
     """List all files in a directory."""
     if not os.path.exists(directory):
         return []
-    return [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
+    return sorted([f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))])
 
 def print_file_options(files: List[str], directory: str):
     """Print numbered list of files."""

@@ -174,7 +174,7 @@ if __name__ == "__main__":
     model_filename = get_valid_file_input(DIR_MODEL_IMAGES)
     print("Select garment image:")
     garment_filename = get_valid_file_input(DIR_GARMENT_IMAGES)
-    category = input("Enter the category ('tops' | 'bottoms' | 'one-pieces'): ")
+    # category = input("Enter the category ('tops' | 'bottoms' | 'one-pieces'): ")
     num_sample = int(input("Enter the number of samples to generate (1-4): "))
 
-    result = get_virtual_try_on(model_filename, garment_filename, save_filename=None, category=category, mode='quality', num_samples=num_sample)
+    result = get_virtual_try_on(model_filename, garment_filename, save_filename=None, category="tops", mode='quality', num_samples=num_sample)
