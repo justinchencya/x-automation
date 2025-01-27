@@ -1,13 +1,9 @@
-import requests
-import numpy as np
-import cv2
-import base64
-from PIL import Image
-import time
 from datetime import datetime
 from dotenv import load_dotenv
 import os
+import time
 from file_utils import *
+
 DIR_MODEL_IMAGES = "data/model_images"
 DIR_GARMENT_IMAGES = "data/garment_images"
 DIR_TRYON_RESULTS = "data/tryon_results"
@@ -17,47 +13,6 @@ load_dotenv()
 
 # Get environment variables
 bearer_token = os.getenv('FASHN_BEARER_TOKEN')
-
-def load_image(file_name):
-    """
-    Loads an image from a file
-    file_name: the file name of the image (with extension)
-    """
-
-    img = Image.open(file_name)
-    img = img.convert("RGB")  # Ensure the image is in RGB format
-    img.load()
-    data = np.asarray(img, dtype="uint8")  # Change dtype to uint8
-    return data
-
-def encode_img_to_base64(img: np.array) -> str:
-    """
-    Encodes an image as a JPEG in Base64 format.
-    img: the image to encode
-    """
-    # Convert the image from RGB to BGR
-    img_bgr = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
-
-    # Encode the image to JPEG format
-    _, img_encoded = cv2.imencode(".jpg", img_bgr)
-    img_bytes = img_encoded.tobytes()
-
-    # Encode to Base64
-    img_base64 = base64.b64encode(img_bytes).decode("utf-8")
-    img = f"data:image/jpeg;base64,{img_base64}"
-    return img
-
-def fetch_and_save_image(url, filename):
-    """
-    Fetches an image from a URL and saves it to a file
-    url: the URL of the image
-    filename: the file name to save the image (with extension)
-    """
-
-    img_data = requests.get(url).content
-
-    with open(filename, 'wb') as handler:
-        handler.write(img_data)
 
 def get_virtual_try_on(
     model_filename: str,
