@@ -46,8 +46,8 @@ def generate_image_flux(prompt, save_filename):
         },
         json={
             'prompt': prompt,
-            'width': 1024,
-            'height': 768,
+            'width': 960,
+            'height': 1440, # 2:3 aspect ratio, 1440 is the maximum input allowed
         },
     ).json()
 
