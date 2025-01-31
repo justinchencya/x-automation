@@ -132,4 +132,4 @@ if __name__ == "__main__":
     # category = input("Enter the category ('tops' | 'bottoms' | 'one-pieces'): ")
     num_sample = int(input("Enter the number of samples to generate (1-4): "))
 
-    result = get_virtual_try_on(model_filename, garment_filename, save_filename=None, category="tops", mode='quality', num_samples=num_sample)
+    result = get_virtual_try_on(model_filename, garment_filename, save_filename=None, category="tops", mode='quality', num_samples=num_sample, seed=np.random.randint(0,100))
