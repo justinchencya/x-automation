@@ -92,17 +92,24 @@ def get_virtual_try_on(
     response = None
     print("Generating virtual try-on...")
 
-    while response is None or response.json()['status'] == 'processing':
+    waiting = True
+    while waiting:
         response = requests.get(
             f"https://api.fashn.ai/v1/status/{id}",
             headers={"Authorization": f"Bearer {bearer_token}"},
         )
 
+        if response.json()['status'] in ['failed', 'completed']:
+            waiting = False
+            
         time.sleep(10)
 
     result = response.json()
 
-    if result['status'] == 'completed':
+    if 'status' in response.json() and response.json()['status'] == 'failed':
+        print("Failed to generate virtual try-on.")
+        return result
+    else:
         print("Completed.")
 
         print("Fetching and save results...")
@@ -119,10 +126,6 @@ def get_virtual_try_on(
                 fetch_and_save_image(image_url, save_file_path)
 
         return result['output']
-    else:
-        print("Failed to generate virtual try-on.")
-        print(result['status'])
-        return result
 
 if __name__ == "__main__":
     print("Select model image:")
