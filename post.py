@@ -41,5 +41,3 @@ def create_tweet_with_media(text, media_path):
 if __name__ == "__main__":
     text = input("Enter the text to tweet: ")
     create_tweet(text)
-
-    # create_tweet_with_media("Hello, world!", "data/model_images/model1.png")

@@ -17,6 +17,7 @@ matplotlib==3.10.0
 numpy==2.2.2
 oauthlib==3.2.2
 opencv-python==4.11.0.86
+openai==1.12.0
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
@@ -34,4 +35,5 @@ tweepy==4.15.0
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.3.0
+weibo-api==0.3.3
 websockets==14.2
