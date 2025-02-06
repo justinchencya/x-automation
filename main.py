@@ -3,8 +3,7 @@ from post import *
 import json
 import random
 
-# WEIBO_USER_IDs = ['1727858283', '6444741184', '2192828333', '6083767801', '3894431038'
-WEIBO_USER_IDs = ['3894431038']
+WEIBO_USER_IDs = ['1727858283', '6444741184', '2192828333', '6083767801', '3894431038']
 
 with open('data/posts_tweeted.json', 'r') as file:
     POSTS_TWEETED = json.load(file)
