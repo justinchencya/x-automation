@@ -23,6 +23,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
+    - name: Setup data directory
+      run: |
+        mkdir -p data
+        if [ ! -f data/posts_tweeted.json ]; then
+          cp templates/posts_tweeted_template.json data/posts_tweeted.json
+        fi
+        
     - name: Run script
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

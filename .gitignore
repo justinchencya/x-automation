@@ -39,5 +39,6 @@ ENV/
 .DS_Store
 Thumbs.db 
 
-# Data
-data/
+# Data directory - but keep templates
+data/*
+!data/.gitkeep
