@@ -49,15 +49,20 @@ def summarize_posts(posts, query):
 
     prompt = f"""
     Here are the posts:
+    ---
     {posts_str}
+    ---
+    
     Here is the query:
+    ---
     {query}
+    ---
     """
 
     completion = openai_client.beta.chat.completions.parse(
         model='gpt-4o',
         messages=[
-            {"role": "system", "content": "You are a helpful assistant that filters and summarizesposts based on a query."},
+            {"role": "system", "content": "You are a helpful assistant that filters and summarizes posts based on a query."},
             {"role": "user", "content": prompt}
         ], 
         response_format=PostsSummary
@@ -73,14 +78,14 @@ if __name__ == "__main__":
 
     posts = get_user_posts(user_id)
 
-    # E.g. Find posts sharing AI tools and knowdge and are NOT announcement made by the poster himself. Translate into English to form a Twitter post. Extract and keep embedded URLs to the shared resources if exist.
+    # E.g. Find posts sharing AI tools and knowledge and are NOT announcement made by the poster himself. Translate into English to form a Twitter post. Extract and keep embedded URLs to the shared resources if exist.
     query = input("Query for summarizing posts: ")
 
     posts_summary = summarize_posts(posts, query)
 
     for post_translation in posts_summary.posts:
         print("=" * 50)
-        print(f"ID: \n {post_translation.post_id}")
-        print(f"Original: \n {post_translation.original}")
-        print(f"Translated: \n {post_translation.translated}")
-        print(f"Embedded URL: \n {post_translation.embedded_url}")
+        print(f"ID: \n{post_translation.post_id}")
+        print(f"Original: \n{post_translation.original}")
+        print(f"Translated: \n{post_translation.translated}")
+        print(f"Embedded URL: \n{post_translation.embedded_url}")
