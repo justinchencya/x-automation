@@ -9,7 +9,8 @@ with open('data/posts_tweeted.json', 'r') as file:
     POSTS_TWEETED = json.load(file)
 
 def tweet_post(reviewed_processed_post):
-    content = create_tweet(reviewed_processed_post.refined_with_url)
+    content = reviewed_processed_post.refined_with_url
+    create_tweet(content)
 
     return content
 
