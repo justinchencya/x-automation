@@ -49,10 +49,12 @@ if __name__ == "__main__":
 
         tweet_content = tweet_post(selected)
 
+        print(f"Tweeting:")
+        print(tweet_content)
+
         POSTS_TWEETED[selected.post_id] = {
             "original": selected.original,
-            "refined_with_url": selected.refined_with_url,
-            "tweet_content": tweet_content
+            "refined_with_url": selected.refined_with_url
         }
 
         with open("data/posts_tweeted.json", "w") as f:
