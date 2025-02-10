@@ -46,8 +46,7 @@ if __name__ == "__main__":
     if len(candidates) > 0:
         selected = random.choice(candidates)
 
-        # tweet_content = tweet_post(selected)
-        tweet_content = selected.refined_with_url
+        tweet_content = tweet_post(selected)
 
         POSTS_TWEETED[selected.post_id] = {
             "original": selected.original,
