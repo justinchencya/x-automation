@@ -39,7 +39,14 @@ The repository is configured to run the script automatically using GitHub Action
 ## Setting up GitHub Actions
 1. Push your code to GitHub repository
 
-2. Add Repository Secrets
+2. Configure Workflow Permissions
+   - Go to your repository → Settings → Actions → General
+   - Scroll down to "Workflow permissions"
+   - Select "Read and write permissions"
+   - Click "Save"
+   - This allows GitHub Actions to commit and push changes to the repository
+
+3. Add Repository Secrets
    - Go to your repository → Settings → Secrets and variables → Actions
    - Add the following secrets:
      ```
@@ -52,8 +59,9 @@ The repository is configured to run the script automatically using GitHub Action
      X_CLIENT_ID
      X_CLIENT_SECRET
      ```
+   - Note: You don't need to add GITHUB_TOKEN as it's automatically provided by GitHub Actions
 
-3. Schedule Configuration
+4. Schedule Configuration
    - The bot runs every 4 hours by default
    - You can modify the schedule in `.github/workflows/scheduled-run.yml`:
      ```yaml
@@ -66,7 +74,7 @@ The repository is configured to run the script automatically using GitHub Action
      - Three times a day: `0 8,16,24 * * *`
      - Twice a day: `0 0,12 * * *`
 
-4. Manual Trigger
+5. Manual Trigger
    - You can manually trigger the workflow:
      - Go to Actions tab
      - Select "Scheduled Twitter Bot"
