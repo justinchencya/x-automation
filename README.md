@@ -33,8 +33,7 @@ X_CLIENT_SECRET=your_x_client_secret
 The repository is configured to run the script automatically using GitHub Actions.
 
 ## Directory Structure
-- `templates/posts_tweeted_template.json` - Template for tracking posted tweets
-- `data/` - Directory for runtime data (git-ignored)
+- `data/posts_tweeted.json` - Tracks all posted tweets
 - `.github/workflows/scheduled-run.yml` - GitHub Actions workflow configuration
 
 ## Setting up GitHub Actions
@@ -42,7 +41,7 @@ The repository is configured to run the script automatically using GitHub Action
 
 2. Add Repository Secrets
    - Go to your repository → Settings → Secrets and variables → Actions
-   - Add the following repository secrets:
+   - Add the following secrets:
      ```
      OPENAI_API_KEY
      X_API_KEY
@@ -55,12 +54,12 @@ The repository is configured to run the script automatically using GitHub Action
      ```
 
 3. Schedule Configuration
-   - The bot runs every 6 hours by default
+   - The bot runs every 4 hours by default
    - You can modify the schedule in `.github/workflows/scheduled-run.yml`:
      ```yaml
      on:
        schedule:
-         - cron: '0 */6 * * *'  # Every 6 hours
+         - cron: '0 */4 * * *'  # Every 4 hours
      ```
    - Common cron patterns:
      - Every 8 hours: `0 */8 * * *`
@@ -81,7 +80,7 @@ The repository is configured to run the script automatically using GitHub Action
   - Script execution
   - Any errors or output
 
-## Data Persistence
-- The `data/posts_tweeted.json` file tracks posted tweets
-- It's automatically initialized from the template if not present
-- The file persists between workflow runs
+## Data Tracking
+- All posted tweets are tracked in `data/posts_tweeted.json`
+- The file is automatically updated and committed after each successful run
+- Changes can be monitored through git history

@@ -23,13 +23,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-    - name: Setup data directory
-      run: |
-        mkdir -p data
-        if [ ! -f data/posts_tweeted.json ]; then
-          cp templates/posts_tweeted_template.json data/posts_tweeted.json
-        fi
-        
     - name: Run script
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -41,4 +34,11 @@ jobs:
         X_CLIENT_ID: ${{ secrets.X_CLIENT_ID }}
         X_CLIENT_SECRET: ${{ secrets.X_CLIENT_SECRET }}
       run: |
-        python main.py 
+        python main.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add data/posts_tweeted.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update posts tracking" && git push) 
