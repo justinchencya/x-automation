@@ -8,17 +8,8 @@ WEIBO_USER_IDs = ['1727858283', '6444741184', '2192828333', '6083767801', '38944
 with open('data/posts_tweeted.json', 'r') as file:
     POSTS_TWEETED = json.load(file)
 
-def tweet_post(post_translation):
-    content = f"""
-    {post_translation.translated}
-
-    {post_translation.embedded_url}
-    """
-
-    # print("Will tweet:")
-    # print(content)
-
-    create_tweet(content)
+def tweet_post(reviewed_processed_post):
+    content = create_tweet(reviewed_processed_post.refined_with_url)
 
     return content
 
@@ -26,39 +17,41 @@ if __name__ == "__main__":
     candidates = []
 
     for user_id in WEIBO_USER_IDs:
+        print(f"Processing user {user_id}...")
         posts = get_user_posts(user_id)
 
-        query = """
-        Please help me process the given weibo posts:
-        - Find posts that share AI tools and knowledge, that are full posts (i.e. no 全文 expansions), and that are NOT announcement made by the poster himself. 
-        - Translate into English to form a Twitter post. DO NOT include any links in the translated post.
-        - Extract and keep embedded URLs to the shared resources, but make sure it is a valid URL. Otherwise, ignore it.
-        - We will not be posting any image. So if there's any reference or mention of image in the original post, ignore it.
-        """
+        for post in posts:
+            if post.id not in POSTS_TWEETED:
+                review = review_original_post(post)
 
-        posts_summary = summarize_posts(posts, query)
+                if not review.is_reply_or_forward and review.ai_related and review.knowledge_sharing_content and review.full_post:
+                    # print("=" * 50)
+                    # print("Original Post:")
+                    # print(post.text)
 
-        for post_translation in posts_summary.posts:
-            if post_translation.post_id not in POSTS_TWEETED:
-                print("=" * 50)
-                print(f"ID: \n{post_translation.post_id}")
-                print(f"Original: \n{post_translation.original}")
-                print(f"Translated: \n{post_translation.translated}")
-                print(f"Embedded URL: \n{post_translation.embedded_url}")
+                    # print('\n')
+                    processed_post = process_post(post)
+                    # print("Processed Post:") 
+                    # print(processed_post.translated)
+                    # print(processed_post.embedded_url)
 
-                candidates.append(post_translation)
-            else:
-                print(f"Post {post_translation.post_id} already tweeted.")
+                    # print('\n')
+                    reviewed_processed_post = review_processed_post(processed_post)
+                    # print("Reviewed Post:")
+                    # print(reviewed_processed_post.refined_with_url)
+
+                    print(f"Adding post {post.id} to candidates...")
+                    candidates.append(reviewed_processed_post)
 
     if len(candidates) > 0:
         selected = random.choice(candidates)
 
-        tweet_content = tweet_post(selected)
+        # tweet_content = tweet_post(selected)
+        tweet_content = selected.refined_with_url
 
         POSTS_TWEETED[selected.post_id] = {
             "original": selected.original,
-            "translated": selected.translated,
-            "embedded_url": selected.embedded_url,
+            "refined_with_url": selected.refined_with_url,
             "tweet_content": tweet_content
         }
 
