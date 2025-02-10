@@ -2,8 +2,8 @@ name: Scheduled Twitter Bot
 
 on:
   schedule:
-    # Runs 4 times per day (every 6 hours)
-    - cron: '0 */6 * * *'
+    # Runs 6 times per day (every 4 hours)
+    - cron: '0 */4 * * *'
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 jobs:
