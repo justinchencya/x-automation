@@ -124,6 +124,9 @@ def review_processed_post(processed_post):
     {processed_post.post_id}
     ---
 
+    Original Post:
+    {processed_post.original}
+
     Processed Post:
     {processed_post.translated}
     {processed_post.embedded_url}
