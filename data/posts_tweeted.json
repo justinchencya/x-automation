@@ -18,5 +18,10 @@
         "original": "cursor-tools 是一个旨在为 Cursor 编码代理提供增强能力和 AI 团队协作的命令行工具集合。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Feastlondoner%2Fcursor-tools\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Cursor-tools is a command-line toolset aimed at enhancing capabilities for Cursor coding agents and facilitating AI team collaboration. Address: Web links https://github.com/eastlondoner/cursor-tools",
         "refined_with_url": "Cursor-tools is a command-line toolset aimed at enhancing capabilities for Cursor coding agents and facilitating AI team collaboration. Address: https://github.com/eastlondoner/cursor-tools"
+    },
+    "5132823910944683": {
+        "original": "传闻 Anthropic 本周会发布 Claude 4，也是类似于 DeepSeek R1 的推理模型，据说评分超过 OpenAI 的 o3，并且他们也要上线 AI 编程智能体。",
+        "processed": "Rumor has it that Anthropic will release Claude 4 this week, which is an inference model similar to DeepSeek R1, and it's said to score higher than OpenAI's o3. They are also going to launch AI programming agents.",
+        "refined_with_url": "Rumor has it that Anthropic will release Claude 4 this week, which is an inference model similar to DeepSeek R1, and it's said to score higher than OpenAI's o3. They are also going to launch AI programming agents."
     }
 }
