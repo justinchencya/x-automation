@@ -109,6 +109,7 @@ def process_post(post):
 class ReviewedProcessedPost(BaseModel):
   post_id: str
   original: str
+  processed: str
   refined_with_url: str
 
 def review_processed_post(processed_post):
@@ -173,5 +174,7 @@ if __name__ == "__main__":
             reviewed_processed_post = review_processed_post(processed_post)
             print("Original Post:")
             print(reviewed_processed_post.original)
+            print("Processed Post:")
+            print(reviewed_processed_post.processed)
             print("Reviewed Post with URL:")
             print(reviewed_processed_post.refined_with_url)

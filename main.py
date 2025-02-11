@@ -5,7 +5,7 @@ import random
 
 WEIBO_USER_IDs = ['1727858283', '6444741184', '2192828333', '6083767801', '3894431038']
 
-with open('data/posts_tweeted.json', 'r') as file:
+with open('data/posts_tweeted.json', 'r', encoding='utf-8') as file:
     POSTS_TWEETED = json.load(file)
 
 def tweet_post(reviewed_processed_post):
@@ -52,12 +52,21 @@ if __name__ == "__main__":
         print(f"Tweeting:")
         print(tweet_content)
 
+        # print('\n')
+        # print("Original Post:")
+        # print(selected.original)
+        # print("Processed Post:")
+        # print(selected.processed)
+        # print("Reviewed Post with URL:")
+        # print(selected.refined_with_url)
+
         POSTS_TWEETED[selected.post_id] = {
             "original": selected.original,
+            "processed": selected.processed,
             "refined_with_url": selected.refined_with_url
         }
 
-        with open("data/posts_tweeted.json", "w") as f:
-            json.dump(POSTS_TWEETED, f, indent=4)        
+        with open("data/posts_tweeted.json", "w", encoding='utf-8') as f:
+            json.dump(POSTS_TWEETED, f, ensure_ascii=False, indent=4)        
     else:
         print(f"Nothiong to tweet.")
