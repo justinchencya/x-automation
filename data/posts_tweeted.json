@@ -1,14 +1,2 @@
 {
-    "5132143250903167": {
-        "original": "ai.com \u73b0\u5728\u81ea\u52a8\u8df3\u8f6c\u5230 chat.deepseek.com",
-        "refined_with_url": "ai.com now automatically redirects to chat.deepseek.com"
-    },
-    "5132545383729620": {
-        "original": "HuggingFace \u590d\u73b0 OpenAI \u65b0\u53d1\u5e03\u7684 Deep Research \u5e76\u5f00\u6e90 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI\u521b\u9020\u8425#</span></a> <br /><br />\u5730\u5740: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fhuggingface.co%2Fblog%2Fopen-deep-research\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">\u7f51\u9875\u94fe\u63a5</span></a>",
-        "refined_with_url": "HuggingFace has reproduced the newly released Deep Research from OpenAI and open-sourced it #AIChuangZaoYing\n\nLink: https://huggingface.co/blog/open-deep-research"
-    },
-    "5132167896633700": {
-        "original": "Kiln is an open-source toolkit that provides an easy-to-use platform for zero-code fine-tuning, synthetic data generation, and collaborative dataset management for large language models (LLMs). This project supports various mainstream models including Llama, GPT-4o, and Mixtral, and offers an intuitive desktop application along with an open-source Python library, effectively lowering the technical threshold for AI development. #AIInnovationCamp# \n\nAddress: Web Link",
-        "refined_with_url": "Kiln is an open-source toolkit that provides an easy-to-use platform for zero-code fine-tuning, synthetic data generation, and collaborative dataset management for large language models (LLMs). This project supports various mainstream models including Llama, GPT-4o, and Mixtral, and offers an intuitive desktop application along with an open-source Python library, effectively lowering the technical threshold for AI development. #AIInnovationCamp#\n\nAddress: https://github.com/Kiln-AI/Kiln"
-    }
 }
