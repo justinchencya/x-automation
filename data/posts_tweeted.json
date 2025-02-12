@@ -38,5 +38,10 @@
         "original": "OpenLLMetry主要用于实时监控和追踪大语言模型的表现和运行状态。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Ftraceloop%2Fopenllmetry\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "OpenLLMetry is mainly used for real-time monitoring and tracking of the performance and operational status of large language models. Address: Web Link https://github.com/traceloop/openllmetry",
         "refined_with_url": "OpenLLMetry is mainly used for real-time monitoring and tracking of the performance and operational status of large language models. Address: https://github.com/traceloop/openllmetry"
+    },
+    "5133227380966089": {
+        "original": "Sage 是一个开源项目，使用户通过语音与大语言模型进行交流，支持 Deepseek、OpenAI、Anthropic、Together.ai。#AI创造营# <br /><br />地址: https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Ffarshed%2Fsage",
+        "processed": "Sage is an open source project that allows users to interact with large language models through voice, supporting Deepseek, OpenAI, Anthropic, Together.ai. Address: https://github.com/farshed/sage https://github.com/farshed/sage",
+        "refined_with_url": "Sage is an open source project that allows users to interact with large language models through voice, supporting Deepseek, OpenAI, Anthropic, Together.ai. Address: https://github.com/farshed/sage"
     }
 }
