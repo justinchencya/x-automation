@@ -48,5 +48,10 @@
         "original": "DeepSeek R1 Zero 中文复现教程 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwaytoagi.feishu.cn%2Fwiki%2FPDqPwjvOfixAIgkDaU3cuXMwnLd\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "DeepSeek R1 Zero Chinese reproduction tutorial\n\nAddress: webpage link\nwaytoagi.feishu.cn/wiki/PDqPwjvOfixAIgkDaU3cuXMwnLd",
         "refined_with_url": "DeepSeek R1 Zero Chinese reproduction tutorial\n\nAddress: https://waytoagi.feishu.cn/wiki/PDqPwjvOfixAIgkDaU3cuXMwnLd"
+    },
+    "5133378145490685": {
+        "original": "Sam Altman 说会为 ChatGPT Plus 用户提供每月 10 次使用 Deep Research 的机会，而免费用户每月可使用 2 次，计划随着时间的推移逐步增加。未来需要找到一种更灵活的方式，让用户可以根据需求动态支付计算资源的费用。",
+        "processed": "Sam Altman said ChatGPT Plus users will be given 10 opportunities per month to use Deep Research, while free users can use it twice per month, with plans to gradually increase over time. In the future, a more flexible way needs to be found for users to dynamically pay for computing resources according to their needs.",
+        "refined_with_url": "Sam Altman said ChatGPT Plus users will be given 10 opportunities per month to use Deep Research, while free users can use it twice per month, with plans to gradually increase over time. In the future, a more flexible way needs to be found for users to dynamically pay for computing resources according to their needs."
     }
 }
