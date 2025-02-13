@@ -53,5 +53,10 @@
         "original": "Sam Altman 说会为 ChatGPT Plus 用户提供每月 10 次使用 Deep Research 的机会，而免费用户每月可使用 2 次，计划随着时间的推移逐步增加。未来需要找到一种更灵活的方式，让用户可以根据需求动态支付计算资源的费用。",
         "processed": "Sam Altman said ChatGPT Plus users will be given 10 opportunities per month to use Deep Research, while free users can use it twice per month, with plans to gradually increase over time. In the future, a more flexible way needs to be found for users to dynamically pay for computing resources according to their needs.",
         "refined_with_url": "Sam Altman said ChatGPT Plus users will be given 10 opportunities per month to use Deep Research, while free users can use it twice per month, with plans to gradually increase over time. In the future, a more flexible way needs to be found for users to dynamically pay for computing resources according to their needs."
+    },
+    "5133460855325411": {
+        "original": "翻译应该是被大语言模型冲击最大的行业之一了",
+        "processed": "Translation is probably one of the industries most impacted by large language models.",
+        "refined_with_url": "Translation is probably one of the industries most impacted by large language models."
     }
 }
