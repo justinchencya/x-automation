@@ -68,5 +68,10 @@
         "original": "比如新职业：把AI写的内容改得像人类写的",
         "processed": "For instance, a new profession: editing AI-generated content to make it look like it was written by humans.",
         "refined_with_url": "For instance, a new profession: editing AI-generated content to make it look like it was written by humans."
+    },
+    "5133619713279103": {
+        "original": "DeepSeek R1 Overthinker 强制 DeepSeek R1 模型进行更深入的思考 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fqunash%2Fr1-overthinker\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "DeepSeek R1 Overthinker forces the DeepSeek R1 model to think more deeply. Address: Web link https://github.com/qunash/r1-overthinker",
+        "refined_with_url": "DeepSeek R1 Overthinker forces the DeepSeek R1 model to think more deeply. Address: https://github.com/qunash/r1-overthinker"
     }
 }
