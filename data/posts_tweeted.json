@@ -78,5 +78,10 @@
         "original": "现在可以对 ChatGPT 进行定制，输入自己的名字、职业、ChatGPT回复消息时的风格（比如话唠、机制、直接、鼓舞等等）、额外信息、支持的功能（网页搜索、DALL-E、代码、画布、高级语音等等）",
         "processed": "Now you can customize ChatGPT by entering your own name, profession, the style of ChatGPT's response (such as talkative, mechanical, direct, encouraging, etc.), additional information, and supported features (web search, DALL-E, code, canvas, advanced voice, etc.)",
         "refined_with_url": "Now you can customize ChatGPT by entering your own name, profession, the style of ChatGPT's response (such as talkative, mechanical, direct, encouraging, etc.), additional information, and supported features (web search, DALL-E, code, canvas, advanced voice, etc.)"
+    },
+    "5133681870244567": {
+        "original": "FoloUp 是一个公司进行 AI 驱动招聘面试的开源平台。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FFoloUp%2FFoloUp\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "FoloUp is an open-source platform for AI-driven recruiting interviews for companies. Address: Web link https://github.com/FoloUp/FoloUp",
+        "refined_with_url": "FoloUp is an open-source platform for AI-driven recruiting interviews for companies. Address: https://github.com/FoloUp/FoloUp"
     }
 }
