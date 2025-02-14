@@ -103,5 +103,10 @@
         "original": "LLM Debugger 是一款 VSCode 插件，可接入大型语言模型（LLMs）进行程序主动调试。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fmohsen1%2Fllm-debugger-vscode-extension\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "LLM Debugger is a VSCode plugin that can connect to large language models (LLMs) for proactive debugging of programs. Address: [Web Link]\nhttps://github.com/mohsen1/llm-debugger-vscode-extension",
         "refined_with_url": "LLM Debugger is a VSCode plugin that can connect to large language models (LLMs) for proactive debugging of programs. Address: https://github.com/mohsen1/llm-debugger-vscode-extension"
+    },
+    "5134000974727908": {
+        "original": "英伟达开源的将 PDF 文档转换为 AI 播客的项目 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FNVIDIA-AI-Blueprints%2Fpdf-to-podcast\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "NVIDIA has open-sourced a project to convert PDF documents into AI podcasts. Address: https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast",
+        "refined_with_url": "NVIDIA has open-sourced a project to convert PDF documents into AI podcasts. Address: https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast"
     }
 }
