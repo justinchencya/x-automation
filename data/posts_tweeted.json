@@ -108,5 +108,10 @@
         "original": "英伟达开源的将 PDF 文档转换为 AI 播客的项目 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FNVIDIA-AI-Blueprints%2Fpdf-to-podcast\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "NVIDIA has open-sourced a project to convert PDF documents into AI podcasts. Address: https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast",
         "refined_with_url": "NVIDIA has open-sourced a project to convert PDF documents into AI podcasts. Address: https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast"
+    },
+    "5133955676247287": {
+        "original": "高通 AI Hub 提供了一系列优化且针对边缘设备的 AI 模型，支持视觉、音频和语音应用，并允许用户在几分钟内部署自己的 PyTorch 模型到实际设备上。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Faihub.qualcomm.com%2Fmodels\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Qualcomm AI Hub offers a series of optimized AI models tailored for edge devices, supporting visual, audio, and voice applications, and allows users to deploy their own PyTorch models to actual devices in minutes. Address:\nhttps://aihub.qualcomm.com/models",
+        "refined_with_url": "Qualcomm AI Hub offers a series of optimized AI models tailored for edge devices, supporting visual, audio, and voice applications, and allows users to deploy their own PyTorch models to actual devices in minutes. Address: https://aihub.qualcomm.com/models"
     }
 }
