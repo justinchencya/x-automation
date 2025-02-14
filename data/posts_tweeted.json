@@ -93,5 +93,10 @@
         "original": "LinguaCards 是一款开源单词闪卡，由 DeepSeek R1 驱动，由 Dify 提供后端服务，号称开源多邻国。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fcard.twi.am%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "LinguaCards is an open-source vocabulary flashcard app, powered by DeepSeek R1 and backed by Dify services, touted as the open-source Duolingo. Address: Web link u=https%3A%2F%2Fcard.twi.am%2F",
         "refined_with_url": "LinguaCards is an open-source vocabulary flashcard app, powered by DeepSeek R1 and backed by Dify services, touted as the open-source Duolingo. Address: https://card.twi.am/"
+    },
+    "5133881137169996": {
+        "original": "总结的不错，聊天、编程、绘画、音乐、视频、3D，最好用的几款 AI 工具都有了。<span class=\"url-icon\"><img alt=[耶] src=\"https://h5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png\" style=\"width:1em; height:1em;\" /></span>",
+        "processed": "The summary is quite good, covering chat, programming, painting, music, video, and 3D—the best AI tools are all available.\nh5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png",
+        "refined_with_url": "The summary is quite good, covering chat, programming, painting, music, video, and 3D—the best AI tools are all available. https://h5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png"
     }
 }
