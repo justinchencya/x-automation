@@ -88,5 +88,10 @@
         "original": "ChatGPT Deep Reseaech 现在支持移动 App 和桌面 App，但还是只有 Pro 用户才能访问。",
         "processed": "ChatGPT Deep Reseaech now supports mobile apps and desktop apps, but it is still only accessible to Pro users.",
         "refined_with_url": "ChatGPT Deep Research now supports mobile apps and desktop apps, but it is still only accessible to Pro users."
+    },
+    "5133601846856183": {
+        "original": "LinguaCards 是一款开源单词闪卡，由 DeepSeek R1 驱动，由 Dify 提供后端服务，号称开源多邻国。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fcard.twi.am%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "LinguaCards is an open-source vocabulary flashcard app, powered by DeepSeek R1 and backed by Dify services, touted as the open-source Duolingo. Address: Web link u=https%3A%2F%2Fcard.twi.am%2F",
+        "refined_with_url": "LinguaCards is an open-source vocabulary flashcard app, powered by DeepSeek R1 and backed by Dify services, touted as the open-source Duolingo. Address: https://card.twi.am/"
     }
 }
