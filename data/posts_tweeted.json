@@ -98,5 +98,10 @@
         "original": "总结的不错，聊天、编程、绘画、音乐、视频、3D，最好用的几款 AI 工具都有了。<span class=\"url-icon\"><img alt=[耶] src=\"https://h5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png\" style=\"width:1em; height:1em;\" /></span>",
         "processed": "The summary is quite good, covering chat, programming, painting, music, video, and 3D—the best AI tools are all available.\nh5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png",
         "refined_with_url": "The summary is quite good, covering chat, programming, painting, music, video, and 3D—the best AI tools are all available. https://h5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png"
+    },
+    "5133923967309545": {
+        "original": "LLM Debugger 是一款 VSCode 插件，可接入大型语言模型（LLMs）进行程序主动调试。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fmohsen1%2Fllm-debugger-vscode-extension\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "LLM Debugger is a VSCode plugin that can connect to large language models (LLMs) for proactive debugging of programs. Address: [Web Link]\nhttps://github.com/mohsen1/llm-debugger-vscode-extension",
+        "refined_with_url": "LLM Debugger is a VSCode plugin that can connect to large language models (LLMs) for proactive debugging of programs. Address: https://github.com/mohsen1/llm-debugger-vscode-extension"
     }
 }
