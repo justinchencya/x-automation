@@ -83,5 +83,10 @@
         "original": "FoloUp 是一个公司进行 AI 驱动招聘面试的开源平台。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FFoloUp%2FFoloUp\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "FoloUp is an open-source platform for AI-driven recruiting interviews for companies. Address: Web link https://github.com/FoloUp/FoloUp",
         "refined_with_url": "FoloUp is an open-source platform for AI-driven recruiting interviews for companies. Address: https://github.com/FoloUp/FoloUp"
+    },
+    "5133488179382148": {
+        "original": "ChatGPT Deep Reseaech 现在支持移动 App 和桌面 App，但还是只有 Pro 用户才能访问。",
+        "processed": "ChatGPT Deep Reseaech now supports mobile apps and desktop apps, but it is still only accessible to Pro users.",
+        "refined_with_url": "ChatGPT Deep Research now supports mobile apps and desktop apps, but it is still only accessible to Pro users."
     }
 }
