@@ -128,5 +128,10 @@
         "original": "关于OpenAI deepresearch的复现结果，perplexity做的是最好的",
         "processed": "Regarding the replication results of OpenAI deepresearch, perplexity is the best.",
         "refined_with_url": "Regarding the replication results of OpenAI deepresearch, perplexity is the best."
+    },
+    "5134387614582648": {
+        "original": "本地化部署deepseek使用ollama部署的风险提示：<br /><br />有人在用fofa扫ollama端口薅算力，大家ollama部署的时候注意屏蔽外网相关端口访问，设置下防火墙之类的，避免被薅算力和数据安全泄漏。<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23deepseek%23&extparam=%23deepseek%23\" data-hide=\"\"><span class=\"surl-text\">#deepseek#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ollama%23&extparam=%23ollama%23\" data-hide=\"\"><span class=\"surl-text\">#ollama#</span></a>",
+        "processed": "Risk warning for deploying deepseek locally using ollama: Someone is using fofa to scan ollama ports to exploit computing power, everyone should pay attention to blocking related external network port access when deploying ollama, and setting up firewalls, etc., to avoid being exploited for computing power and data security leaks. m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "Risk warning for deploying deepseek locally using ollama: Someone is using fofa to scan ollama ports to exploit computing power. Everyone should pay attention to blocking related external network port access when deploying ollama and setting up firewalls, etc., to avoid being exploited for computing power and data security leaks. More info: https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23 #ai #deepseek #ollama"
     }
 }
