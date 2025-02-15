@@ -123,5 +123,10 @@
         "original": "Meetily是一个基于 AI 的开源会议记录生成器，它可以在个人电脑上完全运行。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FZackriya-Solutions%2Fmeeting-minutes\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Meetily is an AI-based open-source meeting minutes generator that can run entirely on a personal computer. \n\nAddress:\n    u=https%3A%2F%2Fgithub.com%2FZackriya-Solutions%2Fmeeting-minutes",
         "refined_with_url": "Meetily is an AI-based open-source meeting minutes generator that can run entirely on a personal computer. Address: https://github.com/Zackriya-Solutions/meeting-minutes"
+    },
+    "5134294182003606": {
+        "original": "关于OpenAI deepresearch的复现结果，perplexity做的是最好的",
+        "processed": "Regarding the replication results of OpenAI deepresearch, perplexity is the best.",
+        "refined_with_url": "Regarding the replication results of OpenAI deepresearch, perplexity is the best."
     }
 }
