@@ -143,5 +143,10 @@
         "original": "苹果大战安卓？❌<br />阿里大战DeepSeek✅",
         "processed": "Apple vs Android? ❌<br />Alibaba vs DeepSeek ✅",
         "refined_with_url": "Apple vs Android? ❌ Alibaba vs DeepSeek ✅"
+    },
+    "5134305858946190": {
+        "original": "LLM Reasoners 是一个用于大型语言模型高级推理的库，提供了先进的推理算法和工具，支持多种推理方法和后端，并且有详细的文档和示例。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fmaitrix-org%2Fllm-reasoners\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "LLM Reasoners is a library for advanced reasoning with large language models, offering advanced reasoning algorithms and tools, supporting multiple reasoning methods and backends, and providing detailed documentation and examples. Address: Website link u=https%3A%2F%2Fgithub.com%2Fmaitrix-org%2Fllm-reasoners",
+        "refined_with_url": "LLM Reasoners is a library for advanced reasoning with large language models, offering advanced reasoning algorithms and tools, supporting multiple reasoning methods and backends, and providing detailed documentation and examples. Address: https://github.com/maitrix-org/llm-reasoners"
     }
 }
