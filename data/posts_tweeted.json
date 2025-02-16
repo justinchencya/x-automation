@@ -138,5 +138,10 @@
         "original": "GPT Crawler 爬取网站以生成知识文件，从一个或多个 URL 创建您自己的自定义 GPT。#AI创造营# \n\n地址: 网页链接\n",
         "processed": "GPT Crawler scrapes websites to generate knowledge files, creating your own custom GPT from one or more URLs. \n\nAddress: Web link\nu=https%3A%2F%2Fgithub.com%2FBuilderIO%2Fgpt-crawler",
         "refined_with_url": "GPT Crawler scrapes websites to generate knowledge files, creating your own custom GPT from one or more URLs. Address: https://github.com/BuilderIO/gpt-crawler"
+    },
+    "5134301970305353": {
+        "original": "苹果大战安卓？❌<br />阿里大战DeepSeek✅",
+        "processed": "Apple vs Android? ❌<br />Alibaba vs DeepSeek ✅",
+        "refined_with_url": "Apple vs Android? ❌ Alibaba vs DeepSeek ✅"
     }
 }
