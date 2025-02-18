@@ -168,5 +168,10 @@
         "original": "xAI员工Jie Huang: 备“菜”完成。xAI是Grok背后的公司 <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F006DIRV7gy1hyns4fkqwjj30pe0bqju0.jpg\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/01/21/20/timeline_card_small_photo_default.png'></span><span class=\"surl-text\">查看图片</span></a>",
         "processed": "xAI employee Jie Huang: Preparation \"dishes\" completed. xAI is the company behind Grok. [View Image] https://wx1.sinaimg.cn/large/006DIRV7gy1hyns4fkqwjj30pe0bqju0.jpg",
         "refined_with_url": "xAI employee Jie Huang: Preparation \"dishes\" completed. xAI is the company behind Grok. View image: https://wx1.sinaimg.cn/large/006DIRV7gy1hyns4fkqwjj30pe0bqju0.jpg"
+    },
+    "5135364103078582": {
+        "original": "OpenAI决定开源一款模型，让网友们投票，选“o3-mini级别”或“手机规模模型”<br />“手机规模模型”非常诱人，开局58%网友选择，一个小时后，在众多懂行网友劝说下，“o3-mini级别”投票率达到48.4%，看来有望反超。<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "OpenAI has decided to open source a model and let netizens vote to choose between the 'o3-mini level' or 'mobile-scale model'. The 'mobile-scale model' is very enticing, with 58% of netizens choosing it initially. An hour later, after much persuasion from knowledgeable netizens, the 'o3-mini level' voting rate reached 48.4%, and it seems likely to overtake the lead.\nm.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "OpenAI has decided to open source a model and let netizens vote to choose between the 'o3-mini level' or 'mobile-scale model'. The 'mobile-scale model' is very enticing, with 58% of netizens choosing it initially. An hour later, after much persuasion from knowledgeable netizens, the 'o3-mini level' voting rate reached 48.4%, and it seems likely to overtake the lead. https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
     }
 }
