@@ -193,5 +193,10 @@
         "original": "Grok3 深入研究 图片清晰度方案调研 <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.gantrol.com%2FAI%2Frecord%2Fdeepresearch%2Fgrok3%2Fpicture-sharpness\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
         "processed": "Grok3 in-depth research on image sharpness solution research\nhttps://www.gantrol.com/AI/record/deepresearch/grok3/picture-sharpness",
         "refined_with_url": "Grok3 in-depth research on image sharpness \nhttps://www.gantrol.com/AI/record/deepresearch/grok3/picture-sharpness"
+    },
+    "5135812159603258": {
+        "original": "code2prompt 是一个命令行工具，用于将代码库转换为包含源代码树、提示模板和令牌计数的单一大语言模型提示。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fmufeedvh%2Fcode2prompt\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "code2prompt is a command-line tool that transforms a codebase into a single large language model prompt containing a source code tree, prompt templates, and token counts.\\n\\nAddress: [Link] https://github.com/mufeedvh/code2prompt",
+        "refined_with_url": "code2prompt is a command-line tool that transforms a codebase into a single large language model prompt containing a source code tree, prompt templates, and token counts. Address: https://github.com/mufeedvh/code2prompt"
     }
 }
