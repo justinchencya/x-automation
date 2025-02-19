@@ -188,5 +188,10 @@
         "original": "Open Thoughts，致力于为推理模型提供全面的开放数据。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fopen-thoughts%2Fopen-thoughts\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Open Thoughts, committed to providing comprehensive open data for inference models.\nhttps://github.com/open-thoughts/open-thoughts",
         "refined_with_url": "Open Thoughts, committed to providing comprehensive open data for inference models. https://github.com/open-thoughts/open-thoughts"
+    },
+    "5135716268642087": {
+        "original": "Grok3 深入研究 图片清晰度方案调研 <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.gantrol.com%2FAI%2Frecord%2Fdeepresearch%2Fgrok3%2Fpicture-sharpness\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "Grok3 in-depth research on image sharpness solution research\nhttps://www.gantrol.com/AI/record/deepresearch/grok3/picture-sharpness",
+        "refined_with_url": "Grok3 in-depth research on image sharpness \nhttps://www.gantrol.com/AI/record/deepresearch/grok3/picture-sharpness"
     }
 }
