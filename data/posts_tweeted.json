@@ -183,5 +183,10 @@
         "original": "Grok3限额貌似为50条2小时 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />grok.com跟推特的限额分开计算",
         "processed": "The limit for Grok3 seems to be 50 per 2 hours. grok.com is calculated separately from Twitter's limit.",
         "refined_with_url": "The limit for Grok3 seems to be 50 per 2 hours. See more at: https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23. grok.com is calculated separately from Twitter's limit."
+    },
+    "5135438448690289": {
+        "original": "Open Thoughts，致力于为推理模型提供全面的开放数据。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fopen-thoughts%2Fopen-thoughts\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Open Thoughts, committed to providing comprehensive open data for inference models.\nhttps://github.com/open-thoughts/open-thoughts",
+        "refined_with_url": "Open Thoughts, committed to providing comprehensive open data for inference models. https://github.com/open-thoughts/open-thoughts"
     }
 }
