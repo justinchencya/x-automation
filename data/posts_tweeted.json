@@ -223,5 +223,10 @@
         "original": "又看了眼iPhone 16e，什么都砍了，就是没砍处理器和内存。内存条金子做的苹果，真的做到了全系标配Apple Intelligence 。AI在苹果的战略地位可见一斑。",
         "processed": "Took another look at the iPhone 16e, everything was cut except for the processor and memory. Apple, with its memory bars made of gold, really achieved equipping Apple Intelligence across all systems. The strategic position of AI at Apple is evident.",
         "refined_with_url": "Took another look at the iPhone 16e. Everything was cut except for the processor and memory. Apple, with its memory bars made of gold, achieved equipping Apple Intelligence across all systems. The strategic position of AI at Apple is evident."
+    },
+    "5136138464136346": {
+        "original": "grok3 发介绍文章了，这种有特效的，还是亲自看好 <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fx.ai%2Fblog%2Fgrok-3\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> ，翻译也翻不动。找两个亮点：<br /><br />图一这个“推特用户对grok3的反应是什么”有点意思，也可以推广到其他事件<br />图二是grok做的游戏，其实推特用户grok3做了不少小游戏了 <br /><br /><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "Grok3 has published an introductory article, it's better to see these special effects in person [link], translation doesn't quite capture it. Here are two highlights: Image one, \"Twitter users' reaction to grok3\" is quite interesting, and this can be applied to other events as well. Image two is a game made by grok; Twitter user grok3 has made quite a few mini-games.\nhttps://x.ai/blog/grok-3",
+        "refined_with_url": "Grok3 has published an introductory article, it's better to see these special effects in person. Translation doesn't quite capture it. Here are two highlights: Image one, \"Twitter users' reaction to grok3\" is quite interesting, and this can be applied to other events as well. Image two is a game made by grok; Twitter user grok3 has made quite a few mini-games. https://x.ai/blog/grok-3"
     }
 }
