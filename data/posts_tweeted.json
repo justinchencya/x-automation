@@ -233,5 +233,10 @@
         "original": "pgai 旨在通过 PostgreSQL 数据库为 AI 应用程序提供动力，它提供了一系列工具，可以简化 RAG、语义搜索等 AI 应用的开发过程。#AI创造营# 地址: 网页链接",
         "processed": "pgai aims to power AI applications through the PostgreSQL database. It offers a suite of tools that simplifies the development process of AI applications such as RAG and semantic search. Address: Web link https://github.com/timescale/pgai",
         "refined_with_url": "pgai aims to power AI applications through the PostgreSQL database. It offers a suite of tools that simplifies the development process of AI applications such as RAG and semantic search. Address: https://github.com/timescale/pgai"
+    },
+    "5136423988497207": {
+        "original": "GPT-4.5 有望下周到来,微软预计 GPT-5 将在五月下旬推出——The Verge: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.theverge.com%2Fnotepad-microsoft-newsletter%2F616464%2Fmicrosoft-prepares-for-openais-gpt-5-model\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><br />有订阅墙（虽然可以轻松绕过），不放完整翻译（图二）<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "GPT-4.5 is expected to arrive next week, and Microsoft expects GPT-5 to be released in late May — The Verge: Web Link\n\nThere is a subscription wall (though it can be easily bypassed), so no full translation is provided (image two)\nhttps%3A%2F%2Fwww.theverge.com%2Fnotepad-microsoft-newsletter%2F616464%2Fmicrosoft-prepares-for-openais-gpt-5-model",
+        "refined_with_url": "GPT-4.5 is expected to arrive next week, and Microsoft expects GPT-5 to be released in late May — The Verge: https://www.theverge.com/notepad-microsoft-newsletter/616464/microsoft-prepares-for-openais-gpt-5-model There is a subscription wall (though it can be easily bypassed), so no full translation is provided."
     }
 }
