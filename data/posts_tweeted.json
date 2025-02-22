@@ -258,5 +258,10 @@
         "original": "一个加密、区块链类大模型评估集，Deepseek R1打败了o1 跟o3-mini，但第一居然是gemini 2 pro<br /><br />gemini 2 pro很多方面都挺难评的，加密这块居然很好？后面仔细看看<br /><br />github.com/xxcg322/CryptoBench 🔗<br /><br /><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a>",
         "processed": "A large model evaluation set for encryption and blockchain; Deepseek R1 beat o1 and o3-mini, but surprisingly, the first place is gemini 2 pro.\n\nIn many aspects, gemini 2 pro is quite difficult to evaluate, but is very good in encryption? I will take a detailed look later.\n    github.com/xxcg322/CryptoBench",
         "refined_with_url": "A large model evaluation set for encryption and blockchain; Deepseek R1 beat o1 and o3-mini, but surprisingly, the first place is gemini 2 pro. In many aspects, gemini 2 pro is quite difficult to evaluate, but is very good in encryption? I will take a detailed look later. https://github.com/xxcg322/CryptoBench"
+    },
+    "5136769681195286": {
+        "original": "用Gemini 2FTE、grok3 跟Deepseek设计一个新项目，Gemini  2FTE技术设计上最佳",
+        "processed": "Designing a new project using Gemini 2FTE, grok3, and Deepseek. Gemini 2FTE is the best in technical design.",
+        "refined_with_url": "Designing a new project using Gemini 2FTE, grok3, and Deepseek. Gemini 2FTE is the best in technical design."
     }
 }
