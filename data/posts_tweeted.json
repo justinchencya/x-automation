@@ -288,5 +288,10 @@
         "original": "ZeroBench 是一个针对当代大型多模态模型的挑战性视觉基准测试，可以评估模型的视觉理解和推理能力。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />开源链接：<a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fzerobench.github.io%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "ZeroBench is a challenging visual benchmark for evaluating contemporary large multimodal models, capable of assessing the visual understanding and reasoning abilities of models. Open source link:\nhttps://zerobench.github.io/",
         "refined_with_url": "ZeroBench is a challenging visual benchmark for evaluating contemporary large multimodal models, capable of assessing the visual understanding and reasoning abilities of models. Open source link: https://zerobench.github.io/"
+    },
+    "5137532016132849": {
+        "original": "DeepSeek开源周第一天，FlashMLA。难道消费级设备能跑R1 量化模型了？🤔<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a> <br />🔗 github.com/deepseek-ai/FlashMLA 🔗",
+        "processed": "First day of DeepSeek Open Source Week, FlashMLA. Can consumer-grade devices run the R1 quantized model? 🤔 github.com/deepseek-ai/FlashMLA",
+        "refined_with_url": "First day of DeepSeek Open Source Week, FlashMLA. Can consumer-grade devices run the R1 quantized model? 🤔 https://github.com/deepseek-ai/FlashMLA"
     }
 }
