@@ -303,5 +303,10 @@
         "original": "续图一，有个更激进的观点：AI功能要像空气那样透明，Zed勉强算一个",
         "processed": "Continuation from the first image, there's a more radical opinion: AI functions should be as transparent as air, Zed barely counts as one.",
         "refined_with_url": "Continuation from the first image, there's a more radical opinion: AI functions should be as transparent as air, Zed barely counts as one."
+    },
+    "5137663105436799": {
+        "original": "HiveChat 专为中小团队设计的 AI 聊天应用，支持 Deepseek、Open AI、Claude、Gemini 等模型。管理员一人配置，全团队轻松使用各种 AI 模型 #AI创造营# \n\n开源链接：[网页链接](https://github.com/HiveNexus/HiveChat)",
+        "processed": "HiveChat is an AI chat application designed specifically for small and medium-sized teams, supporting models such as Deepseek, OpenAI, Claude, and Gemini. One administrator can configure it, allowing the whole team to easily use various AI models. \nOpen source link: [web link](https://github.com/HiveNexus/HiveChat)\nhttps://github.com/HiveNexus/HiveChat",
+        "refined_with_url": "HiveChat is an AI chat application designed specifically for small and medium-sized teams, supporting models such as Deepseek, OpenAI, Claude, and Gemini. One administrator can configure it, allowing the whole team to easily use various AI models.\n\nOpen source link: https://github.com/HiveNexus/HiveChat"
     }
 }
