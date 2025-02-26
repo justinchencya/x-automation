@@ -323,5 +323,10 @@
         "original": "马斯克开价974亿美元收购OpenAI！被拒了<br /><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%23&isnewpage=1\" data-hide=\"\"><span class=\"surl-text\">#马斯克#</span></a><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23OpenAI%23\" data-hide=\"\"><span class=\"surl-text\">#OpenAI#</span></a><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ChatGPT%23&extparam=%23ChatGPT%23\" data-hide=\"\"><span class=\"surl-text\">#ChatGPT#</span></a><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E6%96%B0%E9%97%BB%23\" data-hide=\"\"><span class=\"surl-text\">#AI新闻#</span></a><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%A7%91%E6%8A%80%E5%9C%88%23&isnewpage=1\" data-hide=\"\"><span class=\"surl-text\">#科技圈#</span></a> <a href=\"https://video.weibo.com/show?fid=1034:5137998333804631\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林亦LYi的微博视频</span></a>",
         "processed": "Musk offered $97.4 billion to acquire OpenAI! It was rejected.\nvideo.weibo.com/show?fid=1034:5137998333804631",
         "refined_with_url": "Musk offered $97.4 billion to acquire OpenAI! It was rejected.\nhttps://video.weibo.com/show?fid=1034:5137998333804631"
+    },
+    "5138055113476211": {
+        "original": "Claude 3.7 “美感”又有所进步。画图、写演示文稿、卡片、网页……",
+        "processed": "Claude 3.7 has improved again in terms of \"aesthetics\". Drawing, writing presentations, cards, web pages...",
+        "refined_with_url": "Claude 3.7 has improved again in terms of \"aesthetics\". Drawing, writing presentations, cards, web pages..."
     }
 }
