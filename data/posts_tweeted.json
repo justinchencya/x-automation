@@ -338,5 +338,10 @@
         "original": "Claude3.7 写Midjourney Prompt是V6 的，grok3 跟gemini都是V5",
         "processed": "Claude3.7 writes the Midjourney Prompt for V6, grok3 and gemini are both V5",
         "refined_with_url": "Claude3.7 writes the Midjourney Prompt for V6, while grok3 and gemini both use V5."
+    },
+    "5138250949988121": {
+        "original": "大模型写PPT | Claude 3.7<br /><br />PPT在线访问：<a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.gantrol.com%2FAI%2Fuse%2Fppt%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "Large Model Writing PPT | Claude 3.7\n\nPPT online access: \n    www.gantrol.com/AI/use/ppt/",
+        "refined_with_url": "Large Model Writing PPT | Claude 3.7\n\nPPT online access: www.gantrol.com/AI/use/ppt/"
     }
 }
