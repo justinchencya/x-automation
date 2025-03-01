@@ -363,5 +363,10 @@
         "original": "距离GPT4.5公布，还有4.5小时<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%96%B0%E9%97%BB%23&extparam=%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%96%B0%E9%97%BB%23\" data-hide=\"\"><span class=\"surl-text\">#大模型新闻#</span></a><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
         "processed": "There are 4.5 hours until GPT-4.5 is announced.\nm.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
         "refined_with_url": "There are 4.5 hours until GPT-4.5 is announced. https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
+    },
+    "5139075071480134": {
+        "original": "❌人工智能跟人一样聪明<br />✅人工智能跟某些人一样蠢",
+        "processed": "❌ Artificial intelligence is as smart as humans; ✅ Artificial intelligence is as dumb as some people.",
+        "refined_with_url": "❌ Artificial intelligence is as smart as humans; ✅ Artificial intelligence is as dumb as some people."
     }
 }
