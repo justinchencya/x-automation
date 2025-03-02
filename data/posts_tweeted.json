@@ -393,5 +393,10 @@
         "original": "Perplexity Pro用户可用GPT4.5，每天 10 条<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a>",
         "processed": "Perplexity Pro users can use GPT4.5, 10 times a day. m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23",
         "refined_with_url": "Perplexity Pro users can use GPT4.5, 10 times a day. https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23"
+    },
+    "5139867164741786": {
+        "original": "Perplexity released the waitlist for the Comet browser... claiming it as an agent browser. The background dots are still twinkling, it seems to be achieved using the mosaic-like image in the second picture with transform. Note: Agent means intelligent agent. weibo.cn/sinaurl/xxxxxxxxxxx",
+        "processed": "Perplexity released the waitlist for the Comet browser, claiming it to be an agent browser. The background dots are still twinkling; it seems to be achieved using the mosaic-like image in the second picture with transform. Note: Agent means intelligent agent. weibo.cn/sinaurl/xxxxxxxxxxx",
+        "refined_with_url": "Perplexity released the waitlist for the Comet browser, claiming it to be an agent browser. The background dots are still twinkling; it seems to be achieved using the mosaic-like image in the second picture with transform. Note: Agent means intelligent agent. weibo.cn/sinaurl/xxxxxxxxxxx"
     }
 }
