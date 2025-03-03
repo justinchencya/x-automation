@@ -408,5 +408,10 @@
         "original": "Sam Altman 说 GPT-4.5 是首次让人们如此热情地给他们发邮件，恳求他们一定要承诺永远提供某个特定版本，甚至不要用更新版来替代它。",
         "processed": "Sam Altman said GPT-4.5 is the first time that people have been so enthusiastic to email them, begging them to promise to always provide a certain version and not even replace it with an updated version.",
         "refined_with_url": "Sam Altman said GPT-4.5 is the first time that people have been so enthusiastic to email them, begging them to promise to always provide a certain version and not replace it with an updated one."
+    },
+    "5140097033571030": {
+        "original": "《人工智能君主制》（The A.I. Monarchy）<br />——关于加速主义、NRx，以及技术、宗教与哲学交汇之下的美国新政治核心思想分析<br /><br />作者：米涅亚·马鲁察（Mihnea Măruță） <a  href=\"https://weibo.com/ttarticle/p/show?id=2309405140097032126716\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png'></span><span class=\"surl-text\">《人工智能君主制》（The A.I. Monarchy）</span></a>",
+        "processed": "The A.I. Monarchy — An analysis of the core political thoughts in America at the intersection of accelerationism, NRx, technology, religion, and philosophy. Author: Mihnea Măruță weibo.com/ttarticle/p/show?id=2309405140097032126716",
+        "refined_with_url": "The A.I. Monarchy — An analysis of the core political thoughts in America at the intersection of accelerationism, NRx, technology, religion, and philosophy. Author: Mihnea Măruță weibo.com/ttarticle/p/show?id=2309405140097032126716"
     }
 }
