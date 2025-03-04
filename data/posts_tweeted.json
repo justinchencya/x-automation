@@ -423,5 +423,10 @@
         "original": "在现场。荣耀应该是手机厂商中最大力度投入AI的一家",
         "processed": "On-site. Honor is probably the smartphone manufacturer that invests the most in AI. weibo.cn/sinaurl/xyz",
         "refined_with_url": "On-site. Honor is probably the smartphone manufacturer that invests the most in AI. http://weibo.cn/sinaurl/xyz"
+    },
+    "5140114435215330": {
+        "original": "ChatGPT 不给画玫瑰花 <br /><br />提示词：\"Create an image of a rose.\"",
+        "processed": "ChatGPT does not draw roses  \n\nPrompt: \"Create an image of a rose.\"",
+        "refined_with_url": "ChatGPT does not draw roses. Prompt: \"Create an image of a rose.\""
     }
 }
