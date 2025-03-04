@@ -428,5 +428,10 @@
         "original": "ChatGPT 不给画玫瑰花 <br /><br />提示词：\"Create an image of a rose.\"",
         "processed": "ChatGPT does not draw roses  \n\nPrompt: \"Create an image of a rose.\"",
         "refined_with_url": "ChatGPT does not draw roses. Prompt: \"Create an image of a rose.\""
+    },
+    "5140245188712082": {
+        "original": "AI搜索Perplexity的Pro用户Discord频道 ，十几万人。不知道占总Pro用户多少<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "The Discord channel for Pro users of AI search Perplexity has hundreds of thousands of people. I wonder what proportion of the total Pro users this is. 231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "The Discord channel for Pro users of AI search Perplexity has hundreds of thousands of people. I wonder what proportion of the total Pro users this is. https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
     }
 }
