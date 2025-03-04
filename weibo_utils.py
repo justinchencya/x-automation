@@ -37,6 +37,7 @@ class originalPostReview(BaseModel):
     post_id: str
     is_reply_or_forward: bool
     ai_related: bool
+    time_sensitive: bool
     nonpersonal_knowledge_sharing_content: bool
     for_chinese_audience_only: bool
     contains_link: bool
@@ -50,6 +51,7 @@ def review_original_post(post):
     ---
     - Is the post a reply or forward?
     - Is the post about AI (e.g., news, reviews, tools)?
+    - Is the post time-sensitive, meaning that reposting it after a delay (e.g., a few hours or days) would make it outdated or irrelevant? (Examples include countdowns, event forecasts, real-time updates, and announcements tied to a specific date or time.)
     - Is the post a knowledge sharing post rather than an announcement or subjective opinion made by the poster about themselves or their own accounts?
     - Is the post for a Chinese audience (i.e. sharing tools or resources that only Chinese people use, such as Baidu, Weibo, Feishu, BiliBili, etc.)?
     - Does the post contain any links to external resources?
@@ -158,8 +160,9 @@ if __name__ == "__main__":
 
     for post in posts:
         review = review_original_post(post)
+        print(review)
 
-        if not review.is_reply_or_forward and review.ai_related and review.nonpersonal_knowledge_sharing_content and not review.for_chinese_audience_only and review.full_post:
+        if not review.is_reply_or_forward and not review.time_sensitive and review.ai_related and review.nonpersonal_knowledge_sharing_content and not review.for_chinese_audience_only and review.full_post:
             # print("=" * 50)
             # print("Original Post:")
             # print(post.text)

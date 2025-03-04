@@ -25,7 +25,7 @@ if __name__ == "__main__":
             if post.id not in POSTS_TWEETED:
                 review = review_original_post(post)
 
-                if not review.is_reply_or_forward and review.ai_related and review.nonpersonal_knowledge_sharing_content and not review.for_chinese_audience_only and review.full_post:
+                if not review.is_reply_or_forward and not review.time_sensitive and review.ai_related and review.nonpersonal_knowledge_sharing_content and not review.for_chinese_audience_only and review.full_post:
                     # print("=" * 50)
                     # print("Original Post:")
                     # print(post.text)
