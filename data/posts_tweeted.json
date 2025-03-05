@@ -463,5 +463,10 @@
         "original": "代码已发布，github：<a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FTIGER-AI-Lab%2FTheoremExplainAgent\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "The code has been released, GitHub: https%3A%2F%2Fgithub.com%2FTIGER-AI-Lab%2FTheoremExplainAgent",
         "refined_with_url": "The code has been released, GitHub: https://github.com/TIGER-AI-Lab/TheoremExplainAgent"
+    },
+    "5140580545594400": {
+        "original": "一个比较实用的照片涂鸦工具：PhotoDoodle，通过文字描述即可编辑修改图片可以给照片添加各种艺术装饰，比如卡通风格的怪物、3D效果、流动的色块、光环、翅膀等等普通用户也可以实现艺术照片自由github：https://github.com/showlab/PhotoDoodle",
+        "processed": "A rather practical photo doodling tool: PhotoDoodle, allows you to edit and modify pictures through text descriptions. You can add various artistic decorations to photos, such as cartoon-style monsters, 3D effects, flowing color blocks, halos, wings, etc. Ordinary users can also achieve artistic photo freedom. GitHub: https://github.com/showlab/PhotoDoodle",
+        "refined_with_url": "A rather practical photo doodling tool: PhotoDoodle, allows you to edit and modify pictures through text descriptions. You can add various artistic decorations to photos, such as cartoon-style monsters, 3D effects, flowing color blocks, halos, wings, etc. Ordinary users can also achieve artistic photo freedom. GitHub: https://github.com/showlab/PhotoDoodle"
     }
 }
