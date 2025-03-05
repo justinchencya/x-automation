@@ -448,5 +448,10 @@
         "original": "现在流行用 Claude 做原型或者设计图<br /><br />图1 来源：x.com/miantiao_me/status/1896926625259753623<br />图4 来源：x.com/AlchainHust/status/1896878623539573023",
         "processed": "It is now popular to use Claude for prototyping or design drawings. \nImage 1 source: x.com/miantiao_me/status/1896926625259753623\nImage 4 source: x.com/AlchainHust/status/1896878623539573023\nx.com/miantiao_me/status/1896926625259753623\nx.com/AlchainHust/status/1896878623539573023",
         "refined_with_url": "It is now popular to use Claude for prototyping or design drawings. Image 1 source: x.com/miantiao_me/status/1896926625259753623 Image 4 source: x.com/AlchainHust/status/1896878623539573023"
+    },
+    "5140841995963448": {
+        "original": "发布了头条文章：《纽约时报观点——政府知道通用人工智能即将到来》 <br />拜登政府的人工智能顾问本·布坎南（Ben Buchanan）讨论了美国政府如何为通用人工智能（A.G.I.）做准备——以及仍然面临的所有挑战。 <a href=\"https://weibo.com/ttarticle/p/show?id=2309405140841999237199\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png'></span><span class=\"surl-text\">纽约时报观点——政府知道通用人工智能即将到来</span></a>",
+        "processed": "Published a headline article: \"New York Times Opinion - The Government Knows General AI is Coming\" <br />Ben Buchanan, AI advisor to the Biden administration, discussed how the US government is preparing for General AI (A.G.I.)—and all the challenges that still remain. weibo.com/ttarticle/p/show?id=2309405140841999237199",
+        "refined_with_url": "Published a headline article: \"New York Times Opinion - The Government Knows General AI is Coming\" Ben Buchanan, AI advisor to the Biden administration, discussed how the US government is preparing for General AI (A.G.I.)—and all the challenges that still remain. https://weibo.com/ttarticle/p/show?id=2309405140841999237199"
     }
 }
