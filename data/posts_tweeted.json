@@ -473,5 +473,10 @@
         "original": "谢谢四哥转帖。考虑到我微博是半年可见的，后续更新到博客：<a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.gantrol.com%2FAI%2Fuse%2Fhow-to-chat%2Faistudio%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Thank you, Brother Si, for the repost. Considering that my Weibo posts are visible for only six months, follow-up updates will be posted on the blog: web link\nhttps://www.gantrol.com/AI/use/how-to-chat/aistudio/",
         "refined_with_url": "Thank you, Brother Si, for the repost. Considering that my Weibo posts are visible for only six months, follow-up updates will be posted on the blog: https://www.gantrol.com/AI/use/how-to-chat/aistudio/"
+    },
+    "5140969888940929": {
+        "original": "苹果推出了512G内存的M3 Ultra，专为大模型而生。单家用设备跑满血DeepSeek的时代要来了",
+        "processed": "Apple has launched the M3 Ultra with 512GB memory, designed for large models. The era of running full-power DeepSeek on home devices is coming.",
+        "refined_with_url": "Apple has launched the M3 Ultra with 512GB memory, designed for large models. The era of running full-power DeepSeek on home devices is coming."
     }
 }
