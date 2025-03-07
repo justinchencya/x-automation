@@ -513,5 +513,10 @@
         "original": "AIStudio 上传PDF有一千页限制，而且上传失败没报具体错误，翻控制台发现网络请求返回信息才明白。可能是最近加的限制",
         "processed": "AIStudio has a limit of one thousand pages for uploading PDF files, and there is no specific error reported when the upload fails. I understood only after checking the network request return information in the console. It might be a recently added restriction.",
         "refined_with_url": "AIStudio has a limit of one thousand pages for uploading PDF files, and there is no specific error reported when the upload fails. I understood only after checking the network request return information in the console. It might be a recently added restriction."
+    },
+    "5141576846935669": {
+        "original": "两个开源的manus替代方案，一个是metagpt团队的，一个是camel团队的，见链接<br /><br /><a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fmannaandpoem%2FOpenManus\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fcamel-ai%2Fowl\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Two open-source manus alternatives, one from the metagpt team and one from the camel team, see the links below.\nhttps://github.com/mannaandpoem/OpenManus\nhttps://github.com/camel-ai/owl",
+        "refined_with_url": "Two open-source manus alternatives, one from the metagpt team and one from the camel team, see the links below.\nhttps://github.com/mannaandpoem/OpenManus\nhttps://github.com/camel-ai/owl"
     }
 }
