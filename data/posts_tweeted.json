@@ -508,5 +508,10 @@
         "original": "歌曲生成模型之后，开源音乐生成模型来了：NotaGen，可以指定音乐时期、作曲家以及乐器，听起来品质很高\\u003cbr /\\u003e\\u003cbr /\\u003e强项是古典音乐，也支持流行音乐\\u003cbr /\\u003e\\u003cbr /\\u003e可以指定时期，巴洛克的、古典主义的、浪漫主义的；也可以指定乐器，键盘的、管弦等\\u003cbr /\\u003e\\u003cbr /\\u003egithub：\\u003ca href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FElectricAlexis%2FNotaGen\"...",
         "processed": "After the song generation model, the open-source music generation model has arrived: NotaGen. You can specify music periods, composers, and instruments, and it sounds high quality. \n\nIts strength is classical music, but it also supports pop music. \n\nYou can specify periods, such as Baroque, Classical, and Romantic; you can also specify instruments, like keyboard, orchestral, etc. \n\nGitHub link: https://github.com/ElectricAlexis/NotaGen",
         "refined_with_url": "After the song generation model, the open-source music generation model has arrived: NotaGen. You can specify music periods, composers, and instruments, and it sounds high quality. Its strength is classical music, but it also supports pop music. You can specify periods, such as Baroque, Classical, and Romantic; you can also specify instruments, like keyboard, orchestral, etc. GitHub link: https://github.com/ElectricAlexis/NotaGen"
+    },
+    "5141527383510334": {
+        "original": "AIStudio 上传PDF有一千页限制，而且上传失败没报具体错误，翻控制台发现网络请求返回信息才明白。可能是最近加的限制",
+        "processed": "AIStudio has a limit of one thousand pages for uploading PDF files, and there is no specific error reported when the upload fails. I understood only after checking the network request return information in the console. It might be a recently added restriction.",
+        "refined_with_url": "AIStudio has a limit of one thousand pages for uploading PDF files, and there is no specific error reported when the upload fails. I understood only after checking the network request return information in the console. It might be a recently added restriction."
     }
 }
