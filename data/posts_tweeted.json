@@ -553,5 +553,10 @@
         "original": "所以不要奇怪，为什么奥特曼很多时候的表情像AI。<span class=\"url-icon\"><img alt=[笑cry] src=\"https://h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-f2bd11b506.png\" style=\"width:1em; height:1em;\" /></span>",
         "processed": "So don't be surprised why Ultraman's expressions often look like AI.",
         "refined_with_url": "So don't be surprised why Ultraman's expressions often look like AI. 😂"
+    },
+    "5142273457395952": {
+        "original": "强化学习之父Sutton：科学领域没有权威，这给了你质疑任何人的权利。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a>",
+        "processed": "Richard Sutton, the father of reinforcement learning: There is no authority in the scientific field, which gives you the right to question anyone. m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "Richard Sutton, the father of reinforcement learning, said: \"There is no authority in the scientific field, which gives you the right to question anyone.\" https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23"
     }
 }
