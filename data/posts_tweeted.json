@@ -543,5 +543,10 @@
         "original": "一图看清 ChatGPT 不同模型和订阅之间的差别<br /><br />- GPT-4o 是目前功能最全面的模型。<br />- GPT-4.5 紧随其后，可能是因为它与 GPT-4o 存在很多相似的机制。<br />- 推理（Reasoning）类的模型特别不一致，各种功能的开启情况也比较随机。<br />- 目前自定义 GPT（Custom GPT）功能只能使用 GPT-4o。",
         "processed": "A diagram to understand the differences between various ChatGPT models and subscriptions:\n\n- GPT-4o is currently the most comprehensive model.\n- GPT-4.5 comes next, possibly due to its similar mechanisms with GPT-4o.\n- Reasoning models are particularly inconsistent, with feature activation varying randomly.\n- Currently, Custom GPT features can only use GPT-4o.",
         "refined_with_url": "A diagram to understand the differences between various ChatGPT models and subscriptions:\n\n- GPT-4o is currently the most comprehensive model.\n- GPT-4.5 comes next, possibly due to its similar mechanisms with GPT-4o.\n- Reasoning models are particularly inconsistent, with feature activation varying randomly.\n- Currently, Custom GPT features can only use GPT-4o."
+    },
+    "5142213538614135": {
+        "original": "网友用万智牌给OpenAI作梗（图）",
+        "processed": "Netizens use Magic: The Gathering to make memes about OpenAI (picture) none",
+        "refined_with_url": "Netizens use Magic: The Gathering to make memes about OpenAI."
     }
 }
