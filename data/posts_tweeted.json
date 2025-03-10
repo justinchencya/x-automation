@@ -563,5 +563,10 @@
         "original": "If the house cleaning aunty is an hourly worker, then Claude Code is a \"token worker\". The former is paid by the hour, the latter by the token.",
         "processed": "If the house cleaning aunty is an hourly worker, then Claude Code is a \"token worker\". The former is paid by the hour, the latter by the token.",
         "refined_with_url": "If the house cleaning aunty is an hourly worker, then Claude Code is a \"token worker\". The former is paid by the hour, the latter by the token."
+    },
+    "5142790964776927": {
+        "original": "由于纽约时报的wordle有限制，于是让AI写了个玩，只看缩略图，你能分辨图二图三哪个是原版吗？ <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.gantrol.com%2Fgames%2Fwordle%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><br />wordle介绍：<a  href=\"https://weibo.com/6083767801/PhWKYksqx\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "Due to the restrictions on the New York Times' wordle, I had an AI write a version. Just by looking at the thumbnails, can you tell which one between the second and third image is the original? Wordle introduction: www.gantrol.com/games/wordle/",
+        "refined_with_url": "Due to the restrictions on the New York Times' wordle, I had an AI write a version. Just by looking at the thumbnails, can you tell which one between the second and third image is the original? Wordle introduction: https://www.gantrol.com/games/wordle/"
     }
 }
