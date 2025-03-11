@@ -85,7 +85,7 @@ def process_post(post):
     prompt = f"""
     Please help me process the following weibo post in the following steps:
     - Translate the post into English.
-    - Identify and extract embedded URLs to the shared resources if exist, chopping off any prefixes like https://weibo.cn/sinaurl.
+    - Identify and extract embedded URLs to the shared resources if exist, chopping off any "weibo"-relatedprefixes like https://weibo.cn/sinaurl.
     - Remove any hashtags from the post.
 
     Post:
