@@ -40,7 +40,6 @@ class originalPostReview(BaseModel):
     time_sensitive: bool
     nonpersonal_knowledge_sharing_content: bool
     for_chinese_audience_only: bool
-    contains_link: bool
     full_post: bool
 
 def review_original_post(post):
@@ -54,7 +53,6 @@ def review_original_post(post):
     - Is the post time-sensitive, meaning that reposting it after a delay (e.g., a few hours or days) would make it outdated or irrelevant? (Examples include countdowns, event forecasts, real-time updates, and announcements tied to a specific date or time.)
     - Is the post a knowledge sharing post rather than an announcement or subjective opinion made by the poster about themselves or their own accounts?
     - Is the post for a Chinese audience (i.e. sharing tools or resources that only Chinese people use, such as Baidu, Weibo, Feishu, BiliBili, etc.)?
-    - Does the post contain any links to external resources?
     - Is the post a full post (not expandable)?
     ---
 
@@ -85,7 +83,7 @@ def process_post(post):
     prompt = f"""
     Please help me process the following weibo post in the following steps:
     - Translate the post into English.
-    - Identify and extract embedded URLs to the shared resources if exist, chopping off any "weibo"-relatedprefixes like https://weibo.cn/sinaurl.
+    - Identify and extract embedded URLs to the shared resources if exist.
     - Remove any hashtags from the post.
 
     Post:
@@ -108,13 +106,48 @@ def process_post(post):
 
     return processed_post
 
+class ProcessedURL(BaseModel):
+  post_id: str
+  original_url: str
+  processed_url: str
+
+def process_url(url):
+    prompt = f"""
+    Please help me process the following URL in the following steps:
+    - Remove any "webibo"-related prefixes, such as https://weibo.cn/, https://m.weibo.cn/, https://video.weibo.com/, etc.
+    - Remove any parameters for redirection.
+    - Only keep the actual URL.
+
+    ---
+    URL: {url}
+    ---
+    """
+
+    completion = openai_client.beta.chat.completions.parse(
+        model='gpt-4o',
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant that helps process social media posts as instructed."},
+            {"role": "user", "content": prompt}
+        ], 
+        response_format=ProcessedURL
+    )
+
+    processed_url = completion.choices[0].message.parsed
+
+    return processed_url
+
 class ReviewedProcessedPost(BaseModel):
   post_id: str
   original: str
   processed: str
   refined_with_url: str
 
-def review_processed_post(processed_post):
+def review_processed_post(processed_post, processed_url):
+    if processed_url is not None:
+        processed_url = processed_url.processed_url
+    else:
+        processed_url = "None"
+
     prompt = f"""
     Please review the following post in reference to the criteria listed below. Please fix any issues if necessary.
 
@@ -135,7 +168,7 @@ def review_processed_post(processed_post):
 
     Processed Post:
     {processed_post.translated}
-    {processed_post.embedded_url}
+    {processed_url}
     ---
 
     Just return the refined post, with URL if exists, without any other text.
@@ -155,7 +188,7 @@ def review_processed_post(processed_post):
     return reviewed_processed_post
 
 if __name__ == "__main__":
-    user_id = "6444741184"
+    user_id = "3894431038"
     posts = get_user_posts(user_id)
 
     for post in posts:
@@ -173,8 +206,13 @@ if __name__ == "__main__":
             # print(processed_post.translated)
             # print(processed_post.embedded_url)
 
+            if processed_post.embedded_url is not None:
+                processed_url = process_url(processed_post.embedded_url)
+            else:
+                processed_url = None
+
             print('\n')
-            reviewed_processed_post = review_processed_post(processed_post)
+            reviewed_processed_post = review_processed_post(processed_post, processed_url)
             print("Original Post:")
             print(reviewed_processed_post.original)
             print("Processed Post:")

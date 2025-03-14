@@ -36,8 +36,13 @@ if __name__ == "__main__":
                     # print(processed_post.translated)
                     # print(processed_post.embedded_url)
 
+                    if processed_post.embedded_url is not None:
+                        processed_url = process_url(processed_post.embedded_url)
+                    else:
+                        processed_url = None
+
                     # print('\n')
-                    reviewed_processed_post = review_processed_post(processed_post)
+                    reviewed_processed_post = review_processed_post(processed_post, processed_url)
                     # print("Reviewed Post:")
                     # print(reviewed_processed_post.refined_with_url)
 
