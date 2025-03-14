@@ -643,5 +643,10 @@
         "original": "Local Deep Research，一款强大的 AI 驱动研究助手，使用多个LLMs和网页搜索进行深度、迭代分析。系统可本地运行以保护隐私，或配置为使用基于云的LLMs以增强功能。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FLearningCircuit%2Flocal-deep-research\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Local Deep Research is a powerful AI-driven research assistant that uses multiple LLMs and web searches for deep, iterative analysis. The system can operate locally to protect privacy, or be configured to use cloud-based LLMs to enhance functionality. Address: [web link] https://github.com/LearningCircuit/local-deep-research",
         "refined_with_url": "Local Deep Research is a powerful AI-driven research assistant that uses multiple LLMs and web searches for deep, iterative analysis. The system can operate locally to protect privacy, or be configured to use cloud-based LLMs to enhance functionality. Address: https://github.com/LearningCircuit/local-deep-research"
+    },
+    "5144018443307334": {
+        "original": "AI 可以让我们不用花太多时间写码，不过程序员思维依然很重要",
+        "processed": "AI can help us save time on coding, but the programmer mindset is still very important. status/1234567890",
+        "refined_with_url": "AI can help us save time on coding, but the programmer mindset is still very important. https://status/1234567890"
     }
 }
