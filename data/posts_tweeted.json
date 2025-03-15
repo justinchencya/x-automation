@@ -648,5 +648,10 @@
         "original": "AI 可以让我们不用花太多时间写码，不过程序员思维依然很重要",
         "processed": "AI can help us save time on coding, but the programmer mindset is still very important. status/1234567890",
         "refined_with_url": "AI can help us save time on coding, but the programmer mindset is still very important. https://status/1234567890"
+    },
+    "5144097656933270": {
+        "original": "这也能原？推特用户ilumine_ai 用Gemini 2 FE生成一些（简陋）原神游戏截图…… <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "Is this also possible? Twitter user ilumine_ai used Gemini 2 FE to generate some (crude) Genshin Impact game screenshots... https://search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "Is this also possible? Twitter user ilumine_ai used Gemini 2 FE to generate some (crude) Genshin Impact game screenshots... https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
     }
 }
