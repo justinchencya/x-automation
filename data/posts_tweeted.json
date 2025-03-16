@@ -678,5 +678,10 @@
         "original": "国外著名程序员分享如何使用LLMs帮助编写代码的经验 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fsimonwillison.net%2F2025%2FMar%2F11%2Fusing-llms-for-code%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Renowned foreign programmer shares experience on how to use LLMs to help write code. Address: \nhttps://simonwillison.net/2025/Mar/11/using-llms-for-code/",
         "refined_with_url": "Renowned foreign programmer shares experience on how to use LLMs to help write code. Address: https://simonwillison.net/2025/Mar/11/using-llms-for-code/"
+    },
+    "5144915593135061": {
+        "original": "The Human Language Translator is a Chrome browser extension designed to help users quickly translate text content on web pages. It offers a beautiful, draggable pop-up interface with real-time translation and copy functions. Address: https://github.com/DemoJ/HumanizeText",
+        "processed": "The Human Language Translator is a Chrome browser extension designed to help users quickly translate text content on web pages. It offers a beautiful, draggable pop-up interface with real-time translation and copy functions. Address: https://github.com/DemoJ/HumanizeText",
+        "refined_with_url": "The Human Language Translator is a Chrome browser extension designed to help users quickly translate text content on web pages. It offers a beautiful, draggable pop-up interface with real-time translation and copy functions. Address: https://github.com/DemoJ/HumanizeText"
     }
 }
