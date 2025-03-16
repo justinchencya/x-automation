@@ -673,5 +673,10 @@
         "original": "由于 Gemini 新的图形模型效果太过惊人，以至于有网友感叹：“谷歌这波能砸多少人的饭碗”，我的建议是可以换个角度思考：“谷歌生成图片的发布创造了多少新的机会？我怎么抓住这波机会？” 也许结果会不一样：）",
         "processed": "Because the effect of Gemini's new graphics model is so amazing, it has led some netizens to exclaim: \"How many people's jobs will Google destroy this time?\" My suggestion is to think from a different perspective: \"How many new opportunities has Google's release of generated images created? How can I seize this wave of opportunities?\" Maybe the outcome will be different :) the-actual-url",
         "refined_with_url": "Because the effect of Gemini's new graphics model is so amazing, it has led some netizens to exclaim: \"How many people's jobs will Google destroy this time?\" My suggestion is to think from a different perspective: \"How many new opportunities has Google's release of generated images created? How can I seize this wave of opportunities?\" Maybe the outcome will be different :) the-actual-url"
+    },
+    "5144833408630794": {
+        "original": "国外著名程序员分享如何使用LLMs帮助编写代码的经验 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fsimonwillison.net%2F2025%2FMar%2F11%2Fusing-llms-for-code%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Renowned foreign programmer shares experience on how to use LLMs to help write code. Address: \nhttps://simonwillison.net/2025/Mar/11/using-llms-for-code/",
+        "refined_with_url": "Renowned foreign programmer shares experience on how to use LLMs to help write code. Address: https://simonwillison.net/2025/Mar/11/using-llms-for-code/"
     }
 }
