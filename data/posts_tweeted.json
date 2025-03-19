@@ -748,5 +748,10 @@
         "original": "Google 是也发力了，正在灰度发布 Gemini Canvas，整体体验和 ChatGPT 的 Canvas 功能以及 Claude Artifacts 类似，主要特点：<br />🧑💻 直接支持代码（包括热门的 React 框架）<br />✍️ 强大的写作能力，助你轻松完成文案、文档撰写<br /> 🔗一键生成并分享链接",
         "processed": "Google is also pushing forward, currently rolling out Gemini Canvas in a phased manner. The overall experience is similar to the Canvas feature of ChatGPT and Claude Artifacts. Main features: 🧑💻 Directly supports coding (including the popular React framework) ✍️ Powerful writing capabilities to easily help you complete copy and document writing 🔗Generate and share links with one click.",
         "refined_with_url": "Google is also pushing forward, currently rolling out Gemini Canvas in a phased manner. The overall experience is similar to the Canvas feature of ChatGPT and Claude Artifacts. Main features: 🧑💻 Directly supports coding (including the popular React framework) ✍️ Powerful writing capabilities to easily help you complete copy and document writing 🔗Generate and share links with one click."
+    },
+    "5145735072055563": {
+        "original": "grok推出了Deeper Research……",
+        "processed": "grok launched Deeper Research… https://www.example.com/post123",
+        "refined_with_url": "Grok launched Deeper Research… https://www.example.com/post123"
     }
 }
