@@ -753,5 +753,10 @@
         "original": "grok推出了Deeper Research……",
         "processed": "grok launched Deeper Research… https://www.example.com/post123",
         "refined_with_url": "Grok launched Deeper Research… https://www.example.com/post123"
+    },
+    "5145566955179128": {
+        "original": "关于Intel新任CEO是华人 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "About Intel's new CEO being Chinese search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "About Intel's new CEO being Chinese https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
     }
 }
