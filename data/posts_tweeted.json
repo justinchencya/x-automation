@@ -773,5 +773,10 @@
         "original": "一句话解释Vibe coding：观想需求，言出码随 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
         "processed": "A simple explanation of Vibe coding: Visualize the requirement, and the code follows when you speak./search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
         "refined_with_url": "A simple explanation of Vibe coding: Visualize the requirement, and the code follows when you speak. https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
+    },
+    "5146322236606620": {
+        "original": "谷歌AI限额报错怎么那么清晰脱俗……（换个自己的API KEY就没事）",
+        "processed": "Why is the Google AI quota error message so elegantly clear... (Just change to your own API KEY and it's fine) u/1234567890",
+        "refined_with_url": "Why is the Google AI quota error message so elegantly clear... (Just change to your own API KEY and it's fine) u/1234567890"
     }
 }
