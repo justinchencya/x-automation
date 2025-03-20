@@ -758,5 +758,10 @@
         "original": "关于Intel新任CEO是华人 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
         "processed": "About Intel's new CEO being Chinese search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
         "refined_with_url": "About Intel's new CEO being Chinese https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
+    },
+    "5146191252948779": {
+        "original": "不要分享你的 API Key 或者纹在手臂上😄",
+        "processed": "Do not share your API Key or tattoo it on your arm 😄 u/123456789",
+        "refined_with_url": "Do not share your API Key or tattoo it on your arm 😄"
     }
 }
