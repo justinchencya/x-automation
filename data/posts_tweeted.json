@@ -813,5 +813,10 @@
         "original": "在研究怎么给vitepress加AI功能，发现一个项目叫documate，好像就单纯给文档网站加个“AI搜索框”，还得依赖它自己的aircode网站……<br /><br />一看最近更新，两年前，然后示例网站还寄了……",
         "processed": "Researching how to add AI functionality to vitepress, I discovered a project called documate. It seems to simply add an 'AI search box' to document sites, and it relies on its own aircode website...<br /><br />I checked the latest updates, which were two years ago, and the example site is down... /status/xyz123",
         "refined_with_url": "Researching how to add AI functionality to vitepress, I discovered a project called documate. It seems to simply add an 'AI search box' to document sites, and it relies on its own aircode website... I checked the latest updates, which were two years ago, and the example site is down... https://example.com/status/xyz123"
+    },
+    "5146523387037056": {
+        "original": "Gemini原生画图能力升级：夹图错误率降低；多轮对话缺陷优化；快速“重新生成”按钮<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a>",
+        "processed": "Gemini's native drawing capabilities have been upgraded: the error rate in composite images is reduced; defects in multi-round dialogues are optimized; quick 'regenerate' button. /search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "Gemini's native drawing capabilities have been upgraded: the error rate in composite images is reduced; defects in multi-round dialogues are optimized; quick 'regenerate' button. https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23"
     }
 }
