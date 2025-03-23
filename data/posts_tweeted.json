@@ -843,5 +843,10 @@
         "original": "不是每个人都有时间做几百道 LeetCode 题目，为忙碌的工程师准备的免费技术面试准备材料 #AI创造营# <br /><br />地址: 网页链接",
         "processed": "Not everyone has the time to do hundreds of LeetCode problems. Here are free technical interview preparation materials for busy engineers.\n\nAddress: [Web link]\nhttps://github.com/yangshun/tech-interview-handbook",
         "refined_with_url": "Not everyone has the time to do hundreds of LeetCode problems. Here are free technical interview preparation materials for busy engineers. Address: https://github.com/yangshun/tech-interview-handbook"
+    },
+    "5147337379285571": {
+        "original": "LangManus 是一个社区驱动的 AI 自动化框架，它建立在开源社区的卓越工作基础之上。我们的目标是将语言模型与专业工具（如网络搜索、爬虫和 Python 代码执行）相结合，同时回馈让这一切成为可能的社区。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Flangmanus%2Flangmanus\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "LangManus is a community-driven AI automation framework built on the excellent work of the open-source community. Our goal is to integrate language models with professional tools (such as web search, scraping, and Python code execution) while giving back to the community that made it all possible. Address: Web link\nhttps://github.com/langmanus/langmanus",
+        "refined_with_url": "LangManus is a community-driven AI automation framework built on the excellent work of the open-source community. Our goal is to integrate language models with professional tools (such as web search, scraping, and Python code execution) while giving back to the community that made it all possible. Address: https://github.com/langmanus/langmanus"
     }
 }
