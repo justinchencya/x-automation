@@ -853,5 +853,10 @@
         "original": "ai.dev会跳转到aistudio.google.com了，dev是开发者developer头三个字母",
         "processed": "ai.dev will now redirect to aistudio.google.com, 'dev' is the first three letters of 'developer' https://aistudio.google.com/",
         "refined_with_url": "ai.dev will now redirect to aistudio.google.com. 'Dev' is the first three letters of 'developer'. Visit: https://aistudio.google.com/"
+    },
+    "5147637876525583": {
+        "original": "Google AIStudio 新域名： ai.dev  <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fai.dev\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Google AIStudio's new domain: ai.dev https://ai.dev ",
+        "refined_with_url": "Google AIStudio's new domain: ai.dev https://ai.dev"
     }
 }
