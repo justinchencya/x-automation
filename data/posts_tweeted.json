@@ -898,5 +898,10 @@
         "original": "ChatGPT 新的画图能力还不错的",
         "processed": "ChatGPT's new drawing ability is quite good.",
         "refined_with_url": "ChatGPT's new drawing ability is quite good. https://twitter.com/status/XYZ123"
+    },
+    "5148438330347512": {
+        "original": "FlowSilicon 是一个专为硅基流动 API 设计的代理服务，提供全面的 API 密钥管理、智能负载均衡、请求转发和实时监控功能。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FHanHai-Space%2FFlowSilicon\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "FlowSilicon is a proxy service designed specifically for silicon-based flow APIs, providing comprehensive API key management, intelligent load balancing, request forwarding, and real-time monitoring capabilities.\n\nAddress: https://github.com/HanHai-Space/FlowSilicon",
+        "refined_with_url": "FlowSilicon is a proxy service designed specifically for silicon-based flow APIs, providing comprehensive API key management, intelligent load balancing, request forwarding, and real-time monitoring capabilities. Address: https://github.com/HanHai-Space/FlowSilicon"
     }
 }
