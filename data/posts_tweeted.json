@@ -888,5 +888,10 @@
         "original": "“量产”DeepSeek（不是）",
         "processed": "Mass production 'DeepSeek' (not really) product-detail/456",
         "refined_with_url": "Mass production 'DeepSeek' (not really) product-detail/456"
+    },
+    "5148416847122453": {
+        "original": "Unsloth 发布量化版本的DeepSeek-V3-0324，共六个版本，最小的只有151GB，可在 llama.cpp、LMStudio、Open WebUI 和其他框架中运行。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fhuggingface.co%2Funsloth%2FDeepSeek-V3-0324-GGUF\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Unsloth released the quantized version of DeepSeek-V3-0324, with a total of six versions, the smallest of which is only 151GB. It can run on llama.cpp, LMStudio, Open WebUI, and other frameworks. Address: Web link.\nhttps://huggingface.co/unsloth/DeepSeek-V3-0324-GGUF",
+        "refined_with_url": "Unsloth released the quantized version of DeepSeek-V3-0324, with a total of six versions, the smallest of which is only 151GB. It can run on llama.cpp, LMStudio, Open WebUI, and other frameworks. Address: https://huggingface.co/unsloth/DeepSeek-V3-0324-GGUF"
     }
 }
