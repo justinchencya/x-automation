@@ -918,5 +918,10 @@
         "original": "Open AI宣布正式兼容MCP，AI时代的USB大一统协议来了<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a> <br /><br /><a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fopenai.github.io%2Fopenai-agents-python%2Fmcp%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Open AI announced official compatibility with MCP, the USB unification protocol for the AI era is here.\nhttps://openai.github.io/openai-agents-python/mcp/",
         "refined_with_url": "Open AI announced official compatibility with MCP, the USB unification protocol for the AI era is here. https://openai.github.io/openai-agents-python/mcp/"
+    },
+    "5148753879368237": {
+        "original": "完全依赖于 AI 可能不是高手，拒绝用 AI 的可能也未必是高手。真正的高手是把 AI 当员工用，使用 AI 能力的天花板的是技术水平+管理水平。\n\nProcessed Post:\nCompletely relying on AI may not make you an expert, and refusing to use AI might also not make you an expert. True experts treat AI as an employee; the ceiling of AI's capability is a combination of technical skill and management capability.\nhttps://somepath",
+        "processed": "Completely relying on AI may not make you an expert, and refusing to use AI might also not make you an expert. True experts treat AI as an employee; the ceiling of AI's capability is a combination of technical skill and management capability.",
+        "refined_with_url": "Completely relying on AI may not make you an expert, and refusing to use AI might also not make you an expert. True experts treat AI as an employee; the ceiling of AI's capability is a combination of technical skill and management capability. https://somepath"
     }
 }
