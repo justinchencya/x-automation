@@ -938,5 +938,10 @@
         "original": "LLM现在正在使用图书扫描机器人直接从页面扫描实体书籍进行训练。#AI创造营#  \n\n地址: 网页链接\n",
         "processed": "LLM is currently using book scanning robots to directly scan pages from physical books for training. Address: Web link https://x.com/venturetwins/status/1902942006797799861",
         "refined_with_url": "LLM is currently using book scanning robots to directly scan pages from physical books for training. Address: https://x.com/venturetwins/status/1902942006797799861"
+    },
+    "5149181997221243": {
+        "original": "给你们看看付费产品Midjourney的流量🤣",
+        "processed": "Showing you the traffic of the paid product Midjourney 🤣\nhttps://example.com",
+        "refined_with_url": "Showing you the traffic of the paid product Midjourney 🤣 https://example.com"
     }
 }
