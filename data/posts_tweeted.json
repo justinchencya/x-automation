@@ -953,5 +953,10 @@
         "original": "AI绘图Midjourney终于要升级了吗<span class=\"url-icon\"><img alt=[二哈] src=\"https://h5.sinaimg.cn/m/emoticon/icon/others/d_erha-139d0e07bd.png\" style=\"width:1em; height:1em;\" /></span>看了下频道通知，1 月份一直调到到现在",
         "processed": "Is AI drawing Midjourney finally going to upgrade? [lol] Checked the channel notifications, kept being adjusted since January till now.\nhttps://h5.sinaimg.cn/m/emoticon/icon/others/d_erha-139d0e07bd.png",
         "refined_with_url": "Is AI drawing Midjourney finally going to upgrade? Checked the channel notifications; they have been being adjusted since January until now."
+    },
+    "5149186064647610": {
+        "original": "对比一下衣服转成窗帘的效果。这个场景应该没有谁去专门优化。<br /><br />如果类比Midjourney，左边GPT4o “美化程度”（Stylization）应该是500往上，都出现龙纹了。右边调用的是Gemini 2的API",
+        "processed": "Compare the effect of turning clothes into curtains. Probably no one specifically optimized this scenario. If compared to Midjourney, the 'stylization' on the left with GPT-4o should be above 500, with dragon patterns appearing. The right side uses Gemini 2's API. weibo.com/status/1234567890",
+        "refined_with_url": "Compare the effect of turning clothes into curtains. Probably no one specifically optimized this scenario. If compared to Midjourney, the 'stylization' on the left with GPT-4o should be above 500, with dragon patterns appearing. The right side uses Gemini 2's API. http://weibo.com/status/1234567890"
     }
 }
