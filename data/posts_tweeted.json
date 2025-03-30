@@ -958,5 +958,10 @@
         "original": "对比一下衣服转成窗帘的效果。这个场景应该没有谁去专门优化。<br /><br />如果类比Midjourney，左边GPT4o “美化程度”（Stylization）应该是500往上，都出现龙纹了。右边调用的是Gemini 2的API",
         "processed": "Compare the effect of turning clothes into curtains. Probably no one specifically optimized this scenario. If compared to Midjourney, the 'stylization' on the left with GPT-4o should be above 500, with dragon patterns appearing. The right side uses Gemini 2's API. weibo.com/status/1234567890",
         "refined_with_url": "Compare the effect of turning clothes into curtains. Probably no one specifically optimized this scenario. If compared to Midjourney, the 'stylization' on the left with GPT-4o should be above 500, with dragon patterns appearing. The right side uses Gemini 2's API. http://weibo.com/status/1234567890"
+    },
+    "5149628287422078": {
+        "original": "将“身在花丛中”改成“身在可乐中”，GPT4o色调是真得黄，Midjourney还没想到怎么写Prompt才行 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a>",
+        "processed": "Change \"in the midst of flowers\" to \"in the midst of cola\", GPT4's tone is indeed quite yellow, and I haven't figured out how to write a prompt for Midjourney yet. search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23",
+        "refined_with_url": "Change \"in the midst of flowers\" to \"in the midst of cola\", GPT4's tone is indeed quite yellow, and I haven't figured out how to write a prompt for Midjourney yet. #AI创造营# https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23"
     }
 }
