@@ -968,5 +968,10 @@
         "original": "成会玩儿，用MCP 让Claude控制ChatGPT 4o，自动生成吉卜力风格的分镜<br />github：<a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fsyedazharmbnr1%2Fclaude-chatgpt-mcp\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><br /><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23MCP%23\" data-hide=\"\"><span class=\"surl-text\">#MCP#</span></a><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97%23&extparam=%23AI%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97%23\" data-hide=\"\"><span class=\"surl-text\">#AI生活指南#</span></a><a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a> <a href=\"https://video.weibo.com/show?fid=1034:5149220286693379\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">AIGCLINK的微博视频</span></a>",
         "processed": "Become a master of fun by using MCP to let Claude control ChatGPT 4o and automatically generate storyboards in Ghibli style. GitHub link: [Web Link] show?fid=1034:5149220286693379",
         "refined_with_url": "Become a master of fun by using MCP to let Claude control ChatGPT 4o and automatically generate storyboards in Ghibli style. GitHub link: https://github.com/syedazharmbnr1/claude-chatgpt-mcp Video link: https://video.weibo.com/show?fid=1034:5149220286693379"
+    },
+    "5149235436065528": {
+        "original": "用苹果手表把脉！海外华人开发的中医APP",
+        "processed": "Take the pulse with Apple Watch! TCM app developed by overseas Chinese. /show?fid=1034:5149233532043295",
+        "refined_with_url": "Take the pulse with Apple Watch! TCM app developed by overseas Chinese. [Link here](http://example.com/show?fid=1034:5149233532043295)"
     }
 }
