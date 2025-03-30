@@ -973,5 +973,10 @@
         "original": "用苹果手表把脉！海外华人开发的中医APP",
         "processed": "Take the pulse with Apple Watch! TCM app developed by overseas Chinese. /show?fid=1034:5149233532043295",
         "refined_with_url": "Take the pulse with Apple Watch! TCM app developed by overseas Chinese. [Link here](http://example.com/show?fid=1034:5149233532043295)"
+    },
+    "5150000145500777": {
+        "original": "Video-R1 是一个旨在增强视频理解能力的深度学习项目，通过强化学习（RL）在多层感知器（MLPs）中引入视频推理机制。该项目以 DeepSeek-R1 的成功为基础，推出了 Video-R1 来系统地探索视频推理范式。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Ftulerfeng%2FVideo-R1\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Video-R1 is a deep learning project aimed at enhancing video understanding capabilities by introducing a video reasoning mechanism in Multi-Layer Perceptrons (MLPs) through Reinforcement Learning (RL). Building on the success of DeepSeek-R1, Video-R1 was launched to systematically explore video reasoning paradigms. \n\nAddress: Web Link\nhttps://github.com/tulerfeng/Video-R1",
+        "refined_with_url": "Video-R1 is a deep learning project aimed at enhancing video understanding capabilities by introducing a video reasoning mechanism in Multi-Layer Perceptrons (MLPs) through Reinforcement Learning (RL). Building on the success of DeepSeek-R1, Video-R1 was launched to systematically explore video reasoning paradigms. Address: https://github.com/tulerfeng/Video-R1"
     }
 }
