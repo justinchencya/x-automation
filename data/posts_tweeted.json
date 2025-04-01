@@ -1008,5 +1008,10 @@
         "original": "AgentHunter introduces and compares various different AI agents, covering areas such as personal assistants, marketing, programming, personal security, and multi-modal content processing. Address: [Website link] https://www.agenthunter.io/",
         "processed": "AgentHunter introduces and compares various different AI agents, covering areas such as personal assistants, marketing, programming, personal security, and multi-modal content processing. Address: https://www.agenthunter.io/",
         "refined_with_url": "AgentHunter introduces and compares various different AI agents, covering areas such as personal assistants, marketing, programming, personal security, and multi-modal content processing. Check it out here: https://www.agenthunter.io/"
+    },
+    "5150615919398630": {
+        "original": "Cards-Go 一个基于 AI 的知识卡片生成工具，支持多种风格和自定义选项。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fjoeseesun%2Fcards-go\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Cards-Go is a knowledge card generation tool based on AI, supporting multiple styles and custom options. Address: [website link] https://github.com/joeseesun/cards-go",
+        "refined_with_url": "Cards-Go is a knowledge card generation tool based on AI, supporting multiple styles and custom options. Address: https://github.com/joeseesun/cards-go"
     }
 }
