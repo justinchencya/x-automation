@@ -1028,5 +1028,10 @@
         "original": "继GPT-2后，OpenAI计划发布一款新的开源模型，模型具备推理能力<br /><br />反馈地址：<a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fopenai.com%2Fopen-model-feedback%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23openai%23\" data-hide=\"\"><span class=\"surl-text\">#openai#</span></a>",
         "processed": "After GPT-2, OpenAI plans to release a new open-source model with inference capabilities.\n\nFeedback URL: [Web Link](https://openai.com/open-model-feedback/)\nhttps://openai.com/open-model-feedback/",
         "refined_with_url": "After GPT-2, OpenAI plans to release a new open-source model with inference capabilities. Feedback URL: https://openai.com/open-model-feedback/"
+    },
+    "5149945738036718": {
+        "original": "期待已久的 Midjourney v7 真的要来了，目前正在做最后的润色。大家可以通过    midjourney.com/rank-v7 为图片评分。<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23midjourney%23&extparam=%23midjourney%23\" data-hide=\"\"><span class=\"surl-text\">#midjourney#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23midjourneyv7%23&extparam=%23midjourneyv7%23\" data-hide=\"\"><span class=\"surl-text\">#midjourneyv7#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E7%BB%98%E7%94%BB%23&extparam=%23AI%E7%BB%98%E7%94%BB%23\" data-hide=\"\"><span class=\"surl-text\">#AI绘画#</span></a>",
+        "processed": "The long-awaited Midjourney v7 is really coming soon and is currently in the final polishing stages. Everyone can rate images via midjourney.com/rank-v7.",
+        "refined_with_url": "The long-awaited Midjourney v7 is really coming soon and is currently in the final polishing stages. Everyone can rate images via midjourney.com/rank-v7. #midjourney #midjourneyv7 #AIArt https://midjourney.com/rank-v7"
     }
 }
