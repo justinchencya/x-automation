@@ -1083,5 +1083,10 @@
         "original": "一个可以从单张人像照片生成360度头部视图的项目：DiffPortrait360，从效果看视图之间一致性保持较好<br /><br />也支持处理风格化和拟人化图像，能处理眼镜、帽子等配饰<br /><br />支持ControlNet控制背面细节生成，提高背面视图的精细度和真实感<br /><br />能生成高质量的NeRF模型，支持自由视角渲染<br /><br />github： ...<a href=\"/status/5151393954922647\">全文</a>",
         "processed": "A project that can generate a 360-degree head view from a single portrait photo: DiffPortrait360, where the consistency between views appears to be well maintained. It also supports processing stylized and anthropomorphic images and can handle glasses, hats, and other accessories. Supports ControlNet to control the generation of details at the back, improving the refinement and realism of the back view. Can generate high-quality NeRF models, supporting free viewpoint rendering. github: ...",
         "refined_with_url": "A project that can generate a 360-degree head view from a single portrait photo: DiffPortrait360, where the consistency between views appears to be well maintained. It also supports processing stylized and anthropomorphic images and can handle glasses, hats, and other accessories. Supports ControlNet to control the generation of details at the back, improving the refinement and realism of the back view. Can generate high-quality NeRF models, supporting free viewpoint rendering. github: ... https://www.github.com/DiffPortrait360"
+    },
+    "5150662246532040": {
+        "original": "让GPT4o帮忙Cosplay，均被拒绝。但从残存照片看，确实能做到",
+        "processed": "Asking GPT4o to help with Cosplay was refused, but from the remaining photos, it indeed seems possible. https://example.com/page?param=value",
+        "refined_with_url": "Asking GPT4o to help with Cosplay was refused, but from the remaining photos, it indeed seems possible. https://example.com/page?param=value"
     }
 }
