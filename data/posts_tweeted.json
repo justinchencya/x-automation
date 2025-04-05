@@ -1108,5 +1108,10 @@
         "original": "试了一些奇怪验证码，其实AI都能解……不知道有啥意义",
         "processed": "Tried some strange CAPTCHAs, but actually AI can solve them all... not sure what the point is. https://something",
         "refined_with_url": "Tried some strange CAPTCHAs, but actually AI can solve them all... not sure what the point is. https://something"
+    },
+    "5151865738627572": {
+        "original": "把照片变成 3D Q版风格<br />工具：Sora.com 或 GPT-4o<br />提示词（需要上传一张照片）：<br /><br />将场景中的角色转化为3D Q版风格，同时保持原本的场景布置和服装造型不变。",
+        "processed": "Turn photos into 3D chibi style.\nTools: Sora.com or GPT-4o\nPrompt (you need to upload a photo):\n\nTransform the characters in the scene into a 3D chibi style while keeping the original scene layout and costume design unchanged.",
+        "refined_with_url": "Turn photos into 3D chibi style. Tools: Sora.com or GPT-4o Prompt (you need to upload a photo): Transform the characters in the scene into a 3D chibi style while keeping the original scene layout and costume design unchanged. Sora.com"
     }
 }
