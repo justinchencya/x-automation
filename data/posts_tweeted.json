@@ -1113,5 +1113,10 @@
         "original": "把照片变成 3D Q版风格<br />工具：Sora.com 或 GPT-4o<br />提示词（需要上传一张照片）：<br /><br />将场景中的角色转化为3D Q版风格，同时保持原本的场景布置和服装造型不变。",
         "processed": "Turn photos into 3D chibi style.\nTools: Sora.com or GPT-4o\nPrompt (you need to upload a photo):\n\nTransform the characters in the scene into a 3D chibi style while keeping the original scene layout and costume design unchanged.",
         "refined_with_url": "Turn photos into 3D chibi style. Tools: Sora.com or GPT-4o Prompt (you need to upload a photo): Transform the characters in the scene into a 3D chibi style while keeping the original scene layout and costume design unchanged. Sora.com"
+    },
+    "5151931107115046": {
+        "original": "把照片中的人物变成塑料包装的可动人偶套装<br />工具：sora.com 或者 GPT-4o<br /><br />提示词（需要上传半身或者全身单人照片，使用时请替换提示词关键字）：<br /><br />把照片中的人物保留人物特征变成可动人偶套装，内含一款照片人物形象的人偶，以及配套的[笔记本电脑、单反相机和服饰]。包装盒的标题为“<a href='/n/宝玉xp'>@宝玉xp</a>”",
+        "processed": "Transform the person in the photo into a movable action figure set in plastic packaging.<br />Tools: sora.com or GPT-4o<br /><br />Prompt (you need to upload a half-body or full-body single person photo, and please replace the prompt keywords when using):<br /><br />Keep the features of the person in the photo and transform them into a movable action figure set, including an action figure resembling the photo's person, and accessories [laptop, DSLR camera, and clothing]. The title on the packaging box is \"@宝玉xp\".\nsora.com",
+        "refined_with_url": "Transform the person in the photo into a movable action figure set in plastic packaging. Tools: sora.com or GPT-4o. Prompt (you need to upload a half-body or full-body single person photo, and please replace the prompt keywords when using): Keep the features of the person in the photo and transform them into a movable action figure set, including an action figure resembling the photo's person, and accessories such as a laptop, DSLR camera, and clothing. The title on the packaging box is \"@宝玉xp\". Website: sora.com."
     }
 }
