@@ -1103,5 +1103,10 @@
         "original": "多模态 OCR 流水线专门设计用于从复杂的教育材料（如试卷）中提取结构化数据，以优化机器学习（ML）训练的格式。它支持多语言文本、数学公式、表格、图表和图表，非常适合创建高质量的训练数据集。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fses4255%2FVersatile-OCR-Program\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "The multimodal OCR pipeline is specifically designed to extract structured data from complex educational materials (such as test papers) to optimize the format for machine learning (ML) training. It supports multilingual text, mathematical formulas, tables, diagrams, and charts, making it ideal for creating high-quality training datasets. Address: [Web Page Link] https://github.com/ses4255/Versatile-OCR-Program",
         "refined_with_url": "The multimodal OCR pipeline is specifically designed to extract structured data from complex educational materials (such as test papers) to optimize the format for machine learning (ML) training. It supports multilingual text, mathematical formulas, tables, diagrams, and charts, making it ideal for creating high-quality training datasets. Address: https://github.com/ses4255/Versatile-OCR-Program"
+    },
+    "5151837896836909": {
+        "original": "试了一些奇怪验证码，其实AI都能解……不知道有啥意义",
+        "processed": "Tried some strange CAPTCHAs, but actually AI can solve them all... not sure what the point is. https://something",
+        "refined_with_url": "Tried some strange CAPTCHAs, but actually AI can solve them all... not sure what the point is. https://something"
     }
 }
