@@ -1133,5 +1133,10 @@
         "original": "原文暂时编辑不了，midjourney是付费订阅应用，额度按月计算，10 美元套餐大概 200 次快速生成（每次四张，非草稿模式）。以前它有试用但是被网络蝗虫转卖搞的受不了就取消了",
         "processed": "The original text cannot be edited for now. Midjourney is a paid subscription app, with credits calculated monthly. The $10 package offers about 200 fast generations (four images each time, non-draft mode). It used to have a trial version, but it was canceled because it couldn't tolerate being resold by internet pests.\nstatus/ABCD1234",
         "refined_with_url": "The original text cannot be edited for now. Midjourney is a paid subscription app, with credits calculated monthly. The $10 package offers about 200 fast generations (four images each time, non-draft mode). It used to have a trial version, but it was canceled because it couldn't tolerate being resold by internet pests. status/ABCD1234"
+    },
+    "5151356337258871": {
+        "original": "去除 AI 味 Prompt <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br />开源地址：<a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fhylarucoder%2Fai-flavor-remover\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><br />另外，免费的在线AI检测器<br /><a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fmatrix.tencent.com%2Fai-detect%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Remove AI Flavor Prompt\nOpen source address: [link]\nAdditionally, a free online AI detector [link]\nhttps://github.com/hylarucoder/ai-flavor-remover, https://matrix.tencent.com/ai-detect/",
+        "refined_with_url": "Remove AI Flavor Prompt\nOpen source address: https://github.com/hylarucoder/ai-flavor-remover\nAdditionally, a free online AI detector: https://matrix.tencent.com/ai-detect/"
     }
 }
