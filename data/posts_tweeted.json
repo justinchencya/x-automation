@@ -1163,5 +1163,10 @@
         "original": "Cloudflare 官方出品的 MCP Server <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fcloudflare%2Fmcp-server-cloudflare\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Cloudflare's official MCP Server. \n\nAddress: https://github.com/cloudflare/mcp-server-cloudflare\nhttps://github.com/cloudflare/mcp-server-cloudflare",
         "refined_with_url": "Cloudflare's official MCP Server. Address: https://github.com/cloudflare/mcp-server-cloudflare"
+    },
+    "5152917230194274": {
+        "original": "GitHub 的官方出品 MCP Server  <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fgithub%2Fgithub-mcp-server\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "Official GitHub release MCP Server. Address: Web link https://github.com/github/github-mcp-server",
+        "refined_with_url": "Official GitHub release MCP Server. Address: https://github.com/github/github-mcp-server"
     }
 }
