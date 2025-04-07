@@ -1153,5 +1153,10 @@
         "original": "Agno 是一个用于构建多模态代理的轻量级库。它将 LLMs 作为统一的 API 暴露，并赋予它们如记忆、知识、工具和推理等超能力。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fagno-agi%2Fagno\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> <a  href=\"https://video.weibo.com/show?fid=1034:5152070005882916\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林亦LYi的微博视频</span></a>",
         "processed": "Agno is a lightweight library for building multimodal agents. It exposes LLMs as a unified API and empowers them with superpowers such as memory, knowledge, tools, and reasoning abilities.\n\nLink: Web link LinyiLYi's Weibo video\nshow?fid=1034:5152070005882916",
         "refined_with_url": "Agno is a lightweight library for building multimodal agents. It exposes LLMs as a unified API and empowers them with superpowers such as memory, knowledge, tools, and reasoning abilities.\n\n#AI创造营# [AI Innovative Camp]\nGitHub: https://github.com/agno-agi/agno\nLinyiLYi's Weibo video: https://video.weibo.com/show?fid=1034:5152070005882916"
+    },
+    "5152431500167418": {
+        "original": "我一直这么建议的，不要舍不得花订阅费，现在的AI工具订阅费可比雇个人合算多了",
+        "processed": "I have always suggested this: don't be reluctant to spend on subscription fees. The current AI tools' subscription fees are much more cost-effective than hiring someone. https://example.com",
+        "refined_with_url": "I have always suggested this: don't be reluctant to spend on subscription fees. The current AI tools' subscription fees are much more cost-effective than hiring someone. https://example.com"
     }
 }
