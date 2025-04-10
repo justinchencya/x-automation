@@ -1203,5 +1203,10 @@
         "original": "谷歌的文生视频API来了，名为veo2。但只对付费账户开放。<br />开发者可以抓紧接入自己的产品。<br /><br />详情：<a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fai.google.dev%2Fgemini-api%2Fdocs%2Fvideo\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Google's text-to-video API, named veo2, is here, but it's only open to paid accounts. Developers can start integrating it into their products. https://ai.google.dev/gemini-api/docs/video",
         "refined_with_url": "Google's text-to-video API, named veo2, is here, but it's only open to paid accounts. Developers can start integrating it into their products. https://ai.google.dev/gemini-api/docs/video"
+    },
+    "5153815854582564": {
+        "original": "Turn a photo into a layered paper-cut art piece.<br />Tools: sora.com or GPT-4o.<br />Prompt:<br />Convert the photo into a layered paper-cut artwork, separating the middle ground from the background in the photo, and add the title: Chicago 2016.\nsora.com",
+        "processed": "Turn a photo into a layered paper-cut art piece. Tools: sora.com or GPT-4o. Prompt: Convert the photo into a layered paper-cut artwork, separating the middle ground from the background in the photo, and add the title: Chicago 2016. sora.com",
+        "refined_with_url": "Turn a photo into a layered paper-cut art piece. Tools: sora.com or GPT-4o. Prompt: Convert the photo into a layered paper-cut artwork, separating the middle ground from the background in the photo, and add the title: Chicago 2016. [sora.com](https://sora.com)"
     }
 }
