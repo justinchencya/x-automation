@@ -1233,5 +1233,10 @@
         "original": "Grok3 API终于出了，一百万词元输出15美元。之前充五块返一百五十好像也用不了多久[doge]详见： console.x.ai",
         "processed": "Grok3 API is finally out. One million tokens output for $15. Previously, recharging five bucks and getting 150 in return also seemed to not last long [doge] See details at: console.x.ai console.x.ai",
         "refined_with_url": "Grok3 API is finally out. One million tokens output for $15. Previously, recharging five bucks and getting 150 in return also seemed to not last long. See details at console.x.ai"
+    },
+    "5154338012661486": {
+        "original": "DevDocs 是一个完全免费、私有的积水文档 MCP 服务器，旨在为程序员和软件开发者提供服务。该服务器支持 UI，并且可以轻松集成到 Cursor、Windsurf、Cline、Roo Code 和 Claude 桌面应用程序中。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fcyberagiinc%2FDevDocs\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "DevDocs is a completely free and private MCP server for documentation, aimed at serving programmers and software developers. This server supports a UI and can be easily integrated into Cursor, Windsurf, Cline, Roo Code, and Claude desktop applications. \n\nAddress: \nhttps://github.com/cyberagiinc/DevDocs",
+        "refined_with_url": "DevDocs is a completely free and private MCP server for documentation, aimed at serving programmers and software developers. This server supports a UI and can be easily integrated into Cursor, Windsurf, Cline, Roo Code, and Claude desktop applications. Address: https://github.com/cyberagiinc/DevDocs"
     }
 }
