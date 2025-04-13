@@ -1278,5 +1278,10 @@
         "original": "企鹅滑冰 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a> <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B0%B7%E6%AD%8C%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BVeo2%23&extparam=%23%E8%B0%B7%E6%AD%8C%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BVeo2%23\" data-hide=\"\"><span class=\"surl-text\">#谷歌文生视频模型Veo2#</span></a> <a href=\"https://video.weibo.com/show?fid=1034:5154655798493230\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">黄健楸的微博视频</span></a>",
         "processed": "Penguin Skating 黄健楸's Weibo video\nshow?fid=1034:5154655798493230",
         "refined_with_url": "Penguin Skating Yellow Jianqiu's Weibo video: https://video.weibo.com/show?fid=1034:5154655798493230 #aiCreativeCamp #GoogleTextToVideoVeo2"
+    },
+    "5154720754966196": {
+        "original": "这个轮子不动可惜了 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B0%B7%E6%AD%8C%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BVeo2%23&extparam=%23%E8%B0%B7%E6%AD%8C%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BVeo2%23\" data-hide=\"\"><span class=\"surl-text\">#谷歌文生视频模型Veo2#</span></a> <a  href=\"https://video.weibo.com/show?fid=1034:5154720365609088\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">黄健楸的微博视频</span></a>",
+        "processed": "It's a pity if this wheel doesn't move. Huang Jianqiu's Weibo video show?fid=1034:5154720365609088",
+        "refined_with_url": "It's a pity if this wheel doesn't move. Huang Jianqiu's Weibo video https://video.weibo.com/show?fid=1034:5154720365609088"
     }
 }
