@@ -1283,5 +1283,10 @@
         "original": "这个轮子不动可惜了 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B0%B7%E6%AD%8C%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BVeo2%23&extparam=%23%E8%B0%B7%E6%AD%8C%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BVeo2%23\" data-hide=\"\"><span class=\"surl-text\">#谷歌文生视频模型Veo2#</span></a> <a  href=\"https://video.weibo.com/show?fid=1034:5154720365609088\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">黄健楸的微博视频</span></a>",
         "processed": "It's a pity if this wheel doesn't move. Huang Jianqiu's Weibo video show?fid=1034:5154720365609088",
         "refined_with_url": "It's a pity if this wheel doesn't move. Huang Jianqiu's Weibo video https://video.weibo.com/show?fid=1034:5154720365609088"
+    },
+    "5154595548168250": {
+        "original": "有价值的测试，我的经验就是：1. 用好的模型；2. 尽可能简洁，只保留必要的上下文和指令；3.找个喜欢的模型多生成几次，可以根据结果适当调整提示词，多试几次一般就能得到一个简洁稳定的结果",
+        "processed": "Valuable testing, my experience is: 1. Use a good model; 2. Be as concise as possible, keep only the necessary context and instructions; 3. Choose a model you like and generate multiple times, adjust the prompts as needed based on the results, and usually after trying several times you can get a concise and stable result. 1034:4567abcd",
+        "refined_with_url": "Valuable testing, my experience is: 1. Use a good model; 2. Be as concise as possible, keep only the necessary context and instructions; 3. Choose a model you like and generate multiple times, adjust the prompts as needed based on the results, and usually after trying several times you can get a concise and stable result."
     }
 }
