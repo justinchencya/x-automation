@@ -1298,5 +1298,10 @@
         "original": "基于Cloudflare Worker的AI图片生成脚本 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fjustlovemaki%2FCloudFlare-AI-Image\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "AI image generation script based on Cloudflare Worker\n\nURL: \nhttps://github.com/justlovemaki/CloudFlare-AI-Image",
         "refined_with_url": "AI image generation script based on Cloudflare Worker https://github.com/justlovemaki/CloudFlare-AI-Image"
+    },
+    "5154605239898385": {
+        "original": "让GPT4o其他AI图的手部问题  <br />Midjourney v7手部有时会出问题，比如图一，让GPT修复成图二，虽然手修复好了，但感觉美观有些欠缺",
+        "processed": "Let GPT4 fix the hand issues of other AI images. <br />Midjourney v7 sometimes has hand issues, like in image one. We let GPT fix it to become image two. Although the hands are fixed, the aesthetics seem somewhat lacking.\nN/A",
+        "refined_with_url": "Let GPT4 fix the hand issues of other AI images. Midjourney v7 sometimes has hand issues, like in image one. We let GPT fix it to become image two. Although the hands are fixed, the aesthetics seem somewhat lacking."
     }
 }
