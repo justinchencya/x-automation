@@ -1328,5 +1328,10 @@
         "original": "OpenAI创始人只用纸笔做笔记<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%AC%94%E8%AE%B0%E6%B3%95%23\" data-hide=\"\"><span class=\"surl-text\">#笔记法#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E5%A7%86%E5%A5%A5%E7%89%B9%E6%9B%BC%23&extparam=%23%E5%B1%B1%E5%A7%86%E5%A5%A5%E7%89%B9%E6%9B%BC%23\" data-hide=\"\"><span class=\"surl-text\">#山姆奥特曼#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23OpenAI%23\" data-hide=\"\"><span class=\"surl-text\">#OpenAI#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%96%B9%E6%B3%95%E8%AE%BA%23&isnewpage=1\" data-hide=\"\"><span class=\"surl-text\">#方法论#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B7%A5%E4%BD%9C%E6%B5%81%23\" data-hide=\"\"><span class=\"surl-text\">#工作流#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <a  href=\"https://video.weibo.com/show?fid=1034:5155316850163792\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林亦LYi的微博视频</span></a>",
         "processed": "The founder of OpenAI takes notes only with pen and paper.\nshow?fid=1034:5155316850163792",
         "refined_with_url": "The founder of OpenAI takes notes only with pen and paper. https://video.weibo.com/show?fid=1034:5155316850163792"
+    },
+    "5155391400320531": {
+        "original": "又一款不错的 AI 绘画和视频整合工具",
+        "processed": "Another great AI drawing and video integration tool\nu/12345678",
+        "refined_with_url": "Another great AI drawing and video integration tool"
     }
 }
