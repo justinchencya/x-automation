@@ -1373,5 +1373,10 @@
         "original": "发布了头条文章：《纽约客：如何在人工智能革命中生存下来？》 \\n卢德派在历史上曾为保护生计而斗争，但最终失败了。在人工智能的浪潮扑面而来时，我们能否做得更好？\\n <a href=\"https://weibo.com/ttarticle/p/show?id=2309405156063283642501\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png'></span><span class=\"surl-text\">纽约客：如何在人工智能革命中生存下来？</span></a>",
         "processed": "Published a headline article: \"The New Yorker: How to Survive the AI Revolution?\" \\nThe Luddites historically fought to protect their livelihoods but ultimately failed. As the wave of artificial intelligence approaches, can we do better? ttarticle/p/show?id=2309405156063283642501",
         "refined_with_url": "Published a headline article: \"The New Yorker: How to Survive the AI Revolution?\" The Luddites historically fought to protect their livelihoods but ultimately failed. As the wave of artificial intelligence approaches, can we do better? https://weibo.com/ttarticle/p/show?id=2309405156063283642501"
+    },
+    "5155754722464543": {
+        "original": "最近思考的一类问题：<br />1️⃣算力与水力、电力与网络带宽这类资源类似吗？如果是，是否可能推出算力会成为另一种基础资源<br />2️⃣电力大规模应用的时候，相关理论是“白盒”状态，还是“黑盒”（不懂，但是用起来再说）",
+        "processed": "Recently I've been thinking about a type of problem: 1️⃣ Is computing power similar to resources like water power, electricity, and network bandwidth? If so, could computing power become another basic resource? 2️⃣ When electricity was applied on a large scale, was the related theory in a 'white box' state, or a 'black box' (not understood, but just used)?",
+        "refined_with_url": "Recently I've been thinking about a type of problem: 1️⃣ Is computing power similar to resources like water power, electricity, and network bandwidth? If so, could computing power become another basic resource? 2️⃣ When electricity was applied on a large scale, was the related theory in a 'white box' state, or a 'black box' (not understood, but just used)? article/123456"
     }
 }
