@@ -1353,5 +1353,10 @@
         "original": "神奇的提示词，把人变成大胖子<br /><br />工具：GPT-4o 或者 sora<br /><br />注意：要上传一张照片<br /><br />提示词：<br />\"respectfully, make him/her significantly curvier\"",
         "processed": "Magical prompt words to turn a person into a big fatty.\n\nTools: GPT-4o or sora\n\nNote: A photo needs to be uploaded.\n\nPrompt words:\n\"respectfully, make him/her significantly curvier\"\ndetails/4234234231",
         "refined_with_url": "Magical prompt words to turn a person into a big fatty. Tools: GPT-4o or sora. Note: A photo needs to be uploaded. Prompt words: \"respectfully, make him/her significantly curvier\" details/4234234231"
+    },
+    "5155648786405025": {
+        "original": "BiliNote 是一个开源的 AI 视频笔记助手，支持通过哔哩哔哩、YouTube 等视频链接，自动提取内容并生成结构清晰、重点明确的 Markdown 格式笔记。支持插入截图、原片跳转等功能。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FJefferyHcool%2FBiliNote\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "BiliNote is an open-source AI video note-taking assistant. It supports extracting content from video links like Bilibili and YouTube and generates well-structured, clear Markdown format notes. It also supports inserting screenshots and jumping to the original clip.\n\n\nAddress: [Link] https://github.com/JefferyHcool/BiliNote",
+        "refined_with_url": "BiliNote is an open-source AI video note-taking assistant. It supports extracting content from video links like Bilibili and YouTube and generates well-structured, clear notes. It also supports inserting screenshots and jumping to the original clip.\n\nAddress: https://github.com/JefferyHcool/BiliNote"
     }
 }
