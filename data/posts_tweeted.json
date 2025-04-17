@@ -1378,5 +1378,10 @@
         "original": "最近思考的一类问题：<br />1️⃣算力与水力、电力与网络带宽这类资源类似吗？如果是，是否可能推出算力会成为另一种基础资源<br />2️⃣电力大规模应用的时候，相关理论是“白盒”状态，还是“黑盒”（不懂，但是用起来再说）",
         "processed": "Recently I've been thinking about a type of problem: 1️⃣ Is computing power similar to resources like water power, electricity, and network bandwidth? If so, could computing power become another basic resource? 2️⃣ When electricity was applied on a large scale, was the related theory in a 'white box' state, or a 'black box' (not understood, but just used)?",
         "refined_with_url": "Recently I've been thinking about a type of problem: 1️⃣ Is computing power similar to resources like water power, electricity, and network bandwidth? If so, could computing power become another basic resource? 2️⃣ When electricity was applied on a large scale, was the related theory in a 'white box' state, or a 'black box' (not understood, but just used)? article/123456"
+    },
+    "5156111863254040": {
+        "original": "谷歌高级会员能在Gemini跟Whisk上用Veo2 生成视频了<br /><br />订阅有地区限制，初次订阅的话，可以试用会员一个月<br /><br />🔗<a href='https://blog.google/products/gemini/video-generation/' data-hide=''><span class='url-icon'><img style='width: 1rem;height: 1rem' src='//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span> <span class='surl-text'>网页链接</span></a>",
+        "processed": "Google premium members can use Veo2 to generate videos on Gemini and Whisk. Subscription has regional limitations, but new subscribers can try a one-month free membership. https://blog.google/products/gemini/video-generation/",
+        "refined_with_url": "Google premium members can use Veo2 to generate videos on Gemini and Whisk. Subscription has regional limitations, but new subscribers can try a one-month free membership. https://blog.google/products/gemini/video-generation/"
     }
 }
