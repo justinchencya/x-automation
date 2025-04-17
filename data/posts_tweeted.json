@@ -1383,5 +1383,10 @@
         "original": "谷歌高级会员能在Gemini跟Whisk上用Veo2 生成视频了<br /><br />订阅有地区限制，初次订阅的话，可以试用会员一个月<br /><br />🔗<a href='https://blog.google/products/gemini/video-generation/' data-hide=''><span class='url-icon'><img style='width: 1rem;height: 1rem' src='//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span> <span class='surl-text'>网页链接</span></a>",
         "processed": "Google premium members can use Veo2 to generate videos on Gemini and Whisk. Subscription has regional limitations, but new subscribers can try a one-month free membership. https://blog.google/products/gemini/video-generation/",
         "refined_with_url": "Google premium members can use Veo2 to generate videos on Gemini and Whisk. Subscription has regional limitations, but new subscribers can try a one-month free membership. https://blog.google/products/gemini/video-generation/"
+    },
+    "5156343519119127": {
+        "original": "OpenAI 把 openai.fm 开源了<br />技术栈是 Nextjs + TailwindCSS + ShadcnUI<br /><br />github.com/openai/openai-fm <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai-fm\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "OpenAI has open-sourced openai.fm. The tech stack is Nextjs + TailwindCSS + ShadcnUI. github.com/openai/openai-fm https://github.com/openai/openai-fm",
+        "refined_with_url": "OpenAI has open-sourced openai.fm. The tech stack is Nextjs + TailwindCSS + ShadcnUI. https://github.com/openai/openai-fm"
     }
 }
