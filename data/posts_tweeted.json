@@ -1413,5 +1413,10 @@
         "original": "最近的Windows 11更新开启了Copilot功能：1️⃣可以选择将 Alt + 空格设置为Copilot小窗口的快捷键2️⃣聊天窗目前比较简单，但常用的语音、深度思考、附件都有3️⃣历史记录貌似与Edge Copilot共享，但Edge Copilot目前功能更完善",
         "processed": "The recent Windows 11 update has enabled the Copilot feature: 1) You can choose to set Alt + Space as the shortcut key for the Copilot small window 2) The chat window is currently relatively simple, but it has commonly used voice, deep thinking, and attachment functions 3) The history appears to be shared with Edge Copilot, but Edge Copilot is currently more functional",
         "refined_with_url": "The recent Windows 11 update has enabled the Copilot feature: 1) You can choose to set Alt + Space as the shortcut key for the Copilot small window 2) The chat window is currently relatively simple, but it has commonly used voice, deep thinking, and attachment functions 3) The history appears to be shared with Edge Copilot, but Edge Copilot is currently more functional"
+    },
+    "5156834936098621": {
+        "original": "AI 开发必学技能 <span class=\"url-icon\"><img alt=[耶] src=\"https://h5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png\" style=\"width:1em; height:1em;\" /></span>",
+        "processed": "AI development must-learn skills https://h5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png",
+        "refined_with_url": "AI development must-learn skills https://h5.sinaimg.cn/m/emoticon/icon/others/h_ye-8d6db3a711.png"
     }
 }
