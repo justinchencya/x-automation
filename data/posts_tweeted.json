@@ -1408,5 +1408,10 @@
         "original": "清华、腾讯等出的一个线稿着色工具：Cobra，核心是可以同时参考200多张图片，同时保持低延迟，支持颜色提示从效果看颜色ID保持、细节增强、阴影处理等效果较好支持交互式线稿上色，带阴影线稿上色、线稿视频上色github：网页链接#ai创造营##AI生活指南##AI线稿着色工具#",
         "processed": "A line drawing coloring tool called Cobra, developed by Tsinghua, Tencent, and others, can refer to over 200 images simultaneously while maintaining low latency and supporting color hints. From the effects, color ID maintenance, detail enhancement, and shadow processing are done well. It supports interactive line drawing coloring, shaded line drawing coloring, and line drawing video coloring. GitHub: [web link]",
         "refined_with_url": "A line drawing coloring tool called Cobra, developed by Tsinghua, Tencent, and others, can refer to over 200 images simultaneously while maintaining low latency and supporting color hints. From the effects, color ID maintenance, detail enhancement, and shadow processing are done well. It supports interactive line drawing coloring, shaded line drawing coloring, and line drawing video coloring. GitHub: https://github.com/Zhuang2002/Cobra"
+    },
+    "5156908952983138": {
+        "original": "最近的Windows 11更新开启了Copilot功能：1️⃣可以选择将 Alt + 空格设置为Copilot小窗口的快捷键2️⃣聊天窗目前比较简单，但常用的语音、深度思考、附件都有3️⃣历史记录貌似与Edge Copilot共享，但Edge Copilot目前功能更完善",
+        "processed": "The recent Windows 11 update has enabled the Copilot feature: 1) You can choose to set Alt + Space as the shortcut key for the Copilot small window 2) The chat window is currently relatively simple, but it has commonly used voice, deep thinking, and attachment functions 3) The history appears to be shared with Edge Copilot, but Edge Copilot is currently more functional",
+        "refined_with_url": "The recent Windows 11 update has enabled the Copilot feature: 1) You can choose to set Alt + Space as the shortcut key for the Copilot small window 2) The chat window is currently relatively simple, but it has commonly used voice, deep thinking, and attachment functions 3) The history appears to be shared with Edge Copilot, but Edge Copilot is currently more functional"
     }
 }
