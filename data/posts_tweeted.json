@@ -1428,5 +1428,10 @@
         "original": "Unsloth 官方制作了一份关于如何创建用于微调的数据集指南。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />学习如何：<br />1.精选高质量数据集（最佳实践与示例）。<br />2.正确格式化数据集以供对话、SFT、GRPO、视觉等使用；<br />3.生成 Llama 和 ChatGPT 的合成数据。<br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fdocs.unsloth.ai%2Fbasics%2Fdatasets-guide\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> ",
         "processed": "Unsloth officially created a guide on how to create datasets for fine-tuning. Learn how to: \n1. Select high-quality datasets (best practices and examples).\n2. Properly format datasets for conversations, SFT, GRPO, vision usage, etc. \n3. Generate synthetic data for Llama and ChatGPT.\nAddress: https://docs.unsloth.ai/basics/datasets-guide",
         "refined_with_url": "Unsloth officially created a guide on how to create datasets for fine-tuning. Learn how to:\n1. Select high-quality datasets (best practices and examples).\n2. Properly format datasets for conversations, SFT, GRPO, vision usage, etc.\n3. Generate synthetic data for Llama and ChatGPT.\nAddress: https://docs.unsloth.ai/basics/datasets-guide"
+    },
+    "5156944895021161": {
+        "original": "FramePack生成视频。提示词为：She gave him a flirtatious glance and smiled<br /><br />6GB显存，实测两秒耗时约10分钟 。好像还是倒着生成的，明天再看看",
+        "processed": "FramePack generated video. The prompt was: She gave him a flirtatious glance and smiled. 6GB of video memory, approximately 10 minutes to process two seconds. It seems like it was generated in reverse, I'll check again tomorrow. weibo.cn/status/1234567890",
+        "refined_with_url": "FramePack generated video. The prompt was: She gave him a flirtatious glance and smiled. 6GB of video memory, approximately 10 minutes to process two seconds. It seems like it was generated in reverse, I'll check again tomorrow. http://weibo.cn/status/1234567890"
     }
 }
