@@ -1453,5 +1453,10 @@
         "original": "微软发布了一个文档转换MCP：markitdown-mcp，用于将网页链接(http/https)、本地文件以及数据转换为Markdown格式！ 主要是调用MarkItDown进行格式转换。可以通过Docker运行或直接安装，也可以与Claude等AI工具集成使用 github：网页链接 #AI生活指南# #ai创造营# #MCP# #markitdown#",
         "processed": "Microsoft has released a document conversion MCP: markitdown-mcp, used for converting webpage links (http/https), local files, and data into Markdown format! It primarily uses MarkItDown for format conversion. It can be run through Docker or installed directly, and can also be integrated with AI tools like Claude. github: Web link https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp",
         "refined_with_url": "Microsoft has released a document conversion MCP: markitdown-mcp, used for converting webpage links (http/https), local files, and data into Markdown format! It primarily uses MarkItDown for format conversion. It can be run through Docker or installed directly, and can also be integrated with AI tools like Claude. GitHub: https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp"
+    },
+    "5158155342053679": {
+        "original": "让 AI 用不同风格重画清明上河图<br />工具：GPT-4o<br />提示词：用【XXX风格】生成《清明上河图》中的局部图像<br />- 3D风格<br />- 3D微缩风格<br />- 3D Q版风格<br />- 写实风格<br />- 迪斯尼动画风格<br />- 皮克斯动画风格<br />- 吉卜力工作室风格",
+        "processed": "Let AI redraw the 'Along the River During the Qingming Festival' in different styles<br />Tool: GPT-4o<br />Prompt: Generate partial images from 'Along the River During the Qingming Festival' using [XXX style]<br />- 3D style<br />- 3D miniature style<br />- 3D chibi style<br />- Realistic style<br />- Disney animation style<br />- Pixar animation style<br />- Studio Ghibli style",
+        "refined_with_url": "Let AI redraw the 'Along the River During the Qingming Festival' in different styles. Tool: GPT-4o Prompt: Generate partial images from 'Along the River During the Qingming Festival' using XXX style: - 3D style - 3D miniature style - 3D chibi style - Realistic style - Disney animation style - Pixar animation style - Studio Ghibli style https://weibo.cn/status/12345"
     }
 }
