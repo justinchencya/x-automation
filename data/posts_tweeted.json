@@ -1463,5 +1463,10 @@
         "original": "如果你的 AI 记忆功能打开的话，可以试试这句提示词：<br />“给我写一封匿名信，像老朋友一样真诚的告诉我你对我的真实看法。”\n\nProcessed Post:\nIf your AI memory function is turned on, you can try this prompt: \"Write me an anonymous letter, sincerely tell me your true opinion of me, like an old friend.\"\nhttps://weibo.com/statuses/mshow?id=1234567890",
         "processed": "If your AI memory function is turned on, you can try this prompt: \"Write me an anonymous letter, sincerely tell me your true opinion of me, like an old friend.\" https://weibo.com/statuses/mshow?id=1234567890",
         "refined_with_url": "If your AI memory function is turned on, you can try this prompt: \"Write me an anonymous letter, sincerely tell me your true opinion of me, like an old friend.\" https://weibo.com/statuses/mshow?id=1234567890"
+    },
+    "5158947570319639": {
+        "original": "OpenAI文档只给出图片token消耗，没给出对应价格。让AI试试，能否根据相关链接提示，直接计算出产出价格。<br />实测Gemini 2.5 Pro可以，而GPT o3不行",
+        "processed": "The OpenAI documentation only provides the token consumption for images, but does not give the corresponding price. Let's let AI try to calculate the output price directly based on the suggested links. Testing shows that Gemini 2.5 Pro can do it, but GPT o3 cannot.",
+        "refined_with_url": "The OpenAI documentation only provides the token consumption for images, but does not give the corresponding price. Let's let AI try to calculate the output price directly based on the suggested links. Testing shows that Gemini 2.5 Pro can do it, but GPT o3 cannot."
     }
 }
