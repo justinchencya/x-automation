@@ -1508,5 +1508,10 @@
         "original": "如果你的AI打开记忆功能，试试问它（最好是有推理能力的模型例如o3）：<br />告诉我一件你注意到的、非常特别或独一无二，但我自己还未察觉到的关于我的事情。",
         "processed": "If your AI has memory functions activated, try asking it (preferably a model with reasoning capabilities like o3): Tell me something you have noticed that is very special or unique about me, but which I have not yet realized myself. abc123",
         "refined_with_url": "If your AI has memory functions activated, try asking it (preferably a model with reasoning capabilities like o3): Tell me something you have noticed that is very special or unique about me, but which I have not yet realized myself. abc123"
+    },
+    "5159364667376716": {
+        "original": "中科大等放出的一款视频画面增强模型：Ev-DeblurVSR，核心两个功能，去模糊和超分辨率，效果看起来还不错<br /><br />去模糊，可以把运动模糊、手抖等导致的模糊视频变清晰<br />超分辨率，可以把视频放大4倍，能保持清晰度<br /><br />用来做体育赛事等快速运动画面的清晰化、老旧视频的修复还是不错的<br /><br />github： ...<a href=\"/status/5159364667376716\">全文</a>",
+        "processed": "The University of Science and Technology of China and others have released a video enhancement model: Ev-DeblurVSR, with two core functions: deblurring and super-resolution. The results look pretty good. Deblurring can clear up videos blurred by motion blur or shaking. Super-resolution can enlarge videos by 4 times while maintaining clarity. It is quite good for enhancing clarity in sports events or repairing old videos. GitHub: ... weibo.com/status/5159364667376716",
+        "refined_with_url": "The University of Science and Technology of China and others have released a video enhancement model: Ev-DeblurVSR, with two core functions: deblurring and super-resolution. The results look pretty good. Deblurring can clear up videos blurred by motion blur or shaking. Super-resolution can enlarge videos by 4 times while maintaining clarity. It is quite good for enhancing clarity in sports events or repairing old videos. GitHub: ... https://weibo.com/status/5159364667376716"
     }
 }
