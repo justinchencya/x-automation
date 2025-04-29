@@ -1523,5 +1523,10 @@
         "original": "NVIDA Overlay不知道为啥多了右上角这四个家伙，只好到NVIDA app设置里把它关了",
         "processed": "I don't know why the NVIDIA Overlay suddenly has these four guys in the upper right corner, so I had to go to the NVIDIA app settings to turn it off. detail/47685",
         "refined_with_url": "I don't know why the NVIDIA Overlay suddenly has these four guys in the upper right corner, so I had to go to the NVIDIA app settings to turn it off. detail/47685"
+    },
+    "5160266192650709": {
+        "original": "An open-source employee compensation and equity management system, seems it can also manage remote work.\nWebsite: [Link](https://flexile.com) (Image 1)\nRepository: github.com/antiwork/flexile\n\nImage 2 shows Deep Wiki answering \"what is the use of this project\" [Link](https://deepwiki.com/search/_a4fb1d2c-0416-4c15-a79d-76c859d0ec1b)",
+        "processed": "An open-source employee compensation and equity management system, it seems it can also manage remote work. Website: https://flexile.com (Image 1)\nRepository: github.com/antiwork/flexile\n\nImage 2 shows Deep Wiki answering \"what is the use of this project\" https://deepwiki.com/search/_a4fb1d2c-0416-4c15-a79d-76c859d0ec1b",
+        "refined_with_url": "An open-source employee compensation and equity management system, it seems it can also manage remote work. Website: https://flexile.com (Image 1)\nRepository: github.com/antiwork/flexile\n\nImage 2 shows Deep Wiki answering \"what is the use of this project\" https://deepwiki.com/search/_a4fb1d2c-0416-4c15-a79d-76c859d0ec1b"
     }
 }
