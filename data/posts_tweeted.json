@@ -1558,5 +1558,10 @@
         "original": "Qwen3 非常详细有料的测评，也期待博主创建的模型竞技场 <span class=\"url-icon\"><img alt=[good] src=\"https://h5.sinaimg.cn/m/emoticon/icon/others/h_good-0c51afc69c.png\" style=\"width:1em; height:1em;\" /></span>",
         "processed": "Qwen3 has a very detailed and informative review, and we're also looking forward to the model arena created by the blogger. https://h5.sinaimg.cn/m/emoticon/icon/others/h_good-0c51afc69c.png",
         "refined_with_url": "Qwen3 has a very detailed and informative review, and we're also looking forward to the model arena created by the blogger. https://h5.sinaimg.cn/m/emoticon/icon/others/h_good-0c51afc69c.png"
+    },
+    "5161832085720372": {
+        "original": "看来 Claude 还是程序员的最爱",
+        "processed": "It seems that Claude is still the programmers' favorite.",
+        "refined_with_url": "It seems that Claude is still the programmers' favorite."
     }
 }
