@@ -1593,5 +1593,10 @@
         "original": "好例子，LLM只是个司机，记住了爱因斯坦的演讲，但真去回答专业高深的问题就代替不了爱因斯坦专业人士，但能借助外部“工具”",
         "processed": "A good example: An LLM is just a driver. It has memorized Einstein's speeches, but when it comes to answering truly profound professional questions, it cannot replace experts like Einstein. However, it can leverage external \"tools.\" status/EoP1qo9ymE",
         "refined_with_url": "A good example: An LLM is just a driver. It has memorized Einstein's speeches, but when it comes to answering truly profound professional questions, it cannot replace experts like Einstein. However, it can leverage external \"tools.\" https://status/EoP1qo9ymE"
+    },
+    "5162545354643682": {
+        "original": "当房间里有一个钟，你很清楚现在几点了，当挂了两三个钟时间还不一样，你就要犯迷糊了！ 所以用 AI，什么任务你就用这个任务上最强的模型去做就够了。当然如果这个任务你是专业的是没问题的，因为你能分辨好坏，但不专业的话多个 AI 你反而会犯迷糊！",
+        "processed": "When there is a clock in the room, you know exactly what time it is, but when there are two or three clocks showing different times, you’ll get confused! So, with AI, you should just use the best model for the task at hand. Of course, if you are a professional at this task, it’s not a problem because you can distinguish between good and bad, but if you're not, having multiple AIs will only confuse you! somepath",
+        "refined_with_url": "When there is a clock in the room, you know exactly what time it is, but when there are two or three clocks showing different times, you’ll get confused! So, with AI, you should just use the best model for the task at hand. Of course, if you are a professional at this task, it’s not a problem because you can distinguish between good and bad, but if you're not, having multiple AIs will only confuse you!"
     }
 }
