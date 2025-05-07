@@ -1643,5 +1643,10 @@
         "original": "Agent S2 是一个开源代理框架，旨在通过代理与计算机进行交互，使计算机能够像人类一样使用计算机。该框架特别是为了构建能够从过去经验中学习并在计算机上自主执行复杂任务的智能 GUI 代理。 #AI创造营# 地址: 网页链接",
         "processed": "Agent S2 is an open-source agent framework designed to interact with computers through agents, enabling them to use computers like humans. This framework is specifically for building intelligent GUI agents that can learn from past experiences and autonomously perform complex tasks on computers. Address: Web link https://github.com/simular-ai/Agent-S",
         "refined_with_url": "Agent S2 is an open-source agent framework designed to interact with computers through agents, enabling them to use computers like humans. This framework is specifically for building intelligent GUI agents that can learn from past experiences and autonomously perform complex tasks on computers. Address: https://github.com/simular-ai/Agent-S"
+    },
+    "5163366936482625": {
+        "original": "gemini 的 deep research 可以生成英文的“音频概览”，类似NotebookLM以前的生成播客功能，不过中文是不行的。 <a href=\"https://video.weibo.com/show?fid=1034:5163366550011924\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">黄健楸的微博视频</span></a>",
+        "processed": "Gemini's deep research can generate English \"audio overviews\", similar to NotebookLM's previous podcast generation feature, but it doesn't work for Chinese. show?fid=1034:5163366550011924",
+        "refined_with_url": "Gemini's deep research can generate English \"audio overviews\", similar to NotebookLM's previous podcast generation feature, but it doesn't work for Chinese. https://video.weibo.com/show?fid=1034:5163366550011924"
     }
 }
