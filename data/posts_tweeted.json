@@ -1653,5 +1653,10 @@
         "original": "Gemini-2.5-Pro-preview-05-06<br /><br />🔗aistudio.google.com 🔗",
         "processed": "Gemini-2.5-Pro preview 05-06 aistudio.google.com",
         "refined_with_url": "Gemini-2.5-Pro preview 05-06 aistudio.google.com"
+    },
+    "5163662916195156": {
+        "original": "斯坦福大学官方AI课程：NLP+深度神经网络+Transformer  <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> ",
+        "processed": "Stanford University's official AI course: NLP + deep neural networks + Transformer\n\nLink: \n    https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4",
+        "refined_with_url": "Stanford University's official AI course: NLP + deep neural networks + Transformer\n\nhttps://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4"
     }
 }
