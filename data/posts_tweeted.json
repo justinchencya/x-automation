@@ -1648,5 +1648,10 @@
         "original": "gemini 的 deep research 可以生成英文的“音频概览”，类似NotebookLM以前的生成播客功能，不过中文是不行的。 <a href=\"https://video.weibo.com/show?fid=1034:5163366550011924\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">黄健楸的微博视频</span></a>",
         "processed": "Gemini's deep research can generate English \"audio overviews\", similar to NotebookLM's previous podcast generation feature, but it doesn't work for Chinese. show?fid=1034:5163366550011924",
         "refined_with_url": "Gemini's deep research can generate English \"audio overviews\", similar to NotebookLM's previous podcast generation feature, but it doesn't work for Chinese. https://video.weibo.com/show?fid=1034:5163366550011924"
+    },
+    "5163670947234483": {
+        "original": "Gemini-2.5-Pro-preview-05-06<br /><br />🔗aistudio.google.com 🔗",
+        "processed": "Gemini-2.5-Pro preview 05-06 aistudio.google.com",
+        "refined_with_url": "Gemini-2.5-Pro preview 05-06 aistudio.google.com"
     }
 }
