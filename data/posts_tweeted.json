@@ -1673,5 +1673,10 @@
         "original": "在搭建本地 RAG 知识库场景下，同等算力和内存资源条件下，16b q8 量化模型通常在知识覆盖、推理和综合能力方面优于 8b fp16 模型，因此更适合需要丰富知识和复杂推理的任务",
         "processed": "In setting up a local RAG knowledge base scenario, under the same computing power and memory resources, the 16b q8 quantized model usually outperforms the 8b fp16 model in terms of knowledge coverage, inference, and comprehensive capabilities, making it more suitable for tasks that require rich knowledge and complex inference.",
         "refined_with_url": "In setting up a local RAG knowledge base scenario, under the same computing power and memory resources, the 16b q8 quantized model usually outperforms the 8b fp16 model in terms of knowledge coverage, inference, and comprehensive capabilities, making it more suitable for tasks that require rich knowledge and complex inference."
+    },
+    "5163784844345950": {
+        "original": "AI 视频图文创作助手，一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fhanshuaikang%2FAI-Media2Doc\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "AI video and text creation assistant, transform video and audio into various styles of documents such as Xiaohongshu/public account/knowledge notes/mind maps with one click. Address: \nhttps://github.com/hanshuaikang/AI-Media2Doc",
+        "refined_with_url": "AI video and text creation assistant, transform video and audio into various styles of documents such as Xiaohongshu, public account, knowledge notes, mind maps with one click. Address: https://github.com/hanshuaikang/AI-Media2Doc"
     }
 }
