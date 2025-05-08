@@ -1668,5 +1668,10 @@
         "original": "如果你是学生的话，Cursor 送一年免费的 Pro<br />cursor.com/en/students <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.cursor.com%2Fen%2Fstudents\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "If you are a student, Cursor offers one year of free Pro.\ncursor.com/en/students\nhttps://www.cursor.com/en/students",
         "refined_with_url": "If you are a student, Cursor offers one year of free Pro. https://www.cursor.com/en/students"
+    },
+    "5163717613849301": {
+        "original": "在搭建本地 RAG 知识库场景下，同等算力和内存资源条件下，16b q8 量化模型通常在知识覆盖、推理和综合能力方面优于 8b fp16 模型，因此更适合需要丰富知识和复杂推理的任务",
+        "processed": "In setting up a local RAG knowledge base scenario, under the same computing power and memory resources, the 16b q8 quantized model usually outperforms the 8b fp16 model in terms of knowledge coverage, inference, and comprehensive capabilities, making it more suitable for tasks that require rich knowledge and complex inference.",
+        "refined_with_url": "In setting up a local RAG knowledge base scenario, under the same computing power and memory resources, the 16b q8 quantized model usually outperforms the 8b fp16 model in terms of knowledge coverage, inference, and comprehensive capabilities, making it more suitable for tasks that require rich knowledge and complex inference."
     }
 }
