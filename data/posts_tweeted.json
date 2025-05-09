@@ -1698,5 +1698,10 @@
         "original": "Umi-OCR 是一个开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fhiroi-sora%2FUmi-OCR\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Umi-OCR is an open-source, free offline OCR software. It supports screenshot/batch image import, PDF document recognition, watermark/header-footer removal, scanning/generating QR codes. It has a built-in multilingual library. Address: https://github.com/hiroi-sora/Umi-OCR",
         "refined_with_url": "Umi-OCR is an open-source, free offline OCR software. It supports screenshot/batch image import, PDF document recognition, watermark/header-footer removal, scanning/generating QR codes. It has a built-in multilingual library. Address: https://github.com/hiroi-sora/Umi-OCR"
+    },
+    "5164053320698559": {
+        "original": "Youtube有自动音轨，可以为英语视频生成不同语言的配音，但目前不支持中文<br /><br />图二原文 <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fsupport.google.com%2Fyoutube%2Fanswer%2F15569972%3Fhl%3Dzh-Hans\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "YouTube has automatic tracks that can generate dubbing in different languages for English videos, but currently does not support Chinese.\n\nThe second image is the original text.\nhttps://support.google.com/youtube/answer/15569972",
+        "refined_with_url": "YouTube has automatic tracks that can generate dubbing in different languages for English videos, but currently does not support Chinese. The second image is the original text. https://support.google.com/youtube/answer/15569972"
     }
 }
