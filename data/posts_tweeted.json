@@ -1713,5 +1713,10 @@
         "original": "以前电台靠着开车的场景存活，但近几年各种播客层出不穷，而且“自助”可控。电台应该很不好过。<br />现在AI生成播客技术上已经可行，或许可以弄个性化的“早间新闻”",
         "processed": "In the past, radio stations survived by people listening while driving, but in recent years, many podcasts have emerged, and they are \"self-serve\" and controllable. Radio stations are likely struggling. Now, with AI-generated podcasts technologically feasible, it might be possible to create personalized \"morning news.\"",
         "refined_with_url": "In the past, radio stations survived by people listening while driving, but in recent years, many podcasts have emerged, and they are \"self-serve\" and controllable. Radio stations are likely struggling. Now, with AI-generated podcasts technologically feasible, it might be possible to create personalized \"morning news.\" https://m.weibo.cn/status/1234567890123456"
+    },
+    "5164324620861858": {
+        "original": "Chrome可以识别、选择、搜索图片PDF中的文字了<br /><br />图二谷歌图片翻译后得到图一",
+        "processed": "Chrome can now recognize, select, and search text in image PDFs. <br /><br />Image two is Google translated to get image one. somepost",
+        "refined_with_url": "Chrome can now recognize, select, and search text in image PDFs. Image two is Google translated to get image one. somepost"
     }
 }
