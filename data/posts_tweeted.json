@@ -1703,5 +1703,10 @@
         "original": "Youtube有自动音轨，可以为英语视频生成不同语言的配音，但目前不支持中文<br /><br />图二原文 <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fsupport.google.com%2Fyoutube%2Fanswer%2F15569972%3Fhl%3Dzh-Hans\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "YouTube has automatic tracks that can generate dubbing in different languages for English videos, but currently does not support Chinese.\n\nThe second image is the original text.\nhttps://support.google.com/youtube/answer/15569972",
         "refined_with_url": "YouTube has automatic tracks that can generate dubbing in different languages for English videos, but currently does not support Chinese. The second image is the original text. https://support.google.com/youtube/answer/15569972"
+    },
+    "5164344270655612": {
+        "original": "Midjourney V7",
+        "processed": "Midjourney V7 something",
+        "refined_with_url": "Midjourney V7 something"
     }
 }
