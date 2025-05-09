@@ -1708,5 +1708,10 @@
         "original": "Midjourney V7",
         "processed": "Midjourney V7 something",
         "refined_with_url": "Midjourney V7 something"
+    },
+    "5164423929662569": {
+        "original": "以前电台靠着开车的场景存活，但近几年各种播客层出不穷，而且“自助”可控。电台应该很不好过。<br />现在AI生成播客技术上已经可行，或许可以弄个性化的“早间新闻”",
+        "processed": "In the past, radio stations survived by people listening while driving, but in recent years, many podcasts have emerged, and they are \"self-serve\" and controllable. Radio stations are likely struggling. Now, with AI-generated podcasts technologically feasible, it might be possible to create personalized \"morning news.\"",
+        "refined_with_url": "In the past, radio stations survived by people listening while driving, but in recent years, many podcasts have emerged, and they are \"self-serve\" and controllable. Radio stations are likely struggling. Now, with AI-generated podcasts technologically feasible, it might be possible to create personalized \"morning news.\" https://m.weibo.cn/status/1234567890123456"
     }
 }
