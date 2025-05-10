@@ -1738,5 +1738,10 @@
         "original": "O'Reilly 图书 - \"Hands-On Large Language Models\"(动手实践大型语言模型) 的官方代码库 <a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FHandsOnLLM%2FHands-On-Large-Language-Models\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "O'Reilly book - \"Hands-On Large Language Models\" official code repository\n\nURL: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models\nhttps://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
         "refined_with_url": "O'Reilly book - \"Hands-On Large Language Models\" official code repository URL: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+    },
+    "5164853803357238": {
+        "original": "让GPT4o列出所有它能画的风格（图一，当然是不全的）",
+        "processed": "Let GPT4o list all the styles it can draw (Figure 1, of course it's not complete)\nsomepath",
+        "refined_with_url": "Let GPT4o list all the styles it can draw (Figure 1, of course it's not complete) somepath"
     }
 }
