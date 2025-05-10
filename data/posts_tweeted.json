@@ -1718,5 +1718,10 @@
         "original": "Chrome可以识别、选择、搜索图片PDF中的文字了<br /><br />图二谷歌图片翻译后得到图一",
         "processed": "Chrome can now recognize, select, and search text in image PDFs. <br /><br />Image two is Google translated to get image one. somepost",
         "refined_with_url": "Chrome can now recognize, select, and search text in image PDFs. Image two is Google translated to get image one. somepost"
+    },
+    "5164505664326372": {
+        "original": "ZeroSearch 是阿里巴巴开源的一个新颖的强化学习框架，它激励 LLMs 的搜索能力，而无需与真实搜索引擎交互。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FAlibaba-nlp%2FZeroSearch\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "ZeroSearch is a novel reinforcement learning framework open sourced by Alibaba that enhances the search capabilities of LLMs without the need to interact with real search engines. Address: https://github.com/Alibaba-nlp/ZeroSearch",
+        "refined_with_url": "ZeroSearch is a novel reinforcement learning framework open sourced by Alibaba that enhances the search capabilities of LLMs without the need to interact with real search engines. Address: https://github.com/Alibaba-nlp/ZeroSearch"
     }
 }
