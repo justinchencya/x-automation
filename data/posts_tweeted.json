@@ -1743,5 +1743,10 @@
         "original": "让GPT4o列出所有它能画的风格（图一，当然是不全的）",
         "processed": "Let GPT4o list all the styles it can draw (Figure 1, of course it's not complete)\nsomepath",
         "refined_with_url": "Let GPT4o list all the styles it can draw (Figure 1, of course it's not complete) somepath"
+    },
+    "5165089310903901": {
+        "original": "拼字幕，一键免费生成语录拼接 专为社交媒体运营设计 #AI创造营# 地址: 网页链接",
+        "processed": "Creating subtitles, generate quotes collage for free with one click. Designed specifically for social media operations. Address: Web link https://quotemaker.cc/",
+        "refined_with_url": "Creating subtitles, generate quotes collage for free with one click. Designed specifically for social media operations. Address: https://quotemaker.cc/"
     }
 }
