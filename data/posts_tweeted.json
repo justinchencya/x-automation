@@ -1758,5 +1758,10 @@
         "original": "模型竞争看似越来越激烈，用的最多的还是 OpenAI 的模型！<span class=\"url-icon\"><img alt=[笑cry] src=\"https://h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-f2bd11b506.png\" style=\"width:1em; height:1em;\" /></span>",
         "processed": "The competition between models seems to be getting fiercer, but OpenAI's models are still used the most!\nhttps://h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-f2bd11b506.png",
         "refined_with_url": "The competition between models seems to be getting fiercer, but OpenAI's models are still used the most! https://h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-f2bd11b506.png"
+    },
+    "5164848226501335": {
+        "original": "同一提示词下，三种模型分别画的武松打虎，泼墨画风。",
+        "processed": "Under the same prompt, three models each painted Wu Song fighting the tiger in an ink splash style. u/123456",
+        "refined_with_url": "Under the same prompt, three models each painted Wu Song fighting the tiger in an ink splash style."
     }
 }
