@@ -1753,5 +1753,10 @@
         "original": "很好的AI能做什么总结👍",
         "processed": "Very good summary of what AI can do 👍 comments/hotflow?id=4764033497036603&mid=4764033497036603&max_id_type=0",
         "refined_with_url": "Very good summary of what AI can do 👍 https://example.com/comments/hotflow?id=4764033497036603&mid=4764033497036603&max_id_type=0"
+    },
+    "5165223985021828": {
+        "original": "模型竞争看似越来越激烈，用的最多的还是 OpenAI 的模型！<span class=\"url-icon\"><img alt=[笑cry] src=\"https://h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-f2bd11b506.png\" style=\"width:1em; height:1em;\" /></span>",
+        "processed": "The competition between models seems to be getting fiercer, but OpenAI's models are still used the most!\nhttps://h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-f2bd11b506.png",
+        "refined_with_url": "The competition between models seems to be getting fiercer, but OpenAI's models are still used the most! https://h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-f2bd11b506.png"
     }
 }
