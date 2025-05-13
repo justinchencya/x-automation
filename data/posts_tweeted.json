@@ -1773,5 +1773,10 @@
         "original": "让4o同时画不同风格的猫，同时列出风格名跟猫 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a>",
         "processed": "Have 4o simultaneously draw cats in different styles, and list the style names with the cats. search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23",
         "refined_with_url": "Have 4o simultaneously draw cats in different styles and list the style names with the cats. https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23"
+    },
+    "5165828124181947": {
+        "original": "tldr是一个协作式的控制台命令速查表项目，旨于帮助用户快速了解和学习控制台命令的使用。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Ftldr-pages%2Ftldr\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "tldr is a collaborative console command quick reference project, designed to help users quickly understand and learn the use of console commands. Address: Web link\nhttps://github.com/tldr-pages/tldr",
+        "refined_with_url": "tldr is a collaborative console command quick reference project, designed to help users quickly understand and learn the use of console commands. Address: https://github.com/tldr-pages/tldr"
     }
 }
