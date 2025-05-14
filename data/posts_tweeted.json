@@ -1818,5 +1818,10 @@
         "original": "Mermaid AI Diagram Generator 是一个基于人工智能的图表生成器，用于创建流程图、序列图等。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FhellangleZ%2FMermaid-AI-Diagram-Generator\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Mermaid AI Diagram Generator is an AI-based chart generator for creating flowcharts, sequence diagrams, etc. Address: https://github.com/hellangleZ/Mermaid-AI-Diagram-Generator",
         "refined_with_url": "Mermaid AI Diagram Generator is an AI-based chart generator for creating flowcharts, sequence diagrams, etc. Address: https://github.com/hellangleZ/Mermaid-AI-Diagram-Generator"
+    },
+    "5165602587286092": {
+        "original": "Qwen3的量化版出来了！可以通过Ollama、LM Studio、SGLang、vLLM部署模型：网页链接#Qwen3#",
+        "processed": "The quantized version of Qwen3 is out! It can be deployed via Ollama, LM Studio, SGLang, vLLM. Model: Web link https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f",
+        "refined_with_url": "The quantized version of Qwen3 is out! It can be deployed via Ollama, LM Studio, SGLang, and vLLM. Model: https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f"
     }
 }
