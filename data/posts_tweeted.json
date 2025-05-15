@@ -1823,5 +1823,10 @@
         "original": "Qwen3的量化版出来了！可以通过Ollama、LM Studio、SGLang、vLLM部署模型：网页链接#Qwen3#",
         "processed": "The quantized version of Qwen3 is out! It can be deployed via Ollama, LM Studio, SGLang, vLLM. Model: Web link https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f",
         "refined_with_url": "The quantized version of Qwen3 is out! It can be deployed via Ollama, LM Studio, SGLang, and vLLM. Model: https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f"
+    },
+    "5166557300002116": {
+        "original": "一款免费 AI 代码审查工具：CodeRabbit。目前支持 VS Code、Cursor、Windsurf 等主流 IDE！无需离开开发环境，即可享受高级工程师级别的 AI 代码审查服务 [耶]，自动检测代码中的逻辑错误、代码异常和遗漏的单元测试，支持多种主流编程语言，还能一键修复问题，可以免费使用！<br /><br />下载地址： ...<a href=\"/status/5166557300002116\">全文</a>",
+        "processed": "A free AI code review tool: CodeRabbit. It currently supports mainstream IDEs like VS Code, Cursor, and Windsurf! You can enjoy senior engineer-level AI code review services without leaving the development environment [Yeah]. It automatically detects logical errors, code anomalies, and missing unit tests in the code, supports various mainstream programming languages, and can fix problems with one click, available for free!\n/status/5166557300002116",
+        "refined_with_url": "A free AI code review tool: CodeRabbit. It currently supports mainstream IDEs like VS Code, Cursor, and Windsurf! You can enjoy senior engineer-level AI code review services without leaving the development environment. It automatically detects logical errors, code anomalies, and missing unit tests in the code, supports various mainstream programming languages, and can fix problems with one click, available for free! Full text: /status/5166557300002116"
     }
 }
