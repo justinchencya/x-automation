@@ -1833,5 +1833,10 @@
         "original": "DeerFlow是字节跳动开源的深度研究框架，将语言模型与专业工具（如网络搜索、爬虫和 Python 代码执行）相结合。<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fbytedance%2Fdeer-flow%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> <a  href=\"https://video.weibo.com/show?fid=1034:5166624014008365\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林亦LYi的微博视频</span></a>",
         "processed": "DeerFlow is ByteDance's open-source deep research framework, combining language models with professional tools such as web search, web crawlers, and Python code execution.\n\nAddress:\n    1034:5166624014008365",
         "refined_with_url": "DeerFlow is ByteDance's open-source deep research framework, combining language models with professional tools such as web search, web crawlers, and Python code execution.\n\nAddress: https://github.com/bytedance/deer-flow/ https://video.weibo.com/show?fid=1034:5166624014008365"
+    },
+    "5166291318475840": {
+        "original": "这份美式简历帮你更快拿offer！#职场##打工人##简历模板##留学申请##AI新手村##人工智能##应届生简历##大学生求职##应届生求职##美国大学##offer##简历优化##留学文书##找工作##AI创造营# 林亦LYi的微博视频",
+        "processed": "This American-style resume helps you get offers faster! Lin Yi LYi's Weibo Video show?fid=1034:5166290210586674",
+        "refined_with_url": "This American-style resume helps you get offers faster! Lin Yi LYi's Weibo Video show?fid=1034:5166290210586674"
     }
 }
