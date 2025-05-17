@@ -1863,5 +1863,10 @@
         "original": "谷歌：让AI写出好SQL <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%A8%8B%E5%BA%8F%23&isnewpage=1\" data-hide=\"\"><span class=\"surl-text\">#程序#</span></a> <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fcloud.google.com%2Fblog%2Fproducts%2Fdatabases%2Ftechniques-for-improving-text-to-sql\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a><br /><br />分析了其中难点，以及尝试的解决方案，同时推销自家产品",
         "processed": "Google: Let AI write good SQL. It analyzed the difficulties and the attempted solutions, and promoted its own products.\nhttps://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql",
         "refined_with_url": "Google: Let AI write good SQL. It analyzed the difficulties and the attempted solutions, and promoted its own products. https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql"
+    },
+    "5166883704930530": {
+        "original": "Grok公开系统提示词",
+        "processed": "Grok public system prompt words somepath",
+        "refined_with_url": "Grok public system prompt words somepath"
     }
 }
