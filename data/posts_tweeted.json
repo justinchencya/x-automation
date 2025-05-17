@@ -1868,5 +1868,10 @@
         "original": "Grok公开系统提示词",
         "processed": "Grok public system prompt words somepath",
         "refined_with_url": "Grok public system prompt words somepath"
+    },
+    "5167380796018107": {
+        "original": "乳腺癌能预测了，提前五年知道！<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B9%B3%E8%85%BA%E7%99%8C%23&isnewpage=1\" data-hide=\"\"><span class=\"surl-text\">#乳腺癌#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A2%84%E6%B5%8B%E7%99%8C%E7%97%87%23\" data-hide=\"\"><span class=\"surl-text\">#预测癌症#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%B7%A5%E5%85%B7%23&extparam=%23ai%E5%B7%A5%E5%85%B7%23\" data-hide=\"\"><span class=\"surl-text\">#ai工具#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%23&isnewpage=1\" data-hide=\"\"><span class=\"surl-text\">#麻省理工#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%81%A5%E5%BA%B7%23&isnewpage=1\" data-hide=\"\"><span class=\"surl-text\">#健康#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <a  href=\"https://video.weibo.com/show?fid=1034:5167379999817855\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林亦LYi的微博视频</span></a>",
+        "processed": "Breast cancer can now be predicted, and you can know five years in advance! 林亦LYi's Weibo video /show?fid=1034:5167379999817855",
+        "refined_with_url": "Breast cancer can now be predicted, and you can know five years in advance! 林亦LYi's Weibo video https://video.weibo.com/show?fid=1034:5167379999817855"
     }
 }
