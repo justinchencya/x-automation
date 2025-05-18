@@ -1878,5 +1878,10 @@
         "original": "AI Runner 是一个开源的桌面应用程序，使用 HuggingFace 和 Llama-index 库，可以本地运行文本、图像、文本转语音和语音转文本的 AI 模型。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FCapsize-Games%2Fairunner\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "AI Runner is an open-source desktop application that uses the HuggingFace and Llama-index libraries to run AI models locally for text, image, text-to-speech, and speech-to-text processing.\nhttps://github.com/Capsize-Games/airunner",
         "refined_with_url": "AI Runner is an open-source desktop application that uses the HuggingFace and Llama-index libraries to run AI models locally for text, image, text-to-speech, and speech-to-text processing. https://github.com/Capsize-Games/airunner"
+    },
+    "5167161922289802": {
+        "original": "我的 Codex 能用了，要去深度体验一下，晚点给大家分享一下体验结果",
+        "processed": "My Codex is now working. I'm going to deeply experience it and share the results with everyone later. abc",
+        "refined_with_url": "My Codex is now working. I'm going to deeply experience it and share the results with everyone later."
     }
 }
