@@ -1883,5 +1883,10 @@
         "original": "我的 Codex 能用了，要去深度体验一下，晚点给大家分享一下体验结果",
         "processed": "My Codex is now working. I'm going to deeply experience it and share the results with everyone later. abc",
         "refined_with_url": "My Codex is now working. I'm going to deeply experience it and share the results with everyone later."
+    },
+    "5167632065496483": {
+        "original": "TEN VAD 是一个低延迟、轻量级且高性能的流式语音活动检测系统，用于企业级应用，提供高精度的帧级别语音活动检测。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Ften-framework%2Ften-vad\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
+        "processed": "TEN VAD is a low-latency, lightweight, and high-performance streaming voice activity detection system for enterprise applications, providing high-precision frame-level voice activity detection. Address: Web link https://github.com/ten-framework/ten-vad",
+        "refined_with_url": "TEN VAD is a low-latency, lightweight, and high-performance streaming voice activity detection system for enterprise applications, providing high-precision frame-level voice activity detection. Address: https://github.com/ten-framework/ten-vad"
     }
 }
