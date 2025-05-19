@@ -1888,5 +1888,10 @@
         "original": "TEN VAD 是一个低延迟、轻量级且高性能的流式语音活动检测系统，用于企业级应用，提供高精度的帧级别语音活动检测。<a href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#AI创造营#</span></a> <br /><br />地址: <a href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Ften-framework%2Ften-vad\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "TEN VAD is a low-latency, lightweight, and high-performance streaming voice activity detection system for enterprise applications, providing high-precision frame-level voice activity detection. Address: Web link https://github.com/ten-framework/ten-vad",
         "refined_with_url": "TEN VAD is a low-latency, lightweight, and high-performance streaming voice activity detection system for enterprise applications, providing high-precision frame-level voice activity detection. Address: https://github.com/ten-framework/ten-vad"
+    },
+    "5166988482838950": {
+        "original": "春晚同款机器人在实验室失控了。 [多段链接] #宇树机器人# #终结者# #仿生人# #奥创# #AI# #科技# #AI创造营# 林亦LYi的微博视频",
+        "processed": "The same robot as the Spring Festival Gala went out of control in the laboratory. Lin Yi LYi's Weibo video. show?fid=1034:5166986938744905",
+        "refined_with_url": "The same robot as the Spring Festival Gala went out of control in the laboratory. Lin Yi LYi's Weibo video: [show?fid=1034:5166986938744905](show?fid=1034:5166986938744905)"
     }
 }
