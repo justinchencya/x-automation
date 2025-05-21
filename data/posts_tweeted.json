@@ -1928,5 +1928,10 @@
         "original": "OpenAI Codex 云端版完整评测，不堪大用但未来可期：<a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRZo9fu20m4OYwT9MN7f0MA\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">OpenAI Codex 云端版完整评测，不堪大用但未来可期</span></a>",
         "processed": "OpenAI Codex cloud version full review, not very useful but promising for the future: https://mp.weixin.qq.com/s/RZo9fu20m4OYwT9MN7f0MA",
         "refined_with_url": "OpenAI Codex cloud version full review, not very useful but promising for the future: https://mp.weixin.qq.com/s/RZo9fu20m4OYwT9MN7f0MA"
+    },
+    "5168656548889362": {
+        "original": "谷歌文生图模型Imagen升级，支持中文（图三）。虽然在ImageFx（图一）跟Gemini（图二）都能用。<br />Gemini貌似会自己优化提示词，能要求改图，但效果不理想（图四），另外图片右下角还有明水印<br /><br />ImageFx 🔗 labs.google/fx/tools/image-fx 🔗",
+        "processed": "Google's text-to-image model, Imagen, has been upgraded to support Chinese (see image 3). Although it can be used in both ImageFx (image 1) and Gemini (image 2). Gemini seems to optimize prompt words by itself and can request image modifications, but the effect is not ideal (image 4), and there is a visible watermark at the lower right corner of the image. ImageFx 🔗 labs.google/fx/tools/image-fx 🔗 labs.google/fx/tools/image-fx",
+        "refined_with_url": "Google's text-to-image model, Imagen, has been upgraded to support Chinese (see image 3). It can be used in both ImageFx (image 1) and Gemini (image 2). Gemini seems to optimize prompt words by itself and can request image modifications, but the effect is not ideal (image 4), and there is a visible watermark at the lower right corner of the image. Visit labs.google/fx/tools/image-fx for more information."
     }
 }
