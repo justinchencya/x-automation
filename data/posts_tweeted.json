@@ -2008,5 +2008,10 @@
         "original": "Anthropic的Claude 4来了，发布了两个：Claude Opus 4和Claude Sonnet 4！<br /><br />Claude Opus 4，专注于编程和智能体任务<br />Claude Sonnet 4，编程领域先进模型<br />两个模型都具备普通和扩展思考模式<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Claudeopus4%23&extparam=%23Claudeopus4%23\" data-hide=\"\"><span class=\"surl-text\">#Claudeopus4#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23claudesonnet4%23&extparam=%23claudesonnet4%23\" data-hide=\"\"><span class=\"surl-text\">#claudesonnet4#</span></a>",
         "processed": "Anthropic's Claude 4 is here, releasing two models: Claude Opus 4 and Claude Sonnet 4!\n\nClaude Opus 4, focusing on programming and agent tasks\nClaude Sonnet 4, an advanced model in the programming field\nBoth models feature regular and extended thinking modes\n    search?containerid=231522type%3D1%26t%3D10%26q%3D%23Claudeopus4%23",
         "refined_with_url": "Anthropic's Claude 4 is here, releasing two models: Claude Opus 4 and Claude Sonnet 4!\n\nClaude Opus 4 focuses on programming and agent tasks.\nClaude Sonnet 4 is an advanced model in the programming field.\nBoth models feature regular and extended thinking modes.\n\nhttps://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Claudeopus4%23&extparam=%23Claudeopus4%23\nhttps://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23claudesonnet4%23&extparam=%23claudesonnet4%23"
+    },
+    "5169271500964281": {
+        "original": "Cursor中已能用！ 据说与3.7相比，更容易控制，在理解代码库方面表现出色",
+        "processed": "Cursor can already be used! It is said that compared to 3.7, it is easier to control and performs well in understanding codebases.",
+        "refined_with_url": "Cursor can already be used! It is said that compared to 3.7, it is easier to control and performs well in understanding codebases."
     }
 }
