@@ -2103,5 +2103,10 @@
         "original": "模型地址：<a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fhuggingface.co%2Fdeepseek-ai%2FDeepSeek-R1-0528%2Ftree%2Fmain\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Model URL: https://huggingface.co/deepseek-ai/DeepSeek-R1-0528/tree/main",
         "refined_with_url": "Model URL: https://huggingface.co/deepseek-ai/DeepSeek-R1-0528/tree/main"
+    },
+    "5171354316832819": {
+        "original": "听说DeepSeek R1有小版本更新，试了下貌似Emoji变多了…“知识库更新到 2024年7月”",
+        "processed": "I heard DeepSeek R1 has a minor version update. I tried it out and it seems there are more emojis... \"Knowledge base updated to July 2024\"\nstatus/1234567890",
+        "refined_with_url": "I heard DeepSeek R1 has a minor version update. I tried it out and it seems there are more emojis... \"Knowledge base updated to July 2024\" status/1234567890"
     }
 }
