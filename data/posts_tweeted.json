@@ -2093,5 +2093,10 @@
         "original": "FixO Dev 是一个开源工具，它使用 AI 技术来帮助开发者快速生成 PR 所需的代码，并自动修复可能出现的问题。该工具旨在简化和加速开发者在软件开发过程中的工作流程，特别是在处理 GitHub 项目时的应用。它通过减少手动编辑代码的需要，提高了开发效率。#AI创造营#  \n\n地址: 网页链接\n\n",
         "processed": "FixO Dev is an open-source tool that uses AI technology to help developers quickly generate the code needed for PRs and automatically fix possible issues. This tool aims to simplify and accelerate developers' workflows in the software development process, especially when working with GitHub projects. It improves development efficiency by reducing the need for manual code editing.\n\nLink: Web link\nhttps://github.com/epavanello/fixodev\n---\n",
         "refined_with_url": "FixO Dev is an open-source tool that uses AI technology to help developers quickly generate the code needed for PRs and automatically fix possible issues. This tool aims to simplify and accelerate developers' workflows in the software development process, especially when working with GitHub projects. It improves development efficiency by reducing the need for manual code editing.\n\nLink: https://github.com/epavanello/fixodev"
+    },
+    "5171319563096380": {
+        "original": "最近 Gemini 的 Deep Research 偶尔会出现研究失败了",
+        "processed": "Recently, Gemini's Deep Research occasionally fails.",
+        "refined_with_url": "Recently, Gemini's Deep Research occasionally fails."
     }
 }
