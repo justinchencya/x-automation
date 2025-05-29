@@ -2108,5 +2108,10 @@
         "original": "听说DeepSeek R1有小版本更新，试了下貌似Emoji变多了…“知识库更新到 2024年7月”",
         "processed": "I heard DeepSeek R1 has a minor version update. I tried it out and it seems there are more emojis... \"Knowledge base updated to July 2024\"\nstatus/1234567890",
         "refined_with_url": "I heard DeepSeek R1 has a minor version update. I tried it out and it seems there are more emojis... \"Knowledge base updated to July 2024\" status/1234567890"
+    },
+    "5171224751377683": {
+        "original": "Google has launched the open-source model SignGemma for translating sign language into text and voice, and it will soon officially join the Gemma open-source model family. With the continuous improvement of the Gemini and Gemma models, Google seems to be entering a boom period in model applications!\n\nApplication for trial: \n\nZero Gravity Wali's Weibo Video \nhttps://docs.google.com/forms/d/1-eAGg0MHlmjVg71mPEHlQJ6ozwu-g8p3S2L_kOvUhYk/viewform, /show?fid=1034:5171223340974163",
+        "processed": "Google has launched the open-source model SignGemma for translating sign language into text and voice, and it will soon officially join the Gemma open-source model family. With the continuous improvement of the Gemini and Gemma models, Google seems to be entering a boom period in model applications!\n\nApplication for trial: https://docs.google.com/forms/d/1-eAGg0MHlmjVg71mPEHlQJ6ozwu-g8p3S2L_kOvUhYk/viewform\n\nZero Gravity Wali's Weibo Video: https://video.weibo.com/show?fid=1034:5171223340974163",
+        "refined_with_url": "Google has launched the open-source model SignGemma for translating sign language into text and voice, and it will soon officially join the Gemma open-source model family. With the continuous improvement of the Gemini and Gemma models, Google seems to be entering a boom period in model applications!\n\nApplication for trial: https://docs.google.com/forms/d/1-eAGg0MHlmjVg71mPEHlQJ6ozwu-g8p3S2L_kOvUhYk/viewform\n\nZero Gravity Wali's Weibo Video: https://video.weibo.com/show?fid=1034:5171223340974163"
     }
 }
