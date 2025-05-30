@@ -2133,5 +2133,10 @@
         "original": "DeepSeek放出了R1最新0528版本，在Live CodeBench中显示，性能可以媲美OpenAI最新的o3高版本",
         "processed": "DeepSeek has released the latest version 0528 of R1, and in the Live CodeBench it shows performance comparable to OpenAI's latest o3 high version\nu/123456789",
         "refined_with_url": "DeepSeek has released the latest version 0528 of R1, and in the Live CodeBench it shows performance comparable to OpenAI's latest o3 high version. URL: http://example.com"
+    },
+    "5171953595845390": {
+        "original": "这个对于 AI 内容比喻确实很准确：“作为听众和消费者，感觉好像是从以前吃家庭作坊养的鸡 (价格贵而质量参差不齐) 变成吃工业化农场生产的鸡 (价格便宜，质量有基本保证)”",
+        "processed": "This analogy for AI content is indeed very accurate: 'As an audience and consumer, it feels like going from eating chickens raised in family workshops (expensive and with varying quality) to eating chickens produced in industrial farms (cheap and with basic quality assurance).'",
+        "refined_with_url": "This analogy for AI content is indeed very accurate: 'As an audience and consumer, it feels like going from eating chickens raised in family workshops (expensive and with varying quality) to eating chickens produced in industrial farms (cheap and with basic quality assurance).'"
     }
 }
