@@ -2128,5 +2128,10 @@
         "original": "腾讯开源的 HunyuanVideo-Avatar 大模型实现语音驱动视频生成，可将图片转换为带音频和对口型的视频，只能说 AI 生成视频越来越真了。#AI创造营# <br /><br />地址: <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fhunyuanvideo-avatar.github.io%2F\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>",
         "processed": "Tencent's open-source HunyuanVideo-Avatar model enables voice-driven video generation, converting images into videos with audio and lip-syncing. I can only say that AI-generated videos are becoming increasingly realistic. Address: [web link] https://hunyuanvideo-avatar.github.io/",
         "refined_with_url": "Tencent's open-source HunyuanVideo-Avatar model enables voice-driven video generation, converting images into videos with audio and lip-syncing. I can only say that AI-generated videos are becoming increasingly realistic. Address: https://hunyuanvideo-avatar.github.io/"
+    },
+    "5171540039566307": {
+        "original": "DeepSeek放出了R1最新0528版本，在Live CodeBench中显示，性能可以媲美OpenAI最新的o3高版本",
+        "processed": "DeepSeek has released the latest version 0528 of R1, and in the Live CodeBench it shows performance comparable to OpenAI's latest o3 high version\nu/123456789",
+        "refined_with_url": "DeepSeek has released the latest version 0528 of R1, and in the Live CodeBench it shows performance comparable to OpenAI's latest o3 high version. URL: http://example.com"
     }
 }
