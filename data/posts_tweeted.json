@@ -2173,5 +2173,10 @@
         "original": "四个大学生做了个可以0.1秒解魔方的机器<a href=\"https://video.weibo.com/show?fid=1034:5172039716110382\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林亦LYi的微博视频</span></a>",
         "processed": "Four college students made a machine that can solve a Rubik's Cube in 0.1 seconds.\nshow?fid=1034:5172039716110382",
         "refined_with_url": "Four college students made a machine that can solve a Rubik's Cube in 0.1 seconds. [Watch the video here](https://video.weibo.com/show?fid=1034:5172039716110382)"
+    },
+    "5172682993962579": {
+        "original": "在Sora上看到一幅《百合虎》，Prompt是：<br /><br />UltraRealisticPhoto(3, Photo(0, Scene(tiger), 3, MadeEntirelyOutOf(lillies)))<br /><br />这肯定是程序员写的<br /><br />原画🔗 sora.chatgpt.com/g/gen_01jwjqmn3be889cfrxf43z6nzk 🔗 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ai%E5%88%9B%E9%80%A0%E8%90%A5%23\" data-hide=\"\"><span class=\"surl-text\">#ai创造营#</span></a>",
+        "processed": "I saw a picture titled 'Lily Tiger' on Sora, the prompt was:\n\nUltraRealisticPhoto(3, Photo(0, Scene(tiger), 3, MadeEntirelyOutOf(lillies)))\n\nThis must have been written by a programmer.\n\nOriginal artwork link: sora.chatgpt.com/g/gen_01jwjqmn3be889cfrxf43z6nzk\n    sora.chatgpt.com/g/gen_01jwjqmn3be889cfrxf43z6nzk",
+        "refined_with_url": "I saw a picture titled 'Lily Tiger' on Sora, the prompt was: UltraRealisticPhoto(3, Photo(0, Scene(tiger), 3, MadeEntirelyOutOf(lillies))) This must have been written by a programmer. Original artwork link: sora.chatgpt.com/g/gen_01jwjqmn3be889cfrxf43z6nzk "
     }
 }
