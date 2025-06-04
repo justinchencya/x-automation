@@ -2228,5 +2228,10 @@
         "original": "国产AI应用 Capwords 获得2025苹果设计大奖（视频详见 <a  href=\"https://weibo.com/6083767801/PuYVg35D1\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> ），它能从照片提取物品，然后制作单词卡片，同时交互赏心悦目。同时获这个奖的，还有无限暖暖、小丑牌等。",
         "processed": "The domestic AI application Capwords has won the 2025 Apple Design Award (video available at the link), it can extract items from photos and make word cards, while the interaction is pleasing. Also winning this award are Infinite Warmth and Joker Card. 6083767801/PuYVg35D1",
         "refined_with_url": "The domestic AI application Capwords has won the 2025 Apple Design Award (video available at https://weibo.com/6083767801/PuYVg35D1). It can extract items from photos and make word cards, while the interaction is pleasing. Also winning this award are Infinite Warmth and Joker Card."
+    },
+    "5173853802464878": {
+        "original": "课程越来越丰富了，微软、谷歌、OpenAI 都在布局开发者生态",
+        "processed": "Courses are becoming more diverse, Microsoft, Google, and OpenAI are all working on their developer ecosystems.\nsomeuser/status/1234567890123456",
+        "refined_with_url": "Courses are becoming more diverse, Microsoft, Google, and OpenAI are all working on their developer ecosystems. https://someuser/status/1234567890123456"
     }
 }
