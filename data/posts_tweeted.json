@@ -2233,5 +2233,10 @@
         "original": "课程越来越丰富了，微软、谷歌、OpenAI 都在布局开发者生态",
         "processed": "Courses are becoming more diverse, Microsoft, Google, and OpenAI are all working on their developer ecosystems.\nsomeuser/status/1234567890123456",
         "refined_with_url": "Courses are becoming more diverse, Microsoft, Google, and OpenAI are all working on their developer ecosystems. https://someuser/status/1234567890123456"
+    },
+    "5173849055562869": {
+        "original": "可能对接了DeepSeek（带深度思考过程）",
+        "processed": "Possibly integrated with DeepSeek (with deep thinking process) 123456abc",
+        "refined_with_url": "Possibly integrated with DeepSeek (with deep thinking process)"
     }
 }
